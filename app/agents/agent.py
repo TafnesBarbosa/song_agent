@@ -37,6 +37,7 @@ class GeminiClient:
         )
     
 def verse_picker(musica: dict):
+    parar = False
     try:
         with open(os.path.join(PROMPTS_PATH, 'verse_picker', 'syst_prompt.txt'), encoding='utf-8') as file:
             sys_instr = file.read()
@@ -67,18 +68,19 @@ def verse_picker(musica: dict):
 
         verses_sorted = sorted(verses, key=lambda x: x["score"], reverse=True)
 
-        return verses_sorted
+        return verses_sorted, parar
     except errors.ClientError as e:
         if e.code == 429:
             print('Atingiu limite diário de requisições')
-        return ['Erro ao escolher versículos.']
+        return ['Erro ao escolher versículos.'], True
     except Exception as e:
         print(f'Erro: {e}\n')
-        return ['Erro ao escolher versículos.']
+        return ['Erro ao escolher versículos.'], True
     
 def completar_song(song_json, lyric_json):
     not_fixed = 0
     not_fixed_all = 0
+    parar = False
     if 'verses' in song_json.keys():
         for verse in song_json['verses']:
             if isinstance(verse, dict):
@@ -89,14 +91,14 @@ def completar_song(song_json, lyric_json):
                     verse['conteudo'] = verse_right
             else:
                 if verse == 'Erro ao escolher versículos.':
-                    verses = verse_picker(lyric_json['song'])
+                    verses, parar = verse_picker(lyric_json['song'])
                     if verses == 'Erro ao escolher versículos.':
                         not_fixed_all += 1
                     song_json['verses'] = verses
 
         # print(f'Não consertados: {not_fixed} versos dentro; {not_fixed_all} erros de IA')
-        return song_json
+        return song_json, parar
     else:
-        verses = verse_picker(lyric_json['song'])
+        verses, parar = verse_picker(lyric_json['song'])
         song_json['verses'] = verses
-        return song_json
+        return song_json, parar
