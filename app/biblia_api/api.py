@@ -16,9 +16,9 @@ def create_user():
     }
 
     body = {
-        "name": "Tafnes",
-        "email": "tafnessilvabarbosa@gmail.com",
-        "password": "123456789", # minimum size 6 digits
+        "name": f"{os.getenv('NOME_BIBLIA_API')}",
+        "email": f"{os.getenv('EMAIL_BIBLIA_API')}",
+        "password": f"{os.getenv('SENHA_BIBLIA_API')}", # minimum size 6 digits
         "notifications": False # receive update emails from www.abibliadigital.com.br
     }
 
@@ -35,8 +35,8 @@ def get_token():
     }
 
     body = {
-        "email": "tafnessilvabarbosa@gmail.com",
-        "password": "123456789", # minimum size 6 digits
+        "email": f"{os.getenv('EMAIL_BIBLIA_API')}",
+        "password": f"{os.getenv('SENHA_BIBLIA_API')}", # minimum size 6 digits
     }
 
     response = requests.put(USER_URL, headers=headers, json=body)
@@ -50,8 +50,8 @@ def get_credentials():
         if 'token' not in user_content.keys():
             user_content = get_token()
         token = user_content['token']
-        with open('.env', 'w') as file:
-            file.write(f'BIBLIA_KEY="{token}"')
+        with open('.env', 'a') as file:
+            file.write(f'\nBIBLIA_KEY="{token}"')
     return token
 
 def get_verse(book, chapter, verse):

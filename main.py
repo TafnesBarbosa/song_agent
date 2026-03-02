@@ -2,6 +2,7 @@ import os
 
 from app.utils.utils import read_song, write_json
 from app.agents.agent import completar_song
+from app.biblia_api.api import get_credentials
 
 def main():
     songs_path = '/home/tafnes/Documentos/Python/Louvor/songlib/songs'
@@ -21,6 +22,7 @@ def main():
         print(k)
     
 if __name__ == '__main__':
+    get_credentials()
     # song_path = os.path.join('output', '88340.json')
     # lyric_json, song_json = read_song(song_path)
     # song_json = completar_song(song_json, lyric_json)

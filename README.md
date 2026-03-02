@@ -7,6 +7,10 @@ pip install -r requirements.txt
 ```
 
 # Environment
-- Ao rodar a primeira vez, um arquivo .env será criado com a chave da API da bíblia.
-- Depois coloque a chave do gemini nele:
+- Crie um arquivo .env com as seguintes infos:
+```
 GEMINI_API_KEY="<sua-chave>"
+NOME_BIBLIA_API="<seu-nome>"
+EMAIL_BIBLIA_API="<seu-email>"
+SENHA_BIBLIA_API="<sua-senha>"
+```
