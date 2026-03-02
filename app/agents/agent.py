@@ -3,8 +3,9 @@ from google.genai import types
 import os
 from dotenv import load_dotenv
 load_dotenv()
+import json
 
-from app.biblia_api.api import get_books
+from app.biblia_api.api import get_books, get_verse
 
 PROMPTS_PATH = 'app/agents/prompts'
 
@@ -35,19 +36,35 @@ class GeminiClient:
         )
     
 def verse_picker(musica: dict):
-    with open(os.path.join(PROMPTS_PATH, 'verse_picker', 'syst_prompt.txt'), encoding='utf-8') as file:
-        sys_instr = file.read()
+    try:
+        with open(os.path.join(PROMPTS_PATH, 'verse_picker', 'syst_prompt.txt'), encoding='utf-8') as file:
+            sys_instr = file.read()
 
-    with open(os.path.join(PROMPTS_PATH, 'verse_picker', 'user_prompt.txt'), encoding='utf-8') as file:
-        user_prompt = file.read()
+        with open(os.path.join(PROMPTS_PATH, 'verse_picker', 'user_prompt.txt'), encoding='utf-8') as file:
+            user_prompt = file.read()
 
-    books = get_books()
-    sys_instr = sys_instr.replace('{livros}', f'{", ".join(list(books.keys()))}')
+        books = get_books()
+        sys_instr = sys_instr.replace('{livros}', f'{", ".join(list(books.keys()))}')
 
-    user_prompt = user_prompt.replace('{musica_replace}', f'{musica}')
+        user_prompt = user_prompt.replace('{musica_replace}', f'{musica}')
 
-    response = GeminiClient.generate_content(
-        contents=[user_prompt],
-        system_instruction=sys_instr
-    )
-    return response.text
+        response = GeminiClient.generate_content(
+            contents=[user_prompt],
+            system_instruction=sys_instr
+        )
+
+        content = response.text.split("```")[1]
+
+        if content.startswith("json"):
+            content = content[len("json"):].strip()
+
+        verses = json.loads(content)
+        
+        for verse in verses:
+            verse['conteudo'] = get_verse(verse['referencia'][0], verse['referencia'][1], verse['referencia'][2])
+
+        verses_sorted = sorted(verses, key=lambda x: x["score"], reverse=True)
+
+        return verses_sorted
+    except Exception:
+        return ['Erro ao escolher versículos.']

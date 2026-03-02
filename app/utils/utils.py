@@ -52,4 +52,4 @@ def read_song(song_path):
         }
     }
     
-    return lyric_json_out, lyric
+    return lyric_json_out, song_json

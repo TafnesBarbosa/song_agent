@@ -54,20 +54,27 @@ def get_credentials():
     return token
 
 def get_verse(book, chapter, verse):
-    token = get_credentials()
+    try:
+        token = get_credentials()
 
-    books = get_books()
+        books = get_books()
 
-    VERSO_URL = f"https://www.abibliadigital.com.br/api/verses/acf/{books[book]}/{chapter}/{verse}"
+        headers = { 
+            'Accept': 'application/json',
+            'Content-Type': 'application/json',
+            'Authorization': f'Bearer {token}'
+        }
 
-    headers = { 
-        'Accept': 'application/json',
-        'Content-Type': 'application/json',
-        'Authorization': f'Bearer {token}'
-    }
-
-    response = requests.get(VERSO_URL, headers=headers)
-    user_content = response.json()
+        verses = verse.split('-')
+        verses_out = ''
+        for verse_in in verses:
+            VERSO_URL = f"https://www.abibliadigital.com.br/api/verses/acf/{books[book]}/{chapter}/{verse_in}"
+            response = requests.get(VERSO_URL, headers=headers)
+            user_content = response.json()
+            verses_out += user_content['text'] + ' '
+        return verses_out
+    except Exception:
+        return 'Erro ao pegar versículo'
 
 def get_versions():
     token = get_credentials()
