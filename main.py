@@ -1,6 +1,7 @@
 import os
 
 from app.utils.utils import read_song
+from app.biblia_api.api import get_books
 
 def main():
     songs_path = '/home/tafnes/Documentos/Python/Louvor/songlib/songs'
@@ -15,6 +16,6 @@ def main():
     
     # Da um verso similar por IA
     
-
 if __name__ == '__main__':
-    main()
+    # pega_verso('2tm', 3, 16)
+    books = get_books()
