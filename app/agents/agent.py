@@ -4,6 +4,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 import json
+from google.genai import errors
 
 from app.biblia_api.api import get_books, get_verse
 
@@ -52,7 +53,8 @@ def verse_picker(musica: dict):
             contents=[user_prompt],
             system_instruction=sys_instr
         )
-
+        response.raise_for_status()
+        
         content = response.text.split("```")[1]
 
         if content.startswith("json"):
@@ -66,11 +68,15 @@ def verse_picker(musica: dict):
         verses_sorted = sorted(verses, key=lambda x: x["score"], reverse=True)
 
         return verses_sorted
+    except errors.ClientError as e:
+        if e.code == 429:
+            print('Atingiu limite diário de requisições')
+        return ['Erro ao escolher versículos.']
     except Exception as e:
         print(f'Erro: {e}\n')
         return ['Erro ao escolher versículos.']
     
-def checar_song(song_json, lyric_json):
+def completar_song(song_json, lyric_json):
     not_fixed = 0
     not_fixed_all = 0
     for verse in song_json['verses']:
