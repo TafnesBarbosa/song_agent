@@ -68,8 +68,14 @@ def get_verse(book, chapter, verse):
 
         verses = verse.split('-')
         verses_out = ''
-        for verse_in in range(int(verses[0]), int(verses[1])+1):
-            VERSO_URL = f"https://www.abibliadigital.com.br/api/verses/acf/{books[book]}/{chapter}/{verse_in}"
+        if len(verses) > 1:
+            for verse_in in range(int(verses[0]), int(verses[1])+1):
+                VERSO_URL = f"https://www.abibliadigital.com.br/api/verses/acf/{books[book]}/{chapter}/{verse_in}"
+                response = requests.get(VERSO_URL, headers=headers)
+                user_content = response.json()
+                verses_out += user_content['text'] + ' '
+        else:
+            VERSO_URL = f"https://www.abibliadigital.com.br/api/verses/acf/{books[book]}/{chapter}/{verses[0]}"
             response = requests.get(VERSO_URL, headers=headers)
             user_content = response.json()
             verses_out += user_content['text'] + ' '
