@@ -11,14 +11,21 @@ def main():
 
     for k, song_file in enumerate(os.listdir(songs_path)):
         song_path = os.path.join(songs_path, song_file)
-        lyric_json, song_json = read_song(song_path)
-        # verses = verse_picker(lyric_json['song'])
-        # song_json['verses'] = verses
-        song_json, parar = completar_song(song_json, lyric_json)
-        if parar:
-            print('Parando')
-            break
-        write_json(song_json, os.path.join(songs_out_path, song_file))
+        song_path_out = os.path.join(songs_out_path, song_file)
+        if not os.path.exists(song_path_out):
+            lyric_json, song_json = read_song(song_path)
+            song_json, parar = completar_song(song_json, lyric_json)
+            if parar:
+                print('Parando')
+                break
+            write_json(song_json, song_path_out)
+        else:
+            lyric_json, song_json = read_song(song_path_out)
+            song_json, parar = completar_song(song_json, lyric_json)
+            if parar:
+                print('Parando')
+                break
+            write_json(song_json, song_path_out)
         print(k)
     
 if __name__ == '__main__':
