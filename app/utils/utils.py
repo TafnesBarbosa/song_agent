@@ -39,9 +39,17 @@ def read_song(song_path):
     # Escreve a letra em formato normal
     lyric = []
     for key, bloc in lyric_json.items():
-        lyric.append(f'[{key}]')
+        # lyric.append(f'[{key}]')
         for line in bloc:
             lyric.append(line)
         lyric.append('')
     
-    return lyric_json, lyric
+    lyric_json_out = {
+        'blocks': lyric_json,
+        'song': {
+            'titulo': song_json['title'],
+            'letra': lyric
+        }
+    }
+    
+    return lyric_json_out, lyric

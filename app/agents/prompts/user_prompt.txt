@@ -1,0 +1,7 @@
+# MÚSICA
+```json
+{musica_replace}
+```
+
+# TAREFA
+Com base na letra da música em MÚSICA, cite NO MÁXIMO 10 versículos bíblicos FORTEMENTE relacionados com ela e dê um score para a similaridade entre cada versículo e a música.
