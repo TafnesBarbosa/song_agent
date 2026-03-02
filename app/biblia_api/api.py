@@ -1,6 +1,7 @@
 import requests
 from dotenv import load_dotenv
 import os
+import unicodedata
 
 from app.utils.utils import write_json, read_json
 
@@ -73,7 +74,8 @@ def get_verse(book, chapter, verse):
             user_content = response.json()
             verses_out += user_content['text'] + ' '
         return verses_out
-    except Exception:
+    except Exception as e:
+        print(f'Erro de verso: {e}\n')
         return 'Erro ao pegar versículo'
 
 def get_versions():
@@ -90,6 +92,31 @@ def get_versions():
     response = requests.get(VERSAO_URL, headers=headers)
     user_content = response.json()
     pass
+
+def update_books():
+    books_path = 'app/biblia_api/books.json'
+    books = read_json(books_path)
+    books_updated = {}
+    for key in books.keys():
+        if 'ª' in key:
+            books_updated[key.replace('ª', '')] = books[key]
+            books_updated[remover_acentos(key.replace('ª', ''))] = books[key]
+            books_updated[key.replace('ª ', '')] = books[key]
+            books_updated[remover_acentos(key.replace('ª ', ''))] = books[key]
+        if 'º' in key:
+            books_updated[key.replace('º', '')] = books[key]
+            books_updated[remover_acentos(key.replace('º', ''))] = books[key]
+            books_updated[key.replace('º ', '')] = books[key]
+            books_updated[remover_acentos(key.replace('º ', ''))] = books[key]
+        books_updated[key] = books[key]
+        books_updated[remover_acentos(key)] = books[key]
+    write_json(books_updated, books_path)
+
+def remover_acentos(texto):
+    return ''.join(
+        c for c in unicodedata.normalize('NFD', texto)
+        if unicodedata.category(c) != 'Mn'
+    )
 
 def get_books():
     books_path = 'app/biblia_api/books.json'
@@ -111,6 +138,7 @@ def get_books():
             books[item['name']] = item['abbrev']['pt']
 
         write_json(books, books_path)
+        update_books()
     else:
         books = read_json(books_path)
     return books

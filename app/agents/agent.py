@@ -66,5 +66,26 @@ def verse_picker(musica: dict):
         verses_sorted = sorted(verses, key=lambda x: x["score"], reverse=True)
 
         return verses_sorted
-    except Exception:
+    except Exception as e:
+        print(f'Erro: {e}\n')
         return ['Erro ao escolher versículos.']
+    
+def checar_song(song_json, lyric_json):
+    not_fixed = 0
+    not_fixed_all = 0
+    for verse in song_json['verses']:
+        if isinstance(verse, dict):
+            if verse['conteudo'] == "Erro ao pegar versículo":
+                verse_right = get_verse(verse['referencia'][0], verse['referencia'][1], verse['referencia'][2])
+                if verse_right == "Erro ao pegar versículo":
+                    not_fixed += 1
+                verse['conteudo'] = verse_right
+        else:
+            if verse == 'Erro ao escolher versículos.':
+                verses = verse_picker(lyric_json['song'])
+                if verses == 'Erro ao escolher versículos.':
+                    not_fixed_all += 1
+                song_json['verses'] = verses
+
+    # print(f'Não consertados: {not_fixed} versos dentro; {not_fixed_all} erros de IA')
+    return song_json
