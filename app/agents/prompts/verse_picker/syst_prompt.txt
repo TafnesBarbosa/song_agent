@@ -17,10 +17,19 @@ A saída deve ser em formato JSON, com cada versículo em uma entrada do dicion�
 [
     {
         "referencia": [Referência do versículo],
-        "conteudo": [Conteúdo do versículo],
         "score": [Score de similaridade com a música]
     },
 ]
+
+# REFERÊNCIA DOS VERSÍCULOS
+1. As referências devem seguir o seguinte formato: [[Livro], [Capítulo], [Versículos]]
+   1.1. Exemplos: ['Salmos', '23', '1'], ['Mateus', '28', '18-20']
+2. Quando tiver mais de um versículo eles devem ser referenciados da seguinte forma: [primeiro-último]
+   2.1. Exemplo: '18-23'
+
+# REFERÊNCIA DOS LIVROS
+1. Os livros devem ser nomeados de acordo com a lista de livros abaixo:
+{livros}
 
 # FORMATO DA MÚSICA DE ENTRADA
 A entrada será um json na seguinte estrutura:

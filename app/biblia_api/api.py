@@ -2,6 +2,8 @@ import requests
 from dotenv import load_dotenv
 import os
 
+from app.utils.utils import write_json, read_json
+
 load_dotenv()
 
 def create_user():
@@ -54,7 +56,9 @@ def get_credentials():
 def get_verse(book, chapter, verse):
     token = get_credentials()
 
-    VERSO_URL = f"https://www.abibliadigital.com.br/api/verses/acf/{book}/{chapter}/{verse}"
+    books = get_books()
+
+    VERSO_URL = f"https://www.abibliadigital.com.br/api/verses/acf/{books[book]}/{chapter}/{verse}"
 
     headers = { 
         'Accept': 'application/json',
@@ -81,15 +85,25 @@ def get_versions():
     pass
 
 def get_books():
-    token = get_credentials()
+    books_path = 'app/biblia_api/books.json'
+    if not os.path.exists(books_path):
+        token = get_credentials()
 
-    LIVROS_URL = "https://www.abibliadigital.com.br/api/books"
+        LIVROS_URL = "https://www.abibliadigital.com.br/api/books"
 
-    headers = { 
-        'Accept': 'application/json',
-        'Content-Type': 'application/json',
-        'Authorization': f'Bearer {token}'
-    }
+        headers = { 
+            'Accept': 'application/json',
+            'Content-Type': 'application/json',
+            'Authorization': f'Bearer {token}'
+        }
 
-    response = requests.get(LIVROS_URL, headers=headers)
-    user_content = response.json()
+        response = requests.get(LIVROS_URL, headers=headers)
+        user_content = response.json()
+        books = {}
+        for item in user_content:
+            books[item['name']] = item['abbrev']['pt']
+
+        write_json(books, books_path)
+    else:
+        books = read_json(books_path)
+    return books
