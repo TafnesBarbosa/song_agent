@@ -14,7 +14,8 @@ class GeminiClient:
     client = None
     tools = None
     config = None
-    model = 'gemini-3-flash-preview'
+    model = 'gemini-2.5-flash'
+    # model = 'gemini-3-flash-preview'
     num_chamadas = 0
 
     @classmethod

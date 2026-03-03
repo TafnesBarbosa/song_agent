@@ -1,0 +1,110 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/97103/",
+    "id": "97103",
+    "title": "Antífona",
+    "author": "Cantor Cristão",
+    "notes": "",
+    "year": "",
+    "key": "D",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "",
+    "tempo": "",
+    "feel": "",
+    "theme": "",
+    "tags": "",
+    "url": "https://www.youtube.com/watch?v=M4_NZY-T8Gw",
+    "chord_chart": "[A]\n.D  A7    Bm    D/F#  G    A7     D\n A  TI, Ó DEUS,  FI---EL E BOM SENHOR,\n.  G D   G    D  E7          A7\n ETERNO PAI,  SUPREMO BENFEITOR,\n. D   A7      Bm  D/F#   G     B7     Em\n NÓS, OS TEUS SERVOS,   VIMOS DAR LOUVOR,\n.A7  D A7  Bm    G   D/A A7 D\n ALELUIA!   A---LE---LUI----A!\n\n[B]\n.D A7       Bm  D/F#  G     A7    D \n A TI, DEUS FI--LHO,  SALVADOR JESUS, \n.    G   D  G  D   E             A7  \n DA GRAÇA A FONTE, DA VERDADE A LUZ,\n.D    A7  Bm  D/F# G   B7    Em\n POR TEU AMOR,  MEDIDO PELA CRUZ,\n.A7  D A7  Bm    G   D/A A7 D\n ALELUIA!   A---LE---LUI----A!\n\n[C]\n.D A7    Bm    D/F#   G      A7  D\n A TI, Ó DEUS, RE --- AL CONSOLADOR,\n.  G D  G D  E7        A7\n DIVINO FOGO SANTIFICADOR,\n. D   A7  Bm  D/F#    G   B7        Em\n QUE NOS ANI---MA  E NOS ACENDE O AMOR,\n.A7  D A7  Bm    G   D/A A7 D\n ALELUIA!   A---LE---LUI----A!\n\n[D]\n.D A7       Bm  D/F#  G   A7    D\n A TI, DEUS TRI--NO,  PODEROSO DEUS,\n.       G   D  G  D  E7                A7\n QUE ESTÁS PRESENTE  SEMPRE JUNTO AOS TEUS,\n.D A7    Bm  D/F#   G       B7     Em\n A MINISTRAR  AS   BÊNCÃOS LÁ DOS CÉUS,\n.A7  D A7  Bm    G   D/A A7 D\n ALELUIA!   A---LE---LUI----A!",
+    "verses": [
+        {
+            "referencia": [
+                "Romanos",
+                "5",
+                "8"
+            ],
+            "score": 0.95,
+            "conteudo": "Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores. "
+        },
+        {
+            "referencia": [
+                "João",
+                "14",
+                "26"
+            ],
+            "score": 0.95,
+            "conteudo": "Mas aquele Consolador, o Espírito Santo, que o Pai enviará em meu nome, esse vos ensinará todas as coisas, e vos fará lembrar de tudo quanto vos tenho dito. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "5",
+                "5"
+            ],
+            "score": 0.95,
+            "conteudo": "E a esperança não traz confusão, porquanto o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "100",
+                "4-5"
+            ],
+            "score": 0.9,
+            "conteudo": "Entrai pelas portas dele com gratidão, e em seus átrios com louvor; louvai-o, e bendizei o seu nome. Porque o Senhor é bom, e eterna a sua misericórdia; e a sua verdade dura de geração em geração. "
+        },
+        {
+            "referencia": [
+                "João",
+                "1",
+                "14"
+            ],
+            "score": 0.9,
+            "conteudo": "E o Verbo se fez carne, e habitou entre nós, e vimos a sua glória, como a glória do unigênito do Pai, cheio de graça e de verdade. "
+        },
+        {
+            "referencia": [
+                "João",
+                "3",
+                "16"
+            ],
+            "score": 0.9,
+            "conteudo": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "2",
+                "8"
+            ],
+            "score": 0.9,
+            "conteudo": "E, achado na forma de homem, humilhou-se a si mesmo, sendo obediente até à morte, e morte de cruz. "
+        },
+        {
+            "referencia": [
+                "2 Tessalonicenses",
+                "2",
+                "13"
+            ],
+            "score": 0.9,
+            "conteudo": "Mas devemos sempre dar graças a Deus por vós, irmãos amados do Senhor, por vos ter Deus elegido desde o princípio para a salvação, em santificação do Espírito, e fé da verdade; "
+        },
+        {
+            "referencia": [
+                "1 Crônicas",
+                "29",
+                "13"
+            ],
+            "score": 0.85,
+            "conteudo": "Agora, pois, ó Deus nosso, graças te damos, e louvamos o nome da tua glória. "
+        },
+        {
+            "referencia": [
+                "João",
+                "14",
+                "6"
+            ],
+            "score": 0.8,
+            "conteudo": "Disse-lhe Jesus: Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por mim. "
+        }
+    ]
+}

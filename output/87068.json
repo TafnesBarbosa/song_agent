@@ -1,0 +1,101 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/87068/",
+    "id": "87068",
+    "title": "Não Há Deus Maior",
+    "author": "Comunidade de Nilópolis",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "",
+    "tempo": "",
+    "feel": "",
+    "theme": "",
+    "tags": "",
+    "url": "https://www.youtube.com/watch?v=hX52Z-DFGSA",
+    "chord_chart": "[INTRO]\n.C#m  E/G#   A9\n\n[A]\n.E              A/E  B/E\n NÃO HÁ DEUS MAIOR,\n.               E    B/D#  C#m7\n NÃO HÁ DEUS MELHOR\n.                 F#m    B\n NÃO HÁ DEUS TÃO GRANDE\n.              E      A/E  ( 1a )   E ( 2a )\n COMO O NOSSO DEUS   (2X)\n\n[B]\n.D#º      G#           C#m\n CRIOU  O CÉU, CRIOU A TERRA,\n.D#º     G#        C#m \n CRIOU O SOL E AS ESTRELAS\n. A       B/A   A      B/A\n TUDO ELE FEZ, TUDO CRIOU, \n. A       B    B7\n TUDO FORMOU\n\n[C]\n.A      B/A    C#m7  E/G#\n PARA O SEU LOUVOR, \n.A      B/A    C#m7  E/G#\n PARA O SEU LOUVOR,\n.A      B/A  G#     C#m\n PARA O SEU, PARA O SEU,\n.A      A/B     A9  |  E\n PARA O SEU LOUVOR.",
+    "verses": [
+        {
+            "referencia": [
+                "Gênesis",
+                "1",
+                "1"
+            ],
+            "score": 1.0,
+            "conteudo": "No princípio criou Deus o céu e a terra. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "45",
+                "5"
+            ],
+            "score": 1.0,
+            "conteudo": "Eu sou o Senhor, e não há outro; fora de mim não há Deus; eu te cingirei, ainda que tu não me conheças; "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "40",
+                "26"
+            ],
+            "score": 0.98,
+            "conteudo": "Levantai ao alto os vossos olhos, e vede quem criou estas coisas; foi aquele que faz sair o exército delas segundo o seu número; ele as chama a todas pelos seus nomes; por causa da grandeza das suas forças, e porquanto é forte em poder, nenhuma delas faltará. "
+        },
+        {
+            "referencia": [
+                "Neemias",
+                "9",
+                "6"
+            ],
+            "score": 0.98,
+            "conteudo": "Só tu és Senhor; tu fizeste o céu, o céu dos céus, e todo o seu exército, a terra e tudo quanto nela há, os mares e tudo quanto neles há, e tu os guardas com vida a todos; e o exército dos céus te adora. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "146",
+                "6"
+            ],
+            "score": 0.95,
+            "conteudo": "O que fez os céus e a terra, o mar e tudo quanto há neles, e o que guarda a verdade para sempre; "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "86",
+                "8"
+            ],
+            "score": 0.95,
+            "conteudo": "Entre os deuses não há semelhante a ti, Senhor, nem há obras como as tuas. "
+        },
+        {
+            "referencia": [
+                "Jeremias",
+                "10",
+                "6"
+            ],
+            "score": 0.95,
+            "conteudo": "Ninguém há semelhante a ti, ó Senhor; tu és grande, e grande o teu nome em poder. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "19",
+                "1"
+            ],
+            "score": 0.9,
+            "conteudo": "Os céus declaram a glória de Deus e o firmamento anuncia a obra das suas mãos. "
+        },
+        {
+            "referencia": [
+                "Deuteronômio",
+                "3",
+                "24"
+            ],
+            "score": 0.9,
+            "conteudo": "Senhor DEUS! já começaste a mostrar ao teu servo a tua grandeza e a tua forte mão; pois, que Deus há nos céus e na terra, que possa fazer segundo as tuas obras, e segundo os teus grandes feitos? "
+        }
+    ]
+}
