@@ -1,0 +1,83 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/88615/",
+    "id": "88615",
+    "title": "Desde os Confins da Terra",
+    "author": "Igreja Biblica da Paz",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "",
+    "tempo": "",
+    "feel": "",
+    "theme": "",
+    "tags": "",
+    "url": "https://www.youtube.com/watch?v=O7vX1Xib8tE&",
+    "chord_chart": "[INTRO]\n.E   E11   E   E11\n\n[A]\n.         E          E11    E  E11\n DESDE OS CONFINS DA TERRA \n.        B11          B\n NO MAIS PROFUNDO MAR\n.     C#m7               A9\n NAS ALTURAS DOS CÉUS LOUVADO ÉS.\n\n[B]\n.        E      E11  E  E11\n DENTRO DOS CORAÇÕES \n.       B11          B\n EM MEIO A UM CLAMOR\n.     C#m7              A9         B\n NASCE ESTA CANÇÃO E OS POVOS CANTAM.\n\n[Refrão]\n.E9  E/G#        A9   B11\n      POR TODA ETERNIDADE  \n.E9  E/G#      A9   B11\n      TU SERÁS ADORADO \n.   C#m7  A9  B11\n      GRANDE DEUS\n      \n.E9   E/G#     A9      B11\n      EXALTADO NAS NAÇÕES \n.E9  E/G#       A9  B11\n      SENHOR DA CRIAÇÃO\n.    C#m7 A9  B11\n      GRANDE  DEUS \n.   E/G#      A9\n      SEJA LOUVADO",
+    "verses": [
+        {
+            "referencia": [
+                "Apocalipse",
+                "5",
+                "13"
+            ],
+            "score": 0.99,
+            "conteudo": "E ouvi a toda a criatura que está no céu, e na terra, e debaixo da terra, e que estão no mar, e a todas as coisas que neles há, dizer: Ao que está assentado sobre o trono, e ao Cordeiro, sejam dadas ações de graças, e honra, e glória, e poder para todo o sempre. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "148",
+                "1-13"
+            ],
+            "score": 0.99,
+            "conteudo": "Louvai ao SENHOR. Louvai ao SENHOR desde os céus, louvai-o nas alturas. Louvai-o, todos os seus anjos; louvai-o, todos os seus exércitos. Louvai-o, sol e lua; louvai-o, todas as estrelas luzentes. Louvai-o, céus dos céus, e as águas que estão sobre os céus. Louvem o nome do Senhor, pois mandou, e logo foram criados. E os confirmou eternamente para sempre, e lhes deu um decreto que não ultrapassarão. Louvai ao Senhor desde a terra: vós, baleias, e todos os abismos; Fogo e saraiva, neve e vapores, e vento tempestuoso que executa a sua palavra; Montes e todos os outeiros, árvores frutíferas e todos os cedros; As feras e todos os gados, répteis e aves voadoras; Reis da terra e todos os povos, príncipes e todos os juízes da terra; Moços e moças, velhos e crianças. Louvem o nome do Senhor, pois só o seu nome é exaltado; a sua glória está sobre a terra e o céu. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "2",
+                "9-11"
+            ],
+            "score": 0.95,
+            "conteudo": "Por isso, também Deus o exaltou soberanamente, e lhe deu um nome que é sobre todo o nome; Para que ao nome de Jesus se dobre todo o joelho dos que estão nos céus, e na terra, e debaixo da terra, E toda a língua confesse que Jesus Cristo é o Senhor, para glória de Deus Pai. "
+        },
+        {
+            "referencia": [
+                "Colossenses",
+                "3",
+                "16"
+            ],
+            "score": 0.95,
+            "conteudo": "A palavra de Cristo habite em vós abundantemente, em toda a sabedoria, ensinando-vos e admoestando-vos uns aos outros, com salmos, hinos e cânticos espirituais, cantando ao Senhor com graça em vosso coração. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "117",
+                "1"
+            ],
+            "score": 0.95,
+            "conteudo": "Louvai ao SENHOR todas as nações, louvai-o todos os povos. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "86",
+                "9"
+            ],
+            "score": 0.9,
+            "conteudo": "Todas as nações que fizeste virão e se prostrarão perante a tua face, Senhor, e glorificarão o teu nome. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "66",
+                "4"
+            ],
+            "score": 0.9,
+            "conteudo": "Todos os moradores da terra te adorarão e te cantarão; cantarão o teu nome. (Selá.) "
+        }
+    ]
+}

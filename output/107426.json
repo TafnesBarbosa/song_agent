@@ -1,0 +1,92 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/107426/",
+    "id": "107426",
+    "title": "Noite Santa / Santo Pra Sempre",
+    "author": "Paul Baloche",
+    "notes": "",
+    "year": "",
+    "key": "G",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "6/8",
+    "tempo": "",
+    "feel": "",
+    "theme": "",
+    "tags": "",
+    "url": "https://www.youtube.com/watch?v=8XmcxnI0tb4|https://www.youtube.com/watch?v=u2FOGNSJfX8",
+    "chord_chart": "[Intro]\n.G  / /  C/G  |  G  / /  C/G\n\n[A]\n.G                    C           G\n Ó, noite santa de estrelas fulgurantes  \n.                    Dsus4  D    |  G  / /  C/G |\n Ó linda noite, em que Cristo nasceu\n.G               C       Em\n Estava o mundo pecador errante \n.        Bm         F#7        Bm\n Até que Cristo na terra apareceu\n \n[B]\n.   D          G         ( Gsus )   G\n O mundo vive nova espe----ran-----ça \n.    D              G                 D/F#\n Em clara aurora, a nova luz se ergueu\n \n[C]\n.Em        Bm     Am           Em\n  A - joelhai!  Ouvi a voz dos anjos\n.  G/D    D    G/B     C       G/D  D         G\n Nata----al!  Nata----al!  Nasceu     o Redentor (2x)\n \n[D]\n.            C9         Em7  D           Bm7     Em7\n E os anjos clamam: San_____to. Toda criação: Santo\n.         Am7    D              G\n Exaltado És, Santo. Santo pra sempre\n.            C9        Em7  D                  Bm7      Em7\n O Teu povo canta: San_____to. Sim, ao Rei dos Reis, Santo\n.            Am7     D             G  G4  G\n Tu sempre serás Santo. Santo pra sempre\n \n[E]\n.    C9                 Em7      D\n Teu nome é o mais alto,    Teu nome é o maior\n.     Em7          D    C9\n Teu nome é sobre to - dos\n.   C9                Em7    D\n Os tronos e domínios,    governos e poderes\n.     Em7          D    Am7\n Teu nome é sobre to - dos",
+    "verses": [
+        {
+            "referencia": [
+                "Apocalipse",
+                "4",
+                "8"
+            ],
+            "score": 0.98,
+            "conteudo": "E os quatro animais tinham, cada um de per si, seis asas, e ao redor, e por dentro, estavam cheios de olhos; e não descansam nem de dia nem de noite, dizendo: Santo, Santo, Santo, é o Senhor Deus, o Todo-Poderoso, que era, e que é, e que há de vir. "
+        },
+        {
+            "referencia": [
+                "Lucas",
+                "2",
+                "10-14"
+            ],
+            "score": 0.95,
+            "conteudo": "E o anjo lhes disse: Não temais, porque eis aqui vos trago novas de grande alegria, que será para todo o povo: Pois, na cidade de Davi, vos nasceu hoje o Salvador, que é Cristo, o Senhor. E isto vos será por sinal: Achareis o menino envolto em panos, e deitado numa manjedoura. E, no mesmo instante, apareceu com o anjo uma multidão dos exércitos celestiais, louvando a Deus, e dizendo: Glória a Deus nas alturas, Paz na terra, boa vontade para com os homens. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "19",
+                "16"
+            ],
+            "score": 0.95,
+            "conteudo": "E no manto e na sua coxa tem escrito este nome: Rei dos reis, e Senhor dos senhores. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "9",
+                "6"
+            ],
+            "score": 0.9,
+            "conteudo": "Porque um menino nos nasceu, um filho se nos deu, e o principado está sobre os seus ombros, e se chamará o seu nome: Maravilhoso, Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da Paz. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "2",
+                "9-11"
+            ],
+            "score": 0.9,
+            "conteudo": "Por isso, também Deus o exaltou soberanamente, e lhe deu um nome que é sobre todo o nome; Para que ao nome de Jesus se dobre todo o joelho dos que estão nos céus, e na terra, e debaixo da terra, E toda a língua confesse que Jesus Cristo é o Senhor, para glória de Deus Pai. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "1",
+                "21"
+            ],
+            "score": 0.85,
+            "conteudo": "E dará à luz um filho e chamarás o seu nome JESUS; porque ele salvará o seu povo dos seus pecados. "
+        },
+        {
+            "referencia": [
+                "João",
+                "1",
+                "9"
+            ],
+            "score": 0.85,
+            "conteudo": "Ali estava a luz verdadeira, que ilumina a todo o homem que vem ao mundo. "
+        },
+        {
+            "referencia": [
+                "João",
+                "8",
+                "12"
+            ],
+            "score": 0.85,
+            "conteudo": "Falou-lhes, pois, Jesus outra vez, dizendo: Eu sou a luz do mundo; quem me segue não andará em trevas, mas terá a luz da vida. "
+        }
+    ]
+}

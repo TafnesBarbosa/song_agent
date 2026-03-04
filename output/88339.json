@@ -1,0 +1,101 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/88339/",
+    "id": "88339",
+    "title": "É Teu Povo (IPALPHA)",
+    "author": "IPALPHA",
+    "notes": "",
+    "year": "",
+    "key": "G",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "",
+    "tempo": "",
+    "feel": "",
+    "theme": "",
+    "tags": "",
+    "url": "https://www.youtube.com/watch?v=7DH_tKN_n-g",
+    "chord_chart": "[INTRO 2x]\n. G |  Gmaj7  |  C(add9)  |\n\n[A]\n.         G   Gmaj7  G\n É O TEU PO___VO,\n.         Em\n AQUI PRESENTE\n.       Am\n TODOS NUMA SÓ VOZ\n.      C                   G   Gmaj7  G   \n DECLARANDO QUE SÓ TU ÉS GRAN__DE\n.    G   Gmaj7  G\n EXALTA__MOS\n.          Em\n TEU DOCE NOME,\n.      Am                     C\n PELO AMOR PELA CRUZ POR TEU FILHO JESUS\n \n[B]\n.         G             C\n POIS ÉS SANTO, SIM ÉS DIGNO\n.      Em                 C\n DE LOUVORES E DE SER ADORADO\n.       G           C\n ÉS BONDOSO, PAI QUERIDO\n.       Em\n DENTRE TODAS AS COISAS\n.   C                 G\n TU ÉS VERDADEIRO SENHOR\n \n[INTERLÚDIO 2X]\n.G  |  C  |  Em  |  C  |",
+    "verses": [
+        {
+            "referencia": [
+                "Apocalipse",
+                "4",
+                "11"
+            ],
+            "score": 0.95,
+            "conteudo": "Digno és, Senhor, de receber glória, e honra, e poder; porque tu criaste todas as coisas, e por tua vontade são e foram criadas. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "5",
+                "12"
+            ],
+            "score": 0.93,
+            "conteudo": "Que com grande voz diziam: Digno é o Cordeiro, que foi morto, de receber o poder, e riquezas, e sabedoria, e força, e honra, e glória, e ações de graças. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "2",
+                "9-11"
+            ],
+            "score": 0.9,
+            "conteudo": "Por isso, também Deus o exaltou soberanamente, e lhe deu um nome que é sobre todo o nome; Para que ao nome de Jesus se dobre todo o joelho dos que estão nos céus, e na terra, e debaixo da terra, E toda a língua confesse que Jesus Cristo é o Senhor, para glória de Deus Pai. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "3"
+            ],
+            "score": 0.9,
+            "conteudo": "Grande é o Senhor, e muito digno de louvor, e a sua grandeza inescrutável. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "6",
+                "3"
+            ],
+            "score": 0.9,
+            "conteudo": "E clamavam uns aos outros, dizendo: Santo, Santo, Santo é o Senhor dos Exércitos; toda a terra está cheia da sua glória. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "15",
+                "6"
+            ],
+            "score": 0.88,
+            "conteudo": "Para que concordes, a uma boca, glorifiqueis ao Deus e Pai de nosso Senhor Jesus Cristo. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "100",
+                "5"
+            ],
+            "score": 0.85,
+            "conteudo": "Porque o Senhor é bom, e eterna a sua misericórdia; e a sua verdade dura de geração em geração. "
+        },
+        {
+            "referencia": [
+                "João",
+                "3",
+                "16"
+            ],
+            "score": 0.85,
+            "conteudo": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna. "
+        },
+        {
+            "referencia": [
+                "1 Pedro",
+                "2",
+                "24"
+            ],
+            "score": 0.8,
+            "conteudo": "Levando ele mesmo em seu corpo os nossos pecados sobre o madeiro, para que, mortos para os pecados, pudéssemos viver para a justiça; e pelas suas feridas fostes sarados. "
+        }
+    ]
+}
