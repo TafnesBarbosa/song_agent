@@ -1,0 +1,110 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/91210/",
+    "id": "91210",
+    "title": "Vim para Adorar-Te",
+    "author": "Hillsong Worship",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "",
+    "tempo": "",
+    "feel": "",
+    "theme": "",
+    "tags": "",
+    "url": "https://www.youtube.com/watch?v=6CKCThJB5w0",
+    "chord_chart": "[A]\n.E           B        F#m       A \n DO MUNDO À LUZ TU DESCESTE ÀS TREVAS\n.E          B       A \n PARA MEUS OLHOS ABRIR\n.E     B       F#m     A \n TUA BELEZA ME FEZ LOUVAR-TE \n.E        B          A \n QUERO VIVER SÓ POR TI\n\n[Refrão]\n.             E \n VIM PARA ADORAR-TE \n.              B \n VIM PARA PROSTRAR-ME \n.           E/G#             A \n VIM PARA DIZER QUE ÉS MEU DEUS \n.                E \n ÉS TOTALMENTE AMÁVEL \n.            B \n TOTALMENTE DIGNO \n.        E/G#         A \n ÉS MARAVILHOSO PARA MIM \n\n[B]\n.E         B       F#m        A \n VINDO DO CÉU, HUMILHADO NA TERRA\n.E         B        A \n POBRE SE FEZ POR AMOR\n.E       B       F#m         A \n ETERNO REI, EXALTADO E GLORIOSO \n. E         B        A \n PREÇO TÃO ALTO PAGOU \n\n[C]\n.     B        E/G#     A \n NÃO SABEREI JAMAIS CONTAR\n.          B    E/G#    A \n VI LÁ NA CRUZ O MEU PECAR",
+    "verses": [
+        {
+            "referencia": [
+                "2 Coríntios",
+                "8",
+                "9"
+            ],
+            "score": 0.98,
+            "conteudo": "Porque já sabeis a graça de nosso Senhor Jesus Cristo que, sendo rico, por amor de vós se fez pobre; para que pela sua pobreza enriquecêsseis. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "95",
+                "6"
+            ],
+            "score": 0.96,
+            "conteudo": "Ó, vinde, adoremos e prostremo-nos; ajoelhemos diante do Senhor que nos criou. "
+        },
+        {
+            "referencia": [
+                "João",
+                "8",
+                "12"
+            ],
+            "score": 0.95,
+            "conteudo": "Falou-lhes, pois, Jesus outra vez, dizendo: Eu sou a luz do mundo; quem me segue não andará em trevas, mas terá a luz da vida. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "2",
+                "7-8"
+            ],
+            "score": 0.94,
+            "conteudo": "Mas esvaziou-se a si mesmo, tomando a forma de servo, fazendo-se semelhante aos homens; E, achado na forma de homem, humilhou-se a si mesmo, sendo obediente até à morte, e morte de cruz. "
+        },
+        {
+            "referencia": [
+                "Atos",
+                "26",
+                "18"
+            ],
+            "score": 0.92,
+            "conteudo": "Para lhes abrires os olhos, e das trevas os converteres à luz, e do poder de Satanás a Deus; a fim de que recebam a remissão de pecados, e herança entre os que são santificados pela fé em mim. "
+        },
+        {
+            "referencia": [
+                "1 Coríntios",
+                "6",
+                "20"
+            ],
+            "score": 0.9,
+            "conteudo": "Porque fostes comprados por bom preço; glorificai, pois, a Deus no vosso corpo, e no vosso espírito, os quais pertencem a Deus. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "4",
+                "11"
+            ],
+            "score": 0.88,
+            "conteudo": "Digno és, Senhor, de receber glória, e honra, e poder; porque tu criaste todas as coisas, e por tua vontade são e foram criadas. "
+        },
+        {
+            "referencia": [
+                "Cânticos",
+                "5",
+                "16"
+            ],
+            "score": 0.85,
+            "conteudo": "A sua boca é muitíssimo suave; sim, ele é totalmente desejável. Tal é o meu amado, e tal o meu amigo, ó filhas de Jerusalém. "
+        },
+        {
+            "referencia": [
+                "1 Timóteo",
+                "1",
+                "17"
+            ],
+            "score": 0.82,
+            "conteudo": "Ora, ao Rei dos séculos, imortal, invisível, ao único Deus sábio, seja honra e glória para todo o sempre. Amém. "
+        },
+        {
+            "referencia": [
+                "João",
+                "1",
+                "5"
+            ],
+            "score": 0.8,
+            "conteudo": "E a luz resplandece nas trevas, e as trevas não a compreenderam. "
+        }
+    ]
+}
