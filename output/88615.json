@@ -1,0 +1,110 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/88615/",
+    "id": "88615",
+    "title": "Desde os Confins da Terra",
+    "author": "Igreja Biblica da Paz",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "",
+    "tempo": "",
+    "feel": "",
+    "theme": "",
+    "tags": "",
+    "url": "https://www.youtube.com/watch?v=O7vX1Xib8tE&",
+    "chord_chart": "[INTRO]\n.E   E11   E   E11\n\n[A]\n.         E          E11    E  E11\n DESDE OS CONFINS DA TERRA \n.        B11          B\n NO MAIS PROFUNDO MAR\n.     C#m7               A9\n NAS ALTURAS DOS CÉUS LOUVADO ÉS.\n\n[B]\n.        E      E11  E  E11\n DENTRO DOS CORAÇÕES \n.       B11          B\n EM MEIO A UM CLAMOR\n.     C#m7              A9         B\n NASCE ESTA CANÇÃO E OS POVOS CANTAM.\n\n[Refrão]\n.E9  E/G#        A9   B11\n      POR TODA ETERNIDADE  \n.E9  E/G#      A9   B11\n      TU SERÁS ADORADO \n.   C#m7  A9  B11\n      GRANDE DEUS\n      \n.E9   E/G#     A9      B11\n      EXALTADO NAS NAÇÕES \n.E9  E/G#       A9  B11\n      SENHOR DA CRIAÇÃO\n.    C#m7 A9  B11\n      GRANDE  DEUS \n.   E/G#      A9\n      SEJA LOUVADO",
+    "verses": [
+        {
+            "referencia": [
+                "Isaías",
+                "42",
+                "10"
+            ],
+            "score": 0.96,
+            "conteudo": "Cantai ao Senhor um cântico novo, e o seu louvor desde a extremidade da terra; vós os que navegais pelo mar, e tudo quanto há nele; vós, ilhas, e seus habitantes. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "139",
+                "8-9"
+            ],
+            "score": 0.94,
+            "conteudo": "Se subir ao céu, lá tu estás; se fizer no inferno a minha cama, eis que tu ali estás também. Se tomar as asas da alva, se habitar nas extremidades do mar, "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "148",
+                "1"
+            ],
+            "score": 0.91,
+            "conteudo": "Louvai ao SENHOR. Louvai ao SENHOR desde os céus, louvai-o nas alturas. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "148",
+                "7"
+            ],
+            "score": 0.89,
+            "conteudo": "Louvai ao Senhor desde a terra: vós, baleias, e todos os abismos; "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "61",
+                "2"
+            ],
+            "score": 0.86,
+            "conteudo": "Desde o fim da terra clamarei a ti, quando o meu coração estiver desmaiado; leva-me para a rocha que é mais alta do que eu. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "108",
+                "3"
+            ],
+            "score": 0.84,
+            "conteudo": "Louvar-te-ei entre os povos, Senhor, e a ti cantarei louvores entre as nações. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "108",
+                "5"
+            ],
+            "score": 0.82,
+            "conteudo": "Exalta-te sobre os céus, ó Deus, e a tua glória sobre toda a terra. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "67",
+                "3"
+            ],
+            "score": 0.8,
+            "conteudo": "Louvem-te a ti, ó Deus, os povos; louvem-te os povos todos. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "117",
+                "1"
+            ],
+            "score": 0.77,
+            "conteudo": "Louvai ao SENHOR todas as nações, louvai-o todos os povos. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "113",
+                "3"
+            ],
+            "score": 0.76,
+            "conteudo": "Desde o nascimento do sol até ao ocaso, seja louvado o nome do Senhor. "
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/95352/",
+    "id": "95352",
+    "title": "Em Todo o Tempo",
+    "author": "",
+    "notes": "",
+    "year": "",
+    "key": "A",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "",
+    "tempo": "",
+    "feel": "",
+    "theme": "",
+    "tags": "",
+    "url": "https://youtube.com/clip/UgkxrsL1kbh7p8R3ABjS9np5bWYuhqbcKl0Q",
+    "chord_chart": "[Intro]\n.Am  (C/G)  D/F#   Fmaj7   E7\n\n[A - 2x]\n.        Am            D/F#\n EM TODO TEMPO EU LOUVAREI AO SENHOR\n.          Fmaj7               E7\n SEMPRE ESTARÁ NOS MEUS LABIOS O SEU LOUVOR\n\n[B]\n.    F              G           Am\n ALEGRAR-SE-Á NO SENHOR A MINHA ALMA\n.    F              G           Am    (E7)\n ALEGRAR-SE-Á NO SENHOR A MINHA ALMA\n\n[C - 2x]\n.        Am                     D/F#\n ENGRANDECEI AO SENHOR, ENGRANDECEI-O COMIGO\n.  Fmaj7                 E7\n E TODOS, A UMA, LHE EXALTEMOS O NOME\n\n[D]\n.      F  G        Am\n SEU  GLO___RIOSO  NOME\n.      F  G        Am\n SEU  GLO___RIOSO  NOME\n \n[Final]\n.      F  G         A\n SEU  GLO___RIOSO  NOME",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "34",
+                "1-3"
+            ],
+            "score": 0.99,
+            "conteudo": "Louvarei ao SENHOR em todo o tempo; o seu louvor estará continuamente na minha boca. A minha alma se gloriará no Senhor; os mansos o ouvirão e se alegrarão. Engrandecei ao Senhor comigo; e juntos exaltemos o seu nome. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "34",
+                "1"
+            ],
+            "score": 0.98,
+            "conteudo": "Louvarei ao SENHOR em todo o tempo; o seu louvor estará continuamente na minha boca. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "34",
+                "3"
+            ],
+            "score": 0.98,
+            "conteudo": "Engrandecei ao Senhor comigo; e juntos exaltemos o seu nome. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "34",
+                "2"
+            ],
+            "score": 0.92,
+            "conteudo": "A minha alma se gloriará no Senhor; os mansos o ouvirão e se alegrarão. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "1-2"
+            ],
+            "score": 0.85,
+            "conteudo": "Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre. Cada dia te bendirei, e louvarei o teu nome pelos séculos dos séculos e para sempre. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "2"
+            ],
+            "score": 0.84,
+            "conteudo": "Cada dia te bendirei, e louvarei o teu nome pelos séculos dos séculos e para sempre. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "1"
+            ],
+            "score": 0.82,
+            "conteudo": "Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre. "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "13",
+                "15"
+            ],
+            "score": 0.78,
+            "conteudo": "Portanto, ofereçamos sempre por ele a Deus sacrifício de louvor, isto é, o fruto dos lábios que confessam o seu nome. "
+        }
+    ]
+}

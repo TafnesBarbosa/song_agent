@@ -1,0 +1,110 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/96016/",
+    "id": "96016",
+    "title": "Não Tenhas Sobre Ti",
+    "author": "Paulo César Baruk",
+    "notes": "",
+    "year": "",
+    "key": "G",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "",
+    "tempo": "",
+    "feel": "",
+    "theme": "",
+    "tags": "",
+    "url": "https://www.youtube.com/watch?v=v0vbOLiKGTI",
+    "chord_chart": "[Intro]\n.Bm7  Em7  G  C\n.Bm7  Em7  G  D(add4)  C\n\n[A]\n.Bm7            C7M\n   Não tenhas sobre ti\n.D                           Bm7  Em7  G  C\n   Um só cuidado qualquer que seja\n.Bm7          C7M\n   Pois um, somente um\n.D        C/E       G\n   Seria muito para ti\n\n[Refrão]\n.C7M          D6       Bm7         C7M\n     É meu somente meu todo o trabalho\n.Am7(9)         D             G4     G\n     E o teu trabalho é descansar em mim\n.C7M          D6       Bm7         C7M\n     É meu somente meu todo o trabalho\n.Am7(9)         D             G4     G\n     E o teu trabalho é descansar em mim\n     \n[Intro...]\n\n[B]\n.Bm7          C7M\n    Não temas quando enfim\n.D                        Bm7  Em7  G  C\n    Tiveres que tomar decisão\n.Bm7          C7M\n    Entrega tudo a mim\n.D        C/E             G\n    Confia de todo o coração\n\n[Refrão...]\n\n[Interlúdio]\n.C7M    | D6  |  Bm7  | C7M |\n.Am7(9) | D   |  G4   |  G  |\n.C7M    | D6  |  Bm7  | C7M |\n.Am7(9) | D   |  G4   |  G  |\n\n[Refrão...]",
+    "verses": [
+        {
+            "referencia": [
+                "1 Pedro",
+                "5",
+                "7"
+            ],
+            "score": 0.98,
+            "conteudo": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós. "
+        },
+        {
+            "referencia": [
+                "Provérbios",
+                "3",
+                "5"
+            ],
+            "score": 0.97,
+            "conteudo": "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "37",
+                "5"
+            ],
+            "score": 0.96,
+            "conteudo": "Entrega o teu caminho ao Senhor; confia nele, e ele o fará. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "11",
+                "28"
+            ],
+            "score": 0.95,
+            "conteudo": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "55",
+                "22"
+            ],
+            "score": 0.93,
+            "conteudo": "Lança o teu cuidado sobre o Senhor, e ele te susterá; não permitirá jamais que o justo seja abalado. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "4",
+                "6"
+            ],
+            "score": 0.92,
+            "conteudo": "Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica, com ação de graças. "
+        },
+        {
+            "referencia": [
+                "Êxodo",
+                "14",
+                "14"
+            ],
+            "score": 0.88,
+            "conteudo": "O Senhor pelejará por vós, e vós vos calareis. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "11",
+                "29"
+            ],
+            "score": 0.86,
+            "conteudo": "Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para as vossas almas. "
+        },
+        {
+            "referencia": [
+                "Provérbios",
+                "3",
+                "6"
+            ],
+            "score": 0.85,
+            "conteudo": "Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas. "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "4",
+                "10"
+            ],
+            "score": 0.8,
+            "conteudo": "Porque aquele que entrou no seu repouso, ele próprio repousou de suas obras, como Deus das suas. "
+        }
+    ]
+}
