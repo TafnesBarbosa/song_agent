@@ -1,0 +1,101 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/85400/",
+    "id": "85400",
+    "title": "Santo, Santo (Vineyard)",
+    "author": "Vineyard",
+    "notes": "",
+    "year": "",
+    "key": "D",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "",
+    "tempo": "",
+    "feel": "",
+    "theme": "",
+    "tags": "",
+    "url": "https://www.youtube.com/watch?v=zsAsdDlFvCU",
+    "chord_chart": "[Intro]\n.D | D5- | D11 | D5 ( 2x )\n\n[A - 2x]\n.D                                              C  D\n Santo, Santo, Poderoso Que era e que há de vir\n \n Deus da glória, és tu digno Eu me prostro a Ti\n \n[Convenção refrão (2x)]\n.D C D E D D | D C B A F# G D\n \n[Refrão]\n.               A       G      D\n Santo é o Teu nome em todo lugar\n.                 A       G        D\n Reto é o teu querer, de graça e paz\n.                 A       G        D\n Tudo o que tens feito é justo e bom\n.          G   A      Bm\n Santo, Santo Deus Tu és\n.          G   A      D\n Santo, Santo Deus Tu és\n \n[Intro...]\n[Volta Início: 1 vez...]\n\n[Ponte]\n.Bm      A/C#        G             D\n A honra,    a glória pertencem a Ti\n.Bm      A/C#               D\n O poder     e o saber são Teus\n\n[Volta coro Só as vozes 1ª vez...]\n\n[Convenção fim (2x)]\n.D C D E D D | D C B A F# G D",
+    "verses": [
+        {
+            "referencia": [
+                "Apocalipse",
+                "4",
+                "8"
+            ],
+            "score": 0.98,
+            "conteudo": "E os quatro animais tinham, cada um de per si, seis asas, e ao redor, e por dentro, estavam cheios de olhos; e não descansam nem de dia nem de noite, dizendo: Santo, Santo, Santo, é o Senhor Deus, o Todo-Poderoso, que era, e que é, e que há de vir. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "4",
+                "11"
+            ],
+            "score": 0.97,
+            "conteudo": "Digno és, Senhor, de receber glória, e honra, e poder; porque tu criaste todas as coisas, e por tua vontade são e foram criadas. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "17"
+            ],
+            "score": 0.96,
+            "conteudo": "Justo é o Senhor em todos os seus caminhos, e santo em todas as suas obras. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "6",
+                "3"
+            ],
+            "score": 0.95,
+            "conteudo": "E clamavam uns aos outros, dizendo: Santo, Santo, Santo é o Senhor dos Exércitos; toda a terra está cheia da sua glória. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "1",
+                "8"
+            ],
+            "score": 0.94,
+            "conteudo": "Eu sou o Alfa e o Ômega, o princípio e o fim, diz o Senhor, que é, e que era, e que há de vir, o Todo-Poderoso. "
+        },
+        {
+            "referencia": [
+                "1 Crônicas",
+                "29",
+                "11"
+            ],
+            "score": 0.93,
+            "conteudo": "Tua é, Senhor, a magnificência, e o poder, e a honra, e a vitória, e a majestade; porque teu é tudo quanto há nos céus e na terra; teu é, Senhor, o reino, e tu te exaltaste por cabeça sobre todos. "
+        },
+        {
+            "referencia": [
+                "Deuteronômio",
+                "32",
+                "4"
+            ],
+            "score": 0.92,
+            "conteudo": "Ele é a Rocha, cuja obra é perfeita, porque todos os seus caminhos justos são; Deus é a verdade, e não há nele injustiça; justo e reto é. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "147",
+                "5"
+            ],
+            "score": 0.9,
+            "conteudo": "Grande é o nosso Senhor, e de grande poder; o seu entendimento é infinito. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "11",
+                "36"
+            ],
+            "score": 0.88,
+            "conteudo": "Porque dele e por ele, e para ele, são todas as coisas; glória, pois, a ele eternamente. Amém. "
+        }
+    ]
+}
