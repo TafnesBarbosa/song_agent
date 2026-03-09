@@ -1,5 +1,6 @@
 import json
 import re
+import os
 
 def write_json(json_dict, json_path):
     json_object = json.dumps(json_dict, indent = 4, ensure_ascii=False)
@@ -53,3 +54,11 @@ def read_song(song_path):
     }
     
     return lyric_json_out, song_json
+
+def write_songs_text(songs_path):
+    songs = []
+    for k, song_file in enumerate(os.listdir(songs_path)):
+        song_path = os.path.join(songs_path, song_file)
+        lyric_json, song_json = read_song(song_path)
+        songs.append(lyric_json['song'])
+    write_json({'musicas': songs}, 'musicas.json')

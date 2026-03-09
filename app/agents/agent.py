@@ -7,6 +7,7 @@ import json
 from google.genai import errors
 
 from app.biblia_api.api import get_books, get_verse
+from app.utils.utils import read_json
 
 PROMPTS_PATH = 'app/agents/prompts'
 
@@ -104,3 +105,32 @@ def completar_song(song_json, lyric_json):
         verses, parar = verse_picker(lyric_json['song'])
         song_json['verses'] = verses
         return song_json, parar
+
+def song_picker():
+    parar = False
+    try:
+        with open(os.path.join(PROMPTS_PATH, 'song_picker', 'syst_prompt.txt'), encoding='utf-8') as file:
+            sys_instr = file.read()
+
+        with open(os.path.join(PROMPTS_PATH, 'song_picker', 'user_prompt.txt'), encoding='utf-8') as file:
+            user_prompt = file.read()
+
+        musicas = read_json('musicas.json')
+        sys_instr = sys_instr.replace('{musicas_replace}', f'{musicas}')
+
+        user_prompt = user_prompt.replace('{texto_biblico_replace}', """Ora, quando cheguei a Trôade para pregar o evangelho de Cristo, e uma porta se me abriu no Senhor, não tive, contudo, tranquilidade no meu espírito, porque não encontrei o meu irmão Tito; por isso, despedindo-me deles, parti para a  Macedônia. Graças, porém, a Deus, que, em Cristo, sempre nos conduz em triunfo e, por meio de nós, manifesta em todo lugar a fragrância do seu conhecimento. Porque nós somos para com Deus o bom perfume de Cristo, tanto nos que são salvos como nos que se perdem. Para com estes, cheiro de morte para morte; para com aqueles, aroma de vida para vida. Quem, porém, é suficiente para estas coisas? Porque nós não estamos, como tantos outros, mercadejando a palavra de Deus; antes, em Cristo é que falamos na presença de Deus, com sinceridade e da parte do próprio Deus.""")
+
+        response = GeminiClient.generate_content(
+            contents=[user_prompt],
+            system_instruction=sys_instr
+        )
+        # response.raise_for_status()
+
+        return response.text, False
+    except errors.ClientError as e:
+        if e.code == 429:
+            print('Atingiu limite diário de requisições')
+        return ['Erro ao escolher músicas.'], True
+    except Exception as e:
+        print(f'Erro: {e}\n')
+        return ['Erro ao escolher músicas.'], True

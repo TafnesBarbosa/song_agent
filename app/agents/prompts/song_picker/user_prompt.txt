@@ -1,0 +1,5 @@
+# TEXTO BÍBLICO
+{texto_biblico_replace}
+
+# TAREFA
+Com base no TEXTO BÍBLICO acima, escolha seis músicas dentre as presentes em MÚSICAS, que sejam altamente relacionadas com o TEXTO BÍBLICO.
