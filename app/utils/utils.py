@@ -8,7 +8,7 @@ def write_json(json_dict, json_path):
         file.close()
 
 def read_json(json_path):
-    with open(json_path) as file:
+    with open(json_path, encoding='utf-8') as file:
         json_file = json.load(file)
     return json_file
 

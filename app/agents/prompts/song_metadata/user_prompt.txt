@@ -1,0 +1,7 @@
+# MÚSICA
+```json
+{musica_replace}
+```
+
+# TAREFA
+Preencha as propriedades da música: time_sig (compasso, ex: 4/4), tempo (BPM, número), feel (Lento, Médio ou Rápido) e tags (exatamente 5 tags, somente da lista oficial do prompt de sistema; de preferência pelo menos uma de cada grupo: Tema Bíblico, Uso no Culto, Calendário, Clima). Responda somente com o JSON das propriedades.

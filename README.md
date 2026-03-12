@@ -10,6 +10,7 @@ pip install -r requirements.txt
 - Crie um arquivo .env com as seguintes infos:
 ```
 GEMINI_API_KEY="<sua-chave>"
+GEMINI_MAX_RPM="<max-requisicoes-por-minuto>"
 NOME_BIBLIA_API="<seu-nome>"
 EMAIL_BIBLIA_API="<seu-email>"
 SENHA_BIBLIA_API="<sua-senha>"
