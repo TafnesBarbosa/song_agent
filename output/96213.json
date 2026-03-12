@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/96213/",
+    "id": "96213",
+    "title": "Deus Está Presente",
+    "author": "",
+    "notes": "",
+    "year": "",
+    "key": "D",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "presença",
+        "adoração",
+        "perdão",
+        "salvação",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=4bIMZxdsuGc",
+    "chord_chart": ".        D    E/D          Gm/D      D\n DEUS ESTÁ PRESENTE, DEUS ESTÁ PRESENTE,\n.      G   D/F#        E  A7\n ENTRE PECADORES COMO NÓS.\n.        D    E/D          Gm/D      D\n DEUS ESTÁ PRESENTE, DEUS ESTÁ PRESENTE, \n.        G     D              A7  D\n DEUS ESTÁ PRESENTE PRONTO A PERDOAR.\n.      A7              D A7 D\n DEUS IRÁ OUVIR NOSSA  ORAÇÃO,\n.      C#7             F#m    A7\n NOSSO FARDO VAI SOBRE  SI LEVAR,\n.      D     D+7     G    E/G#\n POIS DEUS ESTÁ  PRESENTE,\n.       D/A        Bm        D/A        Bm\n PRONTO PRÁ SALVAR,   PRONTO PRÁ AJUDAR,\n.       D/A     A7 D\n DEUS ESTÁ  PRESENTE.",
+    "verses": [
+        {
+            "referencia": [
+                "Mateus",
+                "18",
+                "20"
+            ],
+            "score": 0.98,
+            "conteudo": "Porque, onde estiverem dois ou três reunidos em meu nome, aí estou eu no meio deles. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "46",
+                "1"
+            ],
+            "score": 0.92,
+            "conteudo": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "18"
+            ],
+            "score": 0.9,
+            "conteudo": "Perto está o Senhor de todos os que o invocam, de todos os que o invocam em verdade. "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "4",
+                "16"
+            ],
+            "score": 0.88,
+            "conteudo": "Cheguemos, pois, com confiança ao trono da graça, para que possamos alcançar misericórdia e achar graça, a fim de sermos ajudados em tempo oportuno. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "11",
+                "28"
+            ],
+            "score": 0.85,
+            "conteudo": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei. "
+        }
+    ]
+}

@@ -9,102 +9,81 @@
     "ccli": "",
     "copyright": "",
     "time_sig": "4/4",
-    "tempo": "",
-    "feel": "",
+    "tempo": 120,
+    "feel": "Médio",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "redenção",
+        "adoração",
+        "gratidão",
+        "rei",
+        "celebrativo"
+    ],
     "url": "https://www.youtube.com/watch?v=VpTuqSFTkzw",
     "chord_chart": "[Intro]\n.C | Em  | C | Em  |\n\n[A]\n.C            Em                  C             Em\n Quem tomou o mar em suas mãos? Quem contou da areia cada grão?\n.F              G                       Am       Em          G\n Tremem reis, nações, ao ouvir sua voz. Rejubila toda a criação\n\n[Refrão]\n.    C  G  Am                   F              C  G\n Eis nosso Deus, no trono a reinar. Vinde, adoremos\n.    C  G  Am                F             C  G\n Eis nosso Rei: incomparável é. Vinde, adoremos\n \n[Intro...]\n[B]\n.C              Em                C             Em\n Quem já deu conselhos ao Senhor? Ao que disse, quem se pode opor?\n.F          G                     Am             Em           G\n Tudo sabe! Quem vai lhe ensinar? Tudo fez! Quem pode questionar?\n\n[Refrão...]\n[Interlúdio]\n.F | Em  | F | G |\n\n[C - Crescendo]\n.C             Em             C             Em\n Quem como ele cravejado foi? Ao morrer, da culpa nos livrou\n.F               G                  Am           Em              G\n Deus, o eterno, humilhado foi. Mas ressurgiu da tumba o meu Senhor\n\n[Refrão...]\n[Interlúdio]\n.C | C |\n\n[E]\n.C             C/F\n Reinarás  pra sempre                 (4x)\n          (Tua glória encha a terra)\n.Am            C/F\n Reinarás  pra sempre                 (2x)\n          (Tua glória encha a terra)\n.C             C/F\n Reinarás  pra sempre\n          (Tua glória encha a terra)\n.Am            C/F\n Reinarás  pra sempre\n          (Tua glória encha a terra)\n \n[Refrão...]\n[Refrão - Vozes...]",
     "verses": [
         {
             "referencia": [
-                "Romanos",
-                "11",
-                "34"
-            ],
-            "score": 0.98,
-            "conteudo": "Por que quem compreendeu a mente do Senhor? ou quem foi seu conselheiro? "
-        },
-        {
-            "referencia": [
-                "Habacuque",
-                "2",
-                "14"
-            ],
-            "score": 0.98,
-            "conteudo": "Porque a terra se encherá do conhecimento da glória do Senhor, como as águas cobrem o mar. "
-        },
-        {
-            "referencia": [
                 "Isaías",
                 "40",
-                "12"
+                "28-31"
             ],
             "score": 0.95,
-            "conteudo": "Quem mediu na concha da sua mão as águas, e tomou a medida dos céus aos palmos, e recolheu numa medida o pó da terra e pesou os montes com peso e os outeiros em balanças? "
-        },
-        {
-            "referencia": [
-                "Isaías",
-                "53",
-                "5"
-            ],
-            "score": 0.95,
-            "conteudo": "Mas ele foi ferido por causa das nossas transgressões, e moído por causa das nossas iniqüidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados. "
-        },
-        {
-            "referencia": [
-                "Apocalipse",
-                "11",
-                "15"
-            ],
-            "score": 0.95,
-            "conteudo": "E o sétimo anjo tocou a sua trombeta, e houve no céu grandes vozes, que diziam: Os reinos do mundo vieram a ser de nosso Senhor e do seu Cristo, e ele reinará para todo o sempre. "
-        },
-        {
-            "referencia": [
-                "Isaías",
-                "40",
-                "13-14"
-            ],
-            "score": 0.92,
-            "conteudo": "Quem guiou o Espírito do Senhor, ou como seu conselheiro o ensinou? Com quem tomou ele conselho, que lhe desse entendimento, e lhe ensinasse o caminho do juízo, e lhe ensinasse conhecimento, e lhe mostrasse o caminho do entendimento? "
-        },
-        {
-            "referencia": [
-                "Atos",
-                "2",
-                "24"
-            ],
-            "score": 0.92,
-            "conteudo": "Ao qual Deus ressuscitou, soltas as ânsias da morte, pois não era possível que fosse retido por ela; "
-        },
-        {
-            "referencia": [
-                "Filipenses",
-                "2",
-                "6-8"
-            ],
-            "score": 0.9,
-            "conteudo": "Que, sendo em forma de Deus, não teve por usurpação ser igual a Deus, Mas esvaziou-se a si mesmo, tomando a forma de servo, fazendo-se semelhante aos homens; E, achado na forma de homem, humilhou-se a si mesmo, sendo obediente até à morte, e morte de cruz. "
+            "conteudo": "Não sabes, não ouviste que o eterno Deus, o Senhor, o Criador dos fins da terra, nem se cansa nem se fatiga? É inescrutável o seu entendimento. Dá força ao cansado, e multiplica as forças ao que não tem nenhum vigor. Os jovens se cansarão e se fatigarão, e os moços certamente cairão; Mas os que esperam no Senhor renovarão as forças, subirão com asas como águias; correrão, e não se cansarão; caminharão, e não se fatigarão. "
         },
         {
             "referencia": [
                 "Salmos",
-                "96",
-                "10-13"
+                "103",
+                "19"
             ],
             "score": 0.9,
-            "conteudo": "Dizei entre os gentios que o Senhor reina. O mundo também se firmará para que se não abale; julgará os povos com retidão. Alegrem-se os céus, e regozije-se a terra; brame o mar e a sua plenitude. Alegre-se o campo com tudo o que há nele; então se regozijarão todas as árvores do bosque, Ante a face do Senhor, porque vem, porque vem a julgar a terra; julgará o mundo com justiça e os povos com a sua verdade. "
+            "conteudo": "O Senhor tem estabelecido o seu trono nos céus, e o seu reino domina sobre tudo. "
         },
         {
             "referencia": [
-                "João",
-                "1",
-                "3"
+                "Isaías",
+                "44",
+                "24-28"
+            ],
+            "score": 0.88,
+            "conteudo": "Assim diz o Senhor, teu redentor, e que te formou desde o ventre: Eu sou o Senhor que faço tudo, que sozinho estendo os céus, e espraio a terra por mim mesmo; Que desfaço os sinais dos inventores de mentiras, e enlouqueço os adivinhos; que faço tornar atrás os sábios, e converto em loucura o conhecimento deles; Que confirmo a palavra do seu servo, e cumpro o conselho dos seus mensageiros; que digo a Jerusalém: Tu serás habitada, e às cidades de Judá: Sereis edificadas, e eu levantarei as suas ruínas; Que digo à profundeza: Seca-te, e eu secarei os teus rios. Que digo de Ciro: É meu pastor, e cumprirá tudo o que me apraz, dizendo também a Jerusalém: Tu serás edificada; e ao templo: Tu serás fundado. "
+        },
+        {
+            "referencia": [
+                "Jó",
+                "38",
+                "1-11"
             ],
             "score": 0.85,
-            "conteudo": "Todas as coisas foram feitas por ele, e sem ele nada do que foi feito se fez. "
+            "conteudo": "Depois disto o SENHOR respondeu a Jó de um redemoinho, dizendo: Quem é este que escurece o conselho com palavras sem conhecimento? Agora cinge os teus lombos, como homem; e perguntar-te-ei, e tu me ensinarás. Onde estavas tu, quando eu fundava a terra? Faze-mo saber, se tens inteligência. Quem lhe pôs as medidas, se é que o sabes? Ou quem estendeu sobre ela o cordel? Sobre que estão fundadas as suas bases, ou quem assentou a sua pedra de esquina, Quando as estrelas da alva juntas alegremente cantavam, e todos os filhos de Deus jubilavam? Ou quem encerrou o mar com portas, quando este rompeu e saiu da madre; Quando eu pus as nuvens por sua vestidura, e a escuridão por faixa? Quando eu lhe tracei limites, e lhe pus portas e ferrolhos, E disse: Até aqui virás, e não mais adiante, e aqui se parará o orgulho das tuas ondas? "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "8",
+                "34"
+            ],
+            "score": 0.8,
+            "conteudo": "Quem é que condena? Pois é Cristo quem morreu, ou antes quem ressuscitou dentre os mortos, o qual está à direita de Deus, e também intercede por nós. "
+        },
+        {
+            "referencia": [
+                "1 Coríntios",
+                "15",
+                "3-4"
+            ],
+            "score": 0.78,
+            "conteudo": "Porque primeiramente vos entreguei o que também recebi: que Cristo morreu por nossos pecados, segundo as Escrituras, E que foi sepultado, e que ressuscitou ao terceiro dia, segundo as Escrituras. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "19",
+                "16"
+            ],
+            "score": 0.76,
+            "conteudo": "E no manto e na sua coxa tem escrito este nome: Rei dos reis, e Senhor dos senhores. "
         }
     ]
 }

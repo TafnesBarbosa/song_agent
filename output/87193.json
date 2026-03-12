@@ -1,0 +1,89 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/87193/",
+    "id": "87193",
+    "title": "Bondade de Deus",
+    "author": "Isaías Saad",
+    "notes": "",
+    "year": "",
+    "key": "C",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 72,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "fidelidade",
+        "presença",
+        "adoração",
+        "gratidão",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=mZ9yZYo9Mmk",
+    "chord_chart": "[Intro]\n.C  C4  C  C4\n\n[A]\n.         C        F7M/C       C \n Te amo, Deus. Tua graça nunca falha \n.   G/B    Am7       F7M/C       G6 \n Todos os dias. Eu estou em Tuas mãos \n.                   Am7  F7M/C \n Desde quando me levanto \n.        C     G/B  Am7 \n Até eu me deitar \n.         F7M/C     G6      C \n Eu cantarei da bondade de Deus \n\n[Refrão]\n.F7M/C                  C \n       És fiel em todo tempo \n.F7M/C                      C        G6 \n       Em todo tempo Tu és tão, tão bom \n.F7M/C                      Am7 \n       Com todo fôlego que tenho \n.         F7M/C     G6      C \n Eu cantarei da bondade de Deus \n\n[A2]\n.          C        F7M/C            C \n Tua doce voz que me guia em meio ao fogo \n.    G/B   Am7       F7M/C        G6 \n Na escuri_dão tua presença me conforta \n.                Am7  F7M/C \n Sei que és meu Pai \n.      C   G/B  Am7 \n Que amigo és \n.      F7M/C G       C \n Vivo na bondade de Deus \n\n[Refrão..]\n\n[Interlúdio - 2x]\n.C/E   F7M/C    G6    C\n\n[B - 2X]\n.C/E                F7M/C      G6          C \n    Tua bondade me seguirá, me seguirá Senhor \n.C/E                F7M/C      G6          C \n    Tua bondade me seguirá, me seguirá Senhor \n.         C/E            F7M/C                \n    Eu me rendo a Ti, te dou o meu ser \n.       G6          Am7 \n    Entrego tudo a Ti \n.C/E                F7M/C      G6          C \n    Tua bondade me seguirá, me seguirá Senhor \n\n[Refrão...]",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "23",
+                "6"
+            ],
+            "score": 0.98,
+            "conteudo": "Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida; e habitarei na casa do Senhor por longos dias. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "9"
+            ],
+            "score": 0.92,
+            "conteudo": "O Senhor é bom para todos, e as suas misericórdias são sobre todas as suas obras. "
+        },
+        {
+            "referencia": [
+                "Lamentações",
+                "3",
+                "22-23"
+            ],
+            "score": 0.9,
+            "conteudo": "Erro ao pegar versículo"
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "23",
+                "4"
+            ],
+            "score": 0.88,
+            "conteudo": "Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "8",
+                "15"
+            ],
+            "score": 0.82,
+            "conteudo": "Porque não recebestes o espírito de escravidão, para outra vez estardes em temor, mas recebestes o Espírito de adoção de filhos, pelo qual clamamos: Aba, Pai. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "103",
+                "17"
+            ],
+            "score": 0.8,
+            "conteudo": "Mas a misericórdia do Senhor é desde a eternidade e até a eternidade sobre aqueles que o temem, e a sua justiça sobre os filhos dos filhos; "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "36",
+                "5"
+            ],
+            "score": 0.78,
+            "conteudo": "A tua misericórdia, Senhor, está nos céus, e a tua fidelidade chega até às mais excelsas nuvens. "
+        }
+    ]
+}

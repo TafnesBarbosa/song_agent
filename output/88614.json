@@ -8,11 +8,17 @@
     "key": "Bb",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "presença",
+        "adoração",
+        "gratidão",
+        "esperança",
+        "contemplativo"
+    ],
     "url": "https://www.youtube.com/watch?v=teKTKiMinGM",
     "chord_chart": "[Intro]\n.Bb | Bb | Bb | Bb\n\n[A 2x]\n.         Bb\n Faz me ouvir tua voz\n.          Eb/Bb\n Mais que a todas as vozes\n.      Gm        F              Eb\n Sobre as distrações do mundo aqui\n\n[B]\n.    Eb        Bb\n Tua voz vida traz\n.    Eb      Gm      F\n E promessas nos faz\n.     Eb       Gm\n Teu amor vale mais\n.          F            Eb\n Que as riquezas desse mundo\n\n[Refrão]\n.Bb\n Tua palavra, vida abundante\n.Eb\n Tua palavra, nunca falhará\n.        Gm\n Terra e Céu irão passar\n.      F               Eb\n Tua palavra permanecerá\n\n[C]\n.      Bb\n Venha usar nossa voz \n.       Eb\n Com a tua palavra\n.          Gm      F         Eb\n Pra que o mundo receba teu amor",
     "verses": [
@@ -27,75 +33,12 @@
         },
         {
             "referencia": [
-                "Lucas",
-                "21",
-                "33"
-            ],
-            "score": 0.98,
-            "conteudo": "Passará o céu e a terra, mas as minhas palavras não hão de passar. "
-        },
-        {
-            "referencia": [
-                "Marcos",
-                "13",
-                "31"
-            ],
-            "score": 0.98,
-            "conteudo": "Passará o céu e a terra, mas as minhas palavras não passarão. "
-        },
-        {
-            "referencia": [
                 "Salmos",
                 "119",
-                "72"
+                "105"
             ],
             "score": 0.92,
-            "conteudo": "Melhor é para mim a lei da tua boca do que milhares de ouro ou prata. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "119",
-                "127"
-            ],
-            "score": 0.9,
-            "conteudo": "Por isso am "
-        },
-        {
-            "referencia": [
-                "Isaías",
-                "40",
-                "8"
-            ],
-            "score": 0.88,
-            "conteudo": "Seca-se a erva, e cai a flor, porém a palavra de nosso Deus subsiste eternamente. "
-        },
-        {
-            "referencia": [
-                "1 Pedro",
-                "1",
-                "25"
-            ],
-            "score": 0.88,
-            "conteudo": "Mas a palavra do Senhor permanece para sempre.E esta é a palavra que entre vós foi evangelizada. "
-        },
-        {
-            "referencia": [
-                "João",
-                "6",
-                "63"
-            ],
-            "score": 0.85,
-            "conteudo": "O espírito é o que vivifica, a carne para nada aproveita; as palavras que eu vos digo são espírito e vida. "
-        },
-        {
-            "referencia": [
-                "João",
-                "10",
-                "10"
-            ],
-            "score": 0.82,
-            "conteudo": "O ladrão não vem senão a roubar, a matar, e a destruir; eu vim para que tenham vida, e a tenham com abundância. "
+            "conteudo": "Lâmpada para os meus pés é tua palavra, e luz para o meu caminho. "
         },
         {
             "referencia": [
@@ -103,8 +46,26 @@
                 "10",
                 "27"
             ],
-            "score": 0.78,
+            "score": 0.88,
             "conteudo": "As minhas ovelhas ouvem a minha voz, e eu conheço-as, e elas me seguem; "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "40",
+                "8"
+            ],
+            "score": 0.85,
+            "conteudo": "Seca-se a erva, e cai a flor, porém a palavra de nosso Deus subsiste eternamente. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "19",
+                "10"
+            ],
+            "score": 0.82,
+            "conteudo": "Mais desejáveis são do que o ouro, sim, do que muito ouro fino; e mais doces do que o mel e o licor dos favos. "
         }
     ]
 }

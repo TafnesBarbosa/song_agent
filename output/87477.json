@@ -8,103 +8,82 @@
     "key": "E",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "salvação",
+        "oração",
+        "gratidão",
+        "contemplativo",
+        "presença"
+    ],
     "url": "https://www.youtube.com/watch?v=1VeXQasWNns",
     "chord_chart": "[A1]\n.   E          E4           E\n Jesus, quero declarar Teu nome\n. C#m7       C#m7(5+)    C#m7\n Sobre toda mente e coração\n.      A\n Pois sei que existe paz em Tua presença\n.        E    E4  E\n Clamo: Jesus\n \n[A2]\n.              E4           E\n Jesus, quero declarar Teu nome\n.  C#m7               C#m7(5+)  C#m7\n Quebrando os vícios dessa geração\n.    A\n Declaro que há esperança e liberdade\n.        E\n Clamo: Jesus\n\n[Refrão]\n.            B      E/G#  A\n Teu nome é cura. É pode__roso\n.            E   E4  E\n Teu nome é vida\n.           B        E/G#     A\n Destrói cadeias, Dissipa as trevas\n.       E      E4  E\n Vem libertar\n\n[A3]\n.              E4           E\n Jesus, quero declarar Teu nome\n. C#m7      C#m7(5+)       C#m7\n Sobre toda alma em depressão\n.   A\n Ansiedade e medo saiam agora\n.        E    E4  E\n Clamo: Jesus\n\n[Refrão...]\n[C - 2X]\n.                      E4        E\n Declare pelas ruas o nome de Jesus\n. C#m7\n Sobre a escuridão\n.            C#m7(5+)  C#m7\n Ele vai trazer sua   luz\n. A                                     E\n Sobre sua família clame o santo nome: Jesus\n\n[Refrão...]\n[A3...]",
     "verses": [
+        {
+            "referencia": [
+                "Filipenses",
+                "2",
+                "10-11"
+            ],
+            "score": 0.98,
+            "conteudo": "Para que ao nome de Jesus se dobre todo o joelho dos que estão nos céus, e na terra, e debaixo da terra, E toda a língua confesse que Jesus Cristo é o Senhor, para glória de Deus Pai. "
+        },
         {
             "referencia": [
                 "Atos",
                 "4",
                 "12"
             ],
-            "score": 0.98,
+            "score": 0.95,
             "conteudo": "E em nenhum outro há salvação, porque também debaixo do céu nenhum outro nome há, dado entre os homens, pelo qual devamos ser salvos. "
-        },
-        {
-            "referencia": [
-                "Filipenses",
-                "2",
-                "9-11"
-            ],
-            "score": 0.95,
-            "conteudo": "Por isso, também Deus o exaltou soberanamente, e lhe deu um nome que é sobre todo o nome; Para que ao nome de Jesus se dobre todo o joelho dos que estão nos céus, e na terra, e debaixo da terra, E toda a língua confesse que Jesus Cristo é o Senhor, para glória de Deus Pai. "
-        },
-        {
-            "referencia": [
-                "Marcos",
-                "16",
-                "17-18"
-            ],
-            "score": 0.95,
-            "conteudo": "E estes sinais seguirão aos que crerem: Em meu nome expulsarão os demônios; falarão novas línguas; Pegarão nas serpentes; e, se beberem alguma coisa mortífera, não lhes fará dano algum; e porãoas mãos sobre os enfermos, e os curarão. "
-        },
-        {
-            "referencia": [
-                "João",
-                "8",
-                "12"
-            ],
-            "score": 0.92,
-            "conteudo": "Falou-lhes, pois, Jesus outra vez, dizendo: Eu sou a luz do mundo; quem me segue não andará em trevas, mas terá a luz da vida. "
-        },
-        {
-            "referencia": [
-                "Gálatas",
-                "5",
-                "1"
-            ],
-            "score": 0.9,
-            "conteudo": "Estai, pois, firmes na liberdade com que Cristo nos libertou, e não torneis a colocar-vos debaixo do jugo da servidão. "
         },
         {
             "referencia": [
                 "João",
                 "14",
-                "27"
+                "13-14"
             ],
-            "score": 0.9,
-            "conteudo": "Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorize. "
-        },
-        {
-            "referencia": [
-                "Colossenses",
-                "1",
-                "13"
-            ],
-            "score": 0.9,
-            "conteudo": "O qual nos tirou da potestade das trevas, e nos transportou para o reino do Filho do seu amor; "
-        },
-        {
-            "referencia": [
-                "1 Pedro",
-                "5",
-                "7"
-            ],
-            "score": 0.88,
-            "conteudo": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós. "
-        },
-        {
-            "referencia": [
-                "João",
-                "1",
-                "4"
-            ],
-            "score": 0.85,
-            "conteudo": "Nele estava a vida, e a vida era a luz dos homens. "
+            "score": 0.92,
+            "conteudo": "E tudo quanto pedirdes em meu nome eu o farei, para que o Pai seja glorificado no Filho. Se pedirdes alguma coisa em meu nome, eu o farei. "
         },
         {
             "referencia": [
                 "Romanos",
-                "8",
-                "2"
+                "10",
+                "13"
+            ],
+            "score": 0.9,
+            "conteudo": "Porque todo aquele que invocar o nome do Senhor será salvo. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "147",
+                "3"
             ],
             "score": 0.85,
-            "conteudo": "Porque a lei do Espírito de vida, em Cristo Jesus, me livrou da lei do pecado e da morte. "
+            "conteudo": "Sara os quebrantados de coração, e lhes ata as suas feridas. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "9",
+                "2"
+            ],
+            "score": 0.82,
+            "conteudo": "O povo que andava em trevas, viu uma grande luz, e sobre os que habitavam na região da sombra da morte resplandeceu a luz. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "11",
+                "28"
+            ],
+            "score": 0.8,
+            "conteudo": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei. "
         }
     ]
 }

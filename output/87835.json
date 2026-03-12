@@ -8,11 +8,17 @@
     "key": "D",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Rápido",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "fé",
+        "esperança",
+        "missões",
+        "confiança",
+        "celebrativo"
+    ],
     "url": "https://www.youtube.com/watch?v=0Awg2knrbUY",
     "chord_chart": "[Intro]\n.D | D7/C | Gm7/B | Asus A  \n\n[A1]\n.        D      A/C#     Bm   A  \n Nós queremos ouvir tua voz  \n.       D            G           A4  A  \n Teu louvor sempre esteja entre nós  \n.  D/F#   G                  D          F#/A#       Bm  \n Queremos ser, Senhor, mais sábios na verdade e no amor  \n.     Em          A           D   C  G  D  \n Marcharemos na coragem do Senhor  \n\n[Coro]\n.      G      A          D  \n Marcharemos cheios de coragem  \n.      G    A         Bm   A   \n Seguiremos seja onde for  \n.          G       A          Bm    A  \n Embora a dor nos cerque na viagem  \n.      Em        A            D   C G D  \n Marcharemos na coragem do Senhor  \n\n[A2]\n.            D          A/C#      Bm   A  \n E quando a escuridão da noite descer  \n.          D      G             A4  A  \n Queremos só pela graça e fé viver  \n.   D/F#  G             D          F#/A#       Bm  \n Com esperança e com coragem na alegria ou na dor  \n.      Em          A          D   C  G  D  \n Marcharemos na coragem do Senhor  \n\n[VOLTA CORO...]\n[A3]\n.              D         A/C#    Bm   A  \n E quando a escuridão da noite descer  \n.          D      G           A4  A  \n Queremos só pela graça e fé viver  \n.   D/F#  G             D          F#/A#       Bm  \n Com esperança e com coragem na alegria ou na dor  \n.        Em         A         D   A/B  \n Marcharemos na coragem do Senhor  \n\n[Coro Mod]\n.      A      B           E  \n Marcharemos cheios de coragem  \n.      A      B       C#m  B  \n Seguiremos seja onde for  \n.         A        B         C#m   B  \n Embora a dor nos cerque na viagem  \n\n.      F#m         B           E  C#m  \n Marcharemos na coragem do Senhor (2x)\n.      F#m         B           C  D  E \n Marcharemos na coragem do Senhor",
     "verses": [
@@ -27,21 +33,12 @@
         },
         {
             "referencia": [
-                "Deuteronômio",
-                "31",
-                "6"
+                "2 Coríntios",
+                "5",
+                "7"
             ],
-            "score": 0.97,
-            "conteudo": "Esforçai-vos, e animai-vos; não temais, nem vos espanteis diante deles; porque o Senhor teu Deus é o que vai contigo; não te deixará nem te desamparará. "
-        },
-        {
-            "referencia": [
-                "Isaías",
-                "41",
-                "10"
-            ],
-            "score": 0.95,
-            "conteudo": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça. "
+            "score": 0.92,
+            "conteudo": "(Porque andamos por fé, e não por vista). "
         },
         {
             "referencia": [
@@ -49,62 +46,44 @@
                 "23",
                 "4"
             ],
-            "score": 0.92,
+            "score": 0.88,
             "conteudo": "Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam. "
         },
         {
             "referencia": [
-                "Salmos",
-                "27",
-                "14"
+                "Efésios",
+                "6",
+                "10"
             ],
-            "score": 0.9,
-            "conteudo": "Espera no Senhor, anima-te, e ele fortalecerá o teu coração; espera, pois, no Senhor. "
+            "score": 0.85,
+            "conteudo": "No demais, irmãos meus, fortalecei-vos no Senhor e na força do seu poder. "
         },
         {
             "referencia": [
-                "2 Coríntios",
-                "4",
-                "8-9"
+                "Deuteronômio",
+                "31",
+                "6"
             ],
-            "score": 0.9,
-            "conteudo": "Em tudo somos atribulados, mas não angustiados; perplexos, mas não desanimados. Perseguidos, mas não desamparados; abatidos, mas não destruídos; "
-        },
-        {
-            "referencia": [
-                "Filipenses",
-                "4",
-                "13"
-            ],
-            "score": 0.88,
-            "conteudo": "Posso todas as coisas em Cristo que me fortalece. "
-        },
-        {
-            "referencia": [
-                "Romanos",
-                "5",
-                "3-5"
-            ],
-            "score": 0.88,
-            "conteudo": "E não somente isto, mas também nos gloriamos nas tribulações; sabendo que a tribulação produz a paciência, E a paciência a experiência, e a experiência a esperança. E a esperança não traz confusão, porquanto o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado. "
+            "score": 0.82,
+            "conteudo": "Esforçai-vos, e animai-vos; não temais, nem vos espanteis diante deles; porque o Senhor teu Deus é o que vai contigo; não te deixará nem te desamparará. "
         },
         {
             "referencia": [
                 "Hebreus",
                 "10",
-                "38"
+                "35"
             ],
-            "score": 0.85,
-            "conteudo": "Mas o justo viverá pela fé; E, se ele recuar, a minha alma não tem prazer nele. "
+            "score": 0.8,
+            "conteudo": "Não rejeiteis, pois, a vossa confiança, que tem grande e avultado galardão. "
         },
         {
             "referencia": [
                 "Salmos",
-                "119",
-                "105"
+                "27",
+                "1"
             ],
-            "score": 0.8,
-            "conteudo": "Lâmpada para os meus pés é tua palavra, e luz para o meu caminho. "
+            "score": 0.78,
+            "conteudo": "O SENHOR é a minha luz e a minha salvação; a quem temerei? O SENHOR é a força da minha vida; de quem me recearei? "
         }
     ]
 }

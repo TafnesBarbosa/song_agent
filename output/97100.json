@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/97100/",
+    "id": "97100",
+    "title": "Vem (Pedimos Algo a Ti)",
+    "author": "PIB Curitiba",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "presença",
+        "adoração",
+        "gratidão",
+        "contemplativo",
+        "rei"
+    ],
+    "url": "https://www.youtube.com/watch?v=18EAJqLmLKc|https://www.youtube.com/watch?v=LD-QBrhi0qg",
+    "chord_chart": "[Intro]\n.E  B  D6  A2  \n\n[A - 2x]\n.E       B/E \n  PEDIMOS ALGO A TI  \n.D/E     A/E  \n  E BUSCAREMOS TER  \n.E         B/E  \n  AO TE ADORARMOS DEUS  \n.D/E            A \n  TRANSFORMA O NOSSO SER  \n\n[B]\n.    E      B/E  \n OH VEM, OH VEM  \n.   C#m      A  \n OH VEM, OH VEM  \n\n[Refrão]\n.    E            B  \n OH VEM, TOMA OH DEUS  \n.      C#m7       A9  \n TEU LUGAR, O TEU TRONO  \n.   E           B  \n Ó VEM REI DOS REIS  \n.       C#m7          A9  \n SANTO DEUS, TRANSFORMAR  \n\n[C - 2x] \n.    E  | B  C#m  B/D# | C#m7 | A |\n OH VEM,             OH  VEM\n \n[1ª vez: Volta início...]\n \n[D - 4x]\n. E                \n NÓS TE EXALTAMOS, NÓS TE EXALTAMOS   \n.                         D A  \n NÓS TE EXALTAMOS COM LOUVORES \n\n[Refrão - Mod]\n.    F            C  \n OH VEM, TOMA OH DEUS  \n.       Dm7       Bb9  \n TEU LUGAR, O TEU TRONO \n.   F           C  \n Ó VEM REI DOS REIS  \n.      Dm7           Bb9  \n SANTO DEUS, TRANSFORMAR  \n\n[E - 2x]\n.    F  | C  Dm  C/E |  Dm7  | Bb2 |\n OH VEM,           OH  VEM",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "22",
+                "3"
+            ],
+            "score": 0.92,
+            "conteudo": "Porém tu és santo, tu que habitas entre os louvores de Israel. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "99",
+                "1"
+            ],
+            "score": 0.88,
+            "conteudo": "O SENHOR reina; tremam os povos. Ele está assentado entre os querubins; comova-se a terra. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "47",
+                "6"
+            ],
+            "score": 0.85,
+            "conteudo": "Cantai louvores a Deus, cantai louvores; cantai louvores ao nosso Rei, cantai louvores. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "6",
+                "10"
+            ],
+            "score": 0.82,
+            "conteudo": "Venha o teu reino, seja feita a tua vontade, assim na terra como no céu; "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "19",
+                "16"
+            ],
+            "score": 0.8,
+            "conteudo": "E no manto e na sua coxa tem escrito este nome: Rei dos reis, e Senhor dos senhores. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "51",
+                "10"
+            ],
+            "score": 0.78,
+            "conteudo": "Cria em mim, ó Deus, um coração puro, e renova em mim um espírito reto. "
+        }
+    ]
+}

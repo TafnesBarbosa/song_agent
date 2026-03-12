@@ -1,0 +1,62 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/95793/",
+    "id": "95793",
+    "title": "Ele é o Leão da Tribo de Judá",
+    "author": "",
+    "notes": "",
+    "year": "",
+    "key": "G",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Rápido",
+    "theme": "",
+    "tags": [
+        "rei",
+        "adoração",
+        "gratidão",
+        "esperança",
+        "celebrativo"
+    ],
+    "url": "https://youtu.be/vfuFvmoTO1o?si=mfbLp3TIZ3T1DSIH|https://youtu.be/CYvj_YvcIaA?si=otmBbuhEBr8kXrKD",
+    "chord_chart": ".         Em\n ELE É O LEÃO DA TRIBO DE JUDÁ\n.        Am\n JESUS TOMOU NOSSAS CADEIAS E NOS LIBERTOU\n. Em                       B7\n ELE É A ROCHA DA NOSSA VITÓRIA\n.        Em\n A NOSSA FORÇA EM TEMPOS DE FRAQUEZA\n.    Am\n UMA TORRE EM TEMPOS DE GUERRA\n.B7              Em       Am  Em  Am\n Ó, ESPERANÇA DE ISRAEL!\n.B7              Em       Am  Em  Am\n Ó, ESPERANÇA DE ISRAEL!\n.B7                  C   D  Em\n Ó, ESPERANÇA DE ISRAEL!",
+    "verses": [
+        {
+            "referencia": [
+                "Apocalipse",
+                "5",
+                "5"
+            ],
+            "score": 0.98,
+            "conteudo": "E disse-me um dos anciãos: Não chores; eis aqui o Leão da tribo de Judá, a raiz de Davi, que venceu, para abrir o livro e desatar os seus sete selos. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "18",
+                "2"
+            ],
+            "score": 0.85,
+            "conteudo": "O Senhor é o meu rochedo, e o meu lugar forte, e o meu libertador; o meu Deus, a minha fortaleza, em quem confio; o meu escudo, a força da minha salvação, e o meu alto refúgio. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "12",
+                "2"
+            ],
+            "score": 0.82,
+            "conteudo": "Eis que Deus é a minha salvação; nele confiarei, e não temerei, porque o SENHOR DEUS é a minha força e o meu cântico, e se tornou a minha salvação. "
+        },
+        {
+            "referencia": [
+                "Jeremias",
+                "14",
+                "8"
+            ],
+            "score": 0.8,
+            "conteudo": "Ó esperança de Israel, e Redentor seu no tempo da angústia, por que serias como um estrangeiro na terra e como o viandante que se retira a passar a noite? "
+        }
+    ]
+}

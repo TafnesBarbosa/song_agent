@@ -1,0 +1,88 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/95791/",
+    "id": "95791",
+    "title": "Cristo Já Ressuscitou (HCC 135)",
+    "author": "Hinário para o Culto Cristão (HCC)",
+    "notes": "",
+    "year": "",
+    "key": "C",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Rápido",
+    "theme": "",
+    "tags": [
+        "ressurreição",
+        "páscoa",
+        "rei",
+        "celebrativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=UgOqGUriOsE&t=1149s",
+    "chord_chart": "[A]\n. C     G/B   F  F/C C      Dm C   C/G     C\n CRISTO JÁ RESSUSCITOU;  A----LE---LU-----IA!\n. F    C F C/E  Dm C C/G  C Dm  C   C/G G7  C  \n SOBRE A MORTE  TRIUNFOU; A-----LE---LU-----IA!\n.G D7 G/B  G7  C G/D  C   G D7   G C  G/D  D7  G\n TUDO  CON-SU-MA-DO ESTÁ; A-----LE----LU------IA!\n.  G/F C/E     F F/C  C     F  C/E F C/G G7  C\n SALVA-ÇÃO DE GRAÇA  DÁ; A-----LE----LU-----IA!\n\n[B]\n. C  G/B     F   F/C C     Dm  C   C/G   C\n UMA VEZ NA CRUZ SOFREU; A-----LE---LU----IA!\n.F C  F  C/E  Dm7  C C/G G  C  Dm C  C/G G7 C\n UMA VEZ POR  NÓS  MORREU; A----LE---LU----IA!\n. G  D7 G/B G7 C C/G   C  G  D7 G  C C/G  D7  G\n MAS  AGORA    VIVO ESTÁ, A-----LE---LU-------IA!\n.  G/F C/E    F F/C C      F C/E F C/G  G7  C\n E PRA SEMPRE REINARÁ; A-----LE----LU------IA!\n\n[C]\n. C     G/B   F F/C  C     Dm  C  C/G G7 C\n GRATOS HINOS ENTO--AI; A-----LE---LU----IA!\n.F C  F  C/E  Dm C C/G    C Dm  C    C/G G7 C \n A JESUS, O  GRANDE REI;  A-----LE---LU----IA!\n. G  D7 G/B G7  C  G/D  C   G   D7 G C  G/D D7 G \n POIS À  MORTE QUIS BAIXAR, A-----LE----LU----IA!\n. G/F C/E    F  F/C C      F C/E F  C/G  G7   C \n PECA-DORES PRA SALVAR; A-----LE----LU-------IA!",
+    "verses": [
+        {
+            "referencia": [
+                "Mateus",
+                "28",
+                "6"
+            ],
+            "score": 0.98,
+            "conteudo": "Ele não está aqui, porque já ressuscitou, como havia dito. Vinde, vede o lugar onde o Senhor jazia. "
+        },
+        {
+            "referencia": [
+                "1 Coríntios",
+                "15",
+                "3-4"
+            ],
+            "score": 0.95,
+            "conteudo": "Porque primeiramente vos entreguei o que também recebi: que Cristo morreu por nossos pecados, segundo as Escrituras, E que foi sepultado, e que ressuscitou ao terceiro dia, segundo as Escrituras. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "1",
+                "18"
+            ],
+            "score": 0.92,
+            "conteudo": "E o que vivo e fui morto, mas eis aqui estou vivo para todo o sempre. Amém. E tenho as chaves da morte e do inferno. "
+        },
+        {
+            "referencia": [
+                "João",
+                "19",
+                "30"
+            ],
+            "score": 0.9,
+            "conteudo": "E, quando Jesus tomou o vinagre, disse: Está consumado. E, inclinando a cabeça, entregou o espírito. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "6",
+                "9"
+            ],
+            "score": 0.88,
+            "conteudo": "Sabendo que, tendo sido Cristo ressuscitado dentre os mortos, já não morre; a morte não mais tem domínio sobre ele. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "11",
+                "15"
+            ],
+            "score": 0.85,
+            "conteudo": "E o sétimo anjo tocou a sua trombeta, e houve no céu grandes vozes, que diziam: Os reinos do mundo vieram a ser de nosso Senhor e do seu Cristo, e ele reinará para todo o sempre. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "2",
+                "8"
+            ],
+            "score": 0.82,
+            "conteudo": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. "
+        }
+    ]
+}

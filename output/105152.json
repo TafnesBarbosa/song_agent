@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/105152/",
+    "id": "105152",
+    "title": "Cantai ao Senhor (Salmo 96)",
+    "author": "",
+    "notes": "",
+    "year": "",
+    "key": "A",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "glória",
+        "salvação",
+        "adoração",
+        "gratidão",
+        "celebrativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=i1uEBjy_jjk",
+    "chord_chart": "[INTRO]\n.A   A9    A   A9\n\n[A]\n.A9           D/A    A9      D/A \n CANTAI AO SENHOR UM CÂNTICO NOVO \n.   F#m      F#m/E  D#º       D6   D7+ \n CANTAI AO SENHOR    TODAS AS TERRAS \n.C#m          D7+       C#m       D7+ \n CANTAI AO SENHOR BENDIZEI O SEU NOME \n.Bm        C#m   D        G   E\n PROCLAMAI  A   SUA SALVAÇÃO \n\n[B]\n.     A9             D/A \n ANUNCIAI ENTRE AS NAÇÕES \n.A9     D/A \n A SUA GLÓRIA \n.F#m           F#m/E \n ENTRE TODOS OS POVOS \n.   D#º      D7+ \n AS TUAS MARAVILHAS \n.C#m             D7+ \n PORQUE GRANDE É O SENHOR \n.     C#m            D7+ \n MUI DIGNO DE SER LOUVADO \n.Bm       C#m  D              G     E\n MAIS TEMÍVEL  DO QUE FALSOS DEUSES \n\n[C]\n.A            D/A      A         D/A \n GLÓRIA E MAJESTADE ESTÃO DIANTE DELE\n.A           D/A       G       E    A\n FORÇA E FORMOSURA NO SEU SANTUÁRIO.\n\n[C - 2a vez]\n.A            D/A      A         D/A \n GLÓRIA E MAJESTADE ESTÃO DIANTE DELE\n.A           D/F#      G       E    A\n FORÇA E FORMOSURA NO SEU SANTUÁRIO.",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "96",
+                "1"
+            ],
+            "score": 0.98,
+            "conteudo": "Cantai ao SENHOR um cântico novo, cantai ao SENHOR toda a terra. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "96",
+                "3"
+            ],
+            "score": 0.98,
+            "conteudo": "Anunciai entre as nações a sua glória; entre todos os povos as suas maravilhas. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "96",
+                "6"
+            ],
+            "score": 0.98,
+            "conteudo": "Glória e majestade estão ante a sua face, força e formosura no seu santuário. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "96",
+                "4"
+            ],
+            "score": 0.97,
+            "conteudo": "Porque grande é o Senhor, e digno de louvor, mais temível do que todos os deuses. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "96",
+                "2"
+            ],
+            "score": 0.95,
+            "conteudo": "Cantai ao Senhor, bendizei o seu nome; anunciai a sua salvação de dia em dia. "
+        }
+    ]
+}

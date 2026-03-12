@@ -8,11 +8,17 @@
     "key": "F",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "santificação",
+        "adoração",
+        "retiro",
+        "contemplativo",
+        "arrependimento"
+    ],
     "url": "https://www.youtube.com/watch?v=u82WB0fGiQg",
     "chord_chart": "[A]\n.F                   C7\n EU QUERO SER SENHOR AMADO\n.        Gm        C7      Bb  F\n COMO UM VASO NAS MÃOS DO OLEIRO;\n.               Cm F             Bb     Bbm\n QUEBRA A MINHA VIDA E FAZE-A DE NOVO.\n.           F  C/E Dm           Gm  C7\n EU QUERO SER,        EU QUERO SER,\n.           F\n UM VASO NOVO.\n\n[B]\n.F                       C7\n COMO TU QUERES, SENHOR AMADO\n.         Gm      C7       Bb F\n TU ÉS O OLEIRO E EU SOU O VASO.\n.               Cm F             Bb    Bbm\n QUEBRA A MINHA VIDA E FAZE-A DE NOVO.\n.          F   C/E Dm           Gm  C7\n EU QUERO SER,        EU QUERO SER,\n.          F\n UM VASO NOVO.",
     "verses": [
@@ -20,18 +26,9 @@
             "referencia": [
                 "Jeremias",
                 "18",
-                "3-4"
-            ],
-            "score": 0.98,
-            "conteudo": "E desci à casa do oleiro, e eis que ele estava fazendo a sua obra sobre as rodas, Como o vaso, que ele fazia de barro, quebrou-se na mão do oleiro, tornou a fazer dele outro vaso, conforme o que pareceu bem aos olhos do oleiro fazer. "
-        },
-        {
-            "referencia": [
-                "Jeremias",
-                "18",
                 "6"
             ],
-            "score": 0.97,
+            "score": 0.98,
             "conteudo": "Não poderei eu fazer de vós como fez este oleiro, ó casa de Israel? diz o Senhor. Eis que, como o barro na mão do oleiro, assim sois vós na minha mão, ó casa de Israel. "
         },
         {
@@ -45,57 +42,21 @@
         },
         {
             "referencia": [
+                "Salmos",
+                "51",
+                "10"
+            ],
+            "score": 0.88,
+            "conteudo": "Cria em mim, ó Deus, um coração puro, e renova em mim um espírito reto. "
+        },
+        {
+            "referencia": [
                 "2 Coríntios",
                 "5",
                 "17"
             ],
-            "score": 0.93,
-            "conteudo": "Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo. "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "4",
-                "22-24"
-            ],
-            "score": 0.92,
-            "conteudo": "Que, quanto ao trato passado, vos despojeis do velho homem, que se corrompe pelas concupiscências do engano; E vos renoveis no espírito da vossa mente; E vos revistais do novo homem, que segundo Deus é criado em verdadeira justiça e santidade. "
-        },
-        {
-            "referencia": [
-                "Romanos",
-                "9",
-                "20-21"
-            ],
-            "score": 0.9,
-            "conteudo": "Mas, ó homem, quem és tu, que a Deus replicas? Porventura a coisa formada dirá ao que a formou: Por que me fizeste assim? Ou não tem o oleiro poder sobre o barro, para da mesma massa fazer um vaso para honra e outro para desonra? "
-        },
-        {
-            "referencia": [
-                "Colossenses",
-                "3",
-                "10"
-            ],
-            "score": 0.9,
-            "conteudo": "E vos vestistes do novo, que se renova para o conhecimento, segundo a imagem daquele que o criou; "
-        },
-        {
-            "referencia": [
-                "Tito",
-                "3",
-                "5"
-            ],
-            "score": 0.88,
-            "conteudo": "Não pelas obras de justiça que houvéssemos feito, mas segundo a sua misericórdia, nos salvou pela lavagem da regeneração e da renovação do Espírito Santo, "
-        },
-        {
-            "referencia": [
-                "Isaías",
-                "29",
-                "16"
-            ],
             "score": 0.85,
-            "conteudo": "Vós tudo perverteis, como se o oleiro fosse igual ao barro, e a obra dissesse do seu artífice: Não me fez; e o vaso formado dissesse do seu oleiro: Nada sabe. "
+            "conteudo": "Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo. "
         }
     ]
 }

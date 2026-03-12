@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/87475/",
+    "id": "87475",
+    "title": "Majestade",
+    "author": "Lincoln Brewster",
+    "notes": "",
+    "year": "",
+    "key": "D",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Rápido",
+    "theme": "",
+    "tags": [
+        "glória",
+        "adoração",
+        "gratidão",
+        "celebrativo",
+        "soberania"
+    ],
+    "url": "https://www.youtube.com/watch?v=RFN48Dm9YVo",
+    "chord_chart": "[INTRO]\n.| D  |   A4  |  G  |  D  |\n\n[A]\n.   D                  Asus         G           D\n SENHOR, MEU DEUS, GRANDIOSO É TEU NOME, TEU PODER! \n.   D                  Asus         G           D\n SENHOR, MEU DEUS, GRANDIOSO É TEU NOME, TEU PODER! \n\n[B - 1ª VEZ]\n.             G          D \n TUA GLÓRIA DECLARAM OS CÉUS \n.                G     Bm7 \n POR TI CLAMA O GRANDE MAR \n.              G         D/F# \n MONTANHAS SE PROSTRAM E LOUVAM \n.      Em7      D/F#       G     A      D\n E COM ELES, TAMBÉM, CANTAREI A TI MEU PAI! \n \n[Intro - 2x]\n.| D  |  Asus  |  G  |  D  |\n\n[Parte A...]\n[B - 2ª VEZ]\n.              G         D \n TUA GLÓRIA DECLARAM OS CÉUS \n.                G     Bm7\n POR TI CLAMA O GRANDE MAR \n.              G         D/F# \n MONTANHAS SE PROSTRAM E LOUVAM \n.      Em7     D/F#        G \n E COM ELES, TAMBÉM, CANTAREI... \n.     A        G          D \n TUA GLÓRIA DECLARAM OS CÉUS \n.                G     Bm7 \n POR TI CLAMA O GRANDE MAR \n.              G         D/F# \n MONTANHAS SE PROSTRAM E LOUVAM \n.      Em7      D/F#       G     A      D\n E COM ELES, TAMBÉM, CANTAREI A TI MEU PAI! \n \n [Intro - 2x]\n.| D  |  Asus  |  G  |  D  |\n\n[C]\n.D           G \n EU TE LOUVAREI! (4X) \n. D    D/C#  D/F#   G   Bm7   D/F#   G     A \n TODOS  LOU - VA - RÃO! TODOS  LOU - VA - RÃO!",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "8",
+                "1"
+            ],
+            "score": 0.98,
+            "conteudo": "Ó Senhor, Senhor nosso, quão admirável é o teu nome em toda a terra, pois puseste a tua glória sobre os céus! "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "19",
+                "1"
+            ],
+            "score": 0.95,
+            "conteudo": "Os céus declaram a glória de Deus e o firmamento anuncia a obra das suas mãos. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "98",
+                "7-8"
+            ],
+            "score": 0.92,
+            "conteudo": "Brame o mar e a sua plenitude; o mundo, e os que nele habitam. Os rios batam as palmas; regozijem-se também as montanhas, "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "5"
+            ],
+            "score": 0.88,
+            "conteudo": "Falarei da magnificência gloriosa da tua majestade e das tuas obras maravilhosas. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "148",
+                "3-5"
+            ],
+            "score": 0.85,
+            "conteudo": "Louvai-o, sol e lua; louvai-o, todas as estrelas luzentes. Louvai-o, céus dos céus, e as águas que estão sobre os céus. Louvem o nome do Senhor, pois mandou, e logo foram criados. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "15",
+                "4"
+            ],
+            "score": 0.82,
+            "conteudo": "Quem te não temerá, ó Senhor, e não magnificará o teu nome? Porque só tu és santo; por isso todas as nações virão, e se prostrarão diante de ti, porque os teus juízos são manifestos. "
+        }
+    ]
+}

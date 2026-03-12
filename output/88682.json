@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/88682/",
+    "id": "88682",
+    "title": "Ao Único",
+    "author": "Ministério Koinonya / Bené Gomes",
+    "notes": "",
+    "year": "",
+    "key": "D",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "glória",
+        "adoração",
+        "gratidão",
+        "contemplativo",
+        "rei"
+    ],
+    "url": "https://www.youtube.com/watch?v=7qD7VnmJAXg",
+    "chord_chart": "[A - 2x]\n.   D           A/C#    Bm7      Bm/A\n AO ÚNICO QUE É DIGNO DE RECEBER\n.  G          D/F#\n A HONRA E A GLÓRIA,\n.  Em          G/A  A\n A FORÇA E O PODER\n.   D            Am   D  \n AO REI, ETERNO, IMORTAL\n.G/B             A\n INVISÍVEL, MAS REAL\n \n[1ª vez]\n.   G        A           D   G/A A7\n A ELE MINISTRAMOS O LOUVOR\n \n[2ª vez]\n.   G        A           D   A/C#\n A ELE MINISTRAMOS O LOUVOR\n\n[B]\n.  Bm7  F#m7     G            D   A/C#\n COROA___MOS  A  TÍ, Ó REI JESUS\n.  Bm7  F#m7     G            A4  A\n COROA___MOS  A  TÍ, Ó REI JESUS\n.    G          A\n ADORAMOS O TEU NOME\n.       F#            Bm  Bm/A\n NOS RENDEMOS A TEUS PÉS\n.     Em7        G/A    A#°    Bm  Bm/A\n CONSAGRAMOS TODO NOSSO  SER A TI\n.      Em7       G/A     A     D\n CONSAGRAMOS TODO NOSSO SER A TI",
+    "verses": [
+        {
+            "referencia": [
+                "Apocalipse",
+                "5",
+                "12-13"
+            ],
+            "score": 0.98,
+            "conteudo": "Que com grande voz diziam: Digno é o Cordeiro, que foi morto, de receber o poder, e riquezas, e sabedoria, e força, e honra, e glória, e ações de graças. E ouvi a toda a criatura que está no céu, e na terra, e debaixo da terra, e que estão no mar, e a todas as coisas que neles há, dizer: Ao que está assentado sobre o trono, e ao Cordeiro, sejam dadas ações de graças, e honra, e glória, e poder para todo o sempre. "
+        },
+        {
+            "referencia": [
+                "1 Timóteo",
+                "1",
+                "17"
+            ],
+            "score": 0.95,
+            "conteudo": "Ora, ao Rei dos séculos, imortal, invisível, ao único Deus sábio, seja honra e glória para todo o sempre. Amém. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "29",
+                "1-2"
+            ],
+            "score": 0.92,
+            "conteudo": "Dai ao SENHOR, ó filhos dos poderosos, dai ao SENHOR glória e força. Dai ao Senhor a glória devida ao seu nome, adorai o Senhor na beleza da santidade. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "11",
+                "36"
+            ],
+            "score": 0.88,
+            "conteudo": "Porque dele e por ele, e para ele, são todas as coisas; glória, pois, a ele eternamente. Amém. "
+        },
+        {
+            "referencia": [
+                "Colossenses",
+                "1",
+                "15-16"
+            ],
+            "score": 0.85,
+            "conteudo": "O qual é imagem do Deus invisível, o primogênito de toda a criação; Porque nele foram criadas todas as coisas que há nos céus e na terra, visíveis e invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades. Tudo foi criado por ele e para ele. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "1-3"
+            ],
+            "score": 0.82,
+            "conteudo": "Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre. Cada dia te bendirei, e louvarei o teu nome pelos séculos dos séculos e para sempre. Grande é o Senhor, e muito digno de louvor, e a sua grandeza inescrutável. "
+        }
+    ]
+}

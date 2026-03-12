@@ -10,29 +10,53 @@
     "copyright": "",
     "time_sig": "4/4",
     "tempo": "75",
-    "feel": "",
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "glória",
+        "adoração",
+        "gratidão",
+        "contemplativo",
+        "soberania"
+    ],
     "url": "https://www.youtube.com/watch?v=IT827htf_S8",
     "chord_chart": "[Intro]\n.G | G | Em7 | Em7 | C | D | G | G4 ||\n\n[A]\n. G                         Em7\n COM ESPLENDOR DE UM REI EM MAJESTADE E LUZ\n.                   C9\n FAZ A TERRA SE ALEGRAR FAZ A TERRA SE ALEGRAR\n. G                        Em7\n ELE É A PRÓPRIA LUZ E AS TREVAS VÃO FUGIR\n.               C9\n TREMER COM SUA VOZ TREMER COM SUA VOZ\n\n[B - Refrão]\n.      G\n QUÃO GRANDE É O MEU DEUS\n.               Em7\n CANTAREI QUÃO GRANDE É O MEU DEUS\n.                C9      C/D             G    C/D\n E TODOS HÃO DE VER QUÃO GRANDE É O MEU DEUS\n\n[A2]\n.     G               Em7\n POR GERAÇÕES ELE É O TEMPO ESTÁ EM TUAS MÃOS\n.              C9\n O COMEÇO E O FIM O COMEÇO E O FIM\n. G                     Em7\n TRÊS SE FORMAM E MUM: FILHO, ESPÍRITO E PAI\n.           C9\n CORDEIRO E LEÃO CORDEIRO E LEÃO\n\n[C]\n.       G          D/F#             Em7\n SOBRE TODO NOME É      O SEU TU ÉS DIGNO DO LOUVOR\n.    C9            D              G\n EU CANTAREI QUÃO GRANDE É O MEU DEUS",
     "verses": [
-        {
-            "referencia": [
-                "Apocalipse",
-                "22",
-                "13"
-            ],
-            "score": 0.98,
-            "conteudo": "Eu sou o Alfa e o Ômega, o princípio e o fim, o primeiro e o derradeiro. "
-        },
         {
             "referencia": [
                 "Salmos",
                 "145",
                 "3"
             ],
-            "score": 0.96,
+            "score": 0.98,
             "conteudo": "Grande é o Senhor, e muito digno de louvor, e a sua grandeza inescrutável. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "22",
+                "13"
+            ],
+            "score": 0.95,
+            "conteudo": "Eu sou o Alfa e o Ômega, o princípio e o fim, o primeiro e o derradeiro. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "6",
+                "3"
+            ],
+            "score": 0.92,
+            "conteudo": "E clamavam uns aos outros, dizendo: Santo, Santo, Santo é o Senhor dos Exércitos; toda a terra está cheia da sua glória. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "93",
+                "1"
+            ],
+            "score": 0.9,
+            "conteudo": "O SENHOR reina; está vestido de majestade. O SENHOR se revestiu e cingiu de poder; o mundo também está firmado, e não poderá vacilar. "
         },
         {
             "referencia": [
@@ -40,71 +64,17 @@
                 "5",
                 "5-6"
             ],
-            "score": 0.95,
+            "score": 0.88,
             "conteudo": "E disse-me um dos anciãos: Não chores; eis aqui o Leão da tribo de Judá, a raiz de Davi, que venceu, para abrir o livro e desatar os seus sete selos. E olhei, e eis que estava no meio do trono e dos quatro animais viventes e entre os anciãos um Cordeiro, como havendo sido morto, e tinha sete pontas e sete olhos, que são os sete espíritos de Deus enviados a toda a terra. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "104",
-                "1-2"
-            ],
-            "score": 0.94,
-            "conteudo": "Bendize, ó minha alma, ao SENHOR! SENHOR Deus meu, tu és magnificentíssimo; estás vestido de glória e de majestade. Ele se cobre de luz como de um vestido, estende os céus como uma cortina. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "48",
-                "1"
-            ],
-            "score": 0.94,
-            "conteudo": "Grande é o SENHOR e mui digno de louvor, na cidade do nosso Deus, no seu monte santo. "
-        },
-        {
-            "referencia": [
-                "1 João",
-                "1",
-                "5"
-            ],
-            "score": 0.92,
-            "conteudo": "E esta é a mensagem que dele ouvimos, e vos anunciamos: que Deus é luz, e não há nele trevas nenhumas. "
-        },
-        {
-            "referencia": [
-                "Mateus",
-                "28",
-                "19"
-            ],
-            "score": 0.9,
-            "conteudo": "Portanto ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo; "
         },
         {
             "referencia": [
                 "João",
                 "1",
-                "5"
+                "1-5"
             ],
-            "score": 0.88,
-            "conteudo": "E a luz resplandece nas trevas, e as trevas não a compreenderam. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "97",
-                "1"
-            ],
-            "score": 0.86,
-            "conteudo": "O SENHOR reina; regozije-se a terra; alegrem-se as muitas ilhas. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "29",
-                "4"
-            ],
-            "score": 0.82,
-            "conteudo": "A voz do Senhor é poderosa; a voz do Senhor é cheia de majestade. "
+            "score": 0.85,
+            "conteudo": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus. Ele estava no princípio com Deus. Todas as coisas foram feitas por ele, e sem ele nada do que foi feito se fez. Nele estava a vida, e a vida era a luz dos homens. E a luz resplandece nas trevas, e as trevas não a compreenderam. "
         }
     ]
 }

@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/88503/",
+    "id": "88503",
+    "title": "Teu Amor Não Falha",
+    "author": "IBAB / Paulo César Baruk",
+    "notes": "",
+    "year": "",
+    "key": "A",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": "116",
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "amor",
+        "fidelidade",
+        "presença",
+        "adoração",
+        "alegre"
+    ],
+    "url": "https://www.youtube.com/watch?v=5kWoyOrrjnU",
+    "chord_chart": "[Intro - Guitarra]\n.|  E   |  E  |\n[Intro - Banda]\n.| F#m  |  D  |  A  |  E\n\n[A]\n.F#m         D       A             E  \n Nada vai me separar   mesmo se eu me abalar\n.F#m           D      A     E\n Teu amor não falha\n.F#m       D       A                       E  \n Mesmo sem merecer   Tua graça se derrama sobre mim\n.F#m           D      A     E\n Teu amor não falha\n\n[B]\n.D        A             E  Bm            D\n Tu és o mesmo pra sempre  Teu amor não muda\n.           A                     E        Bm        D\n Se o choro dura uma noite a alegria vem pela manhã\n.     A            E          Bm             D\n Se o mar se enfurecer eu não tenho o que temer\n.           A              E \n Porque eu sei que me amas\n.Bm \n Teu amor não falha\n\n[Pausa Guitarra]\n.|  E  |\n[Interlúdio]\n.| F#m |  D  |  A  |  E  |\n\n[C]\n.F#m                     D            A                     E  \n Se o vento é forte e profundo o mar,  Tua presença vem me amparar\n.F#m           D     A   E\n Teu amor não falha\n.F#m           D        A                          E   \n Difícil é o caminhar, Nunca pensei que eu fosse alcançar\n.F#m               D      A     E\n Mas teu amor não falha\n\n[Tu és o mesmo...]\n[Interlúdio]\n.| D | F#m  |  E   |  A/C#\n\n[D]\n.D                  F#m               E    A/C#\n Tu fazes que tudo coopere para o meu bem\n.D                  F#m               E      \n Tu fazes que tudo coopere para o meu bem\n\n[Pausa Guitarra]\n.|  E  |  E  |\n[Tu és o mesmo...]\n[Final 2x]\n.| F#m |  D  |  A  |  E  |",
+    "verses": [
+        {
+            "referencia": [
+                "Romanos",
+                "8",
+                "38-39"
+            ],
+            "score": 0.98,
+            "conteudo": "Porque estou certo de que, nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir, Nem a altura, nem a profundidade, nem alguma outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "30",
+                "5"
+            ],
+            "score": 0.95,
+            "conteudo": "Porque a sua ira dura só um momento; no seu favor está a vida. O choro pode durar uma noite, mas a alegria vem pela manhã. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "8",
+                "28"
+            ],
+            "score": 0.95,
+            "conteudo": "E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito. "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "13",
+                "8"
+            ],
+            "score": 0.92,
+            "conteudo": "Jesus Cristo é o mesmo, ontem, e hoje, e eternamente. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "23",
+                "4"
+            ],
+            "score": 0.88,
+            "conteudo": "Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "46",
+                "1-2"
+            ],
+            "score": 0.85,
+            "conteudo": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. Portanto não temeremos, ainda que a terra se mude, e ainda que os montes se transportem para o meio dos mares. "
+        }
+    ]
+}

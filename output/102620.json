@@ -1,0 +1,79 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/102620/",
+    "id": "102620",
+    "title": "Entrega (Te Dou Meu Coração)",
+    "author": "Marc James",
+    "notes": "",
+    "year": "",
+    "key": "G",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 90,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "redenção",
+        "adoração",
+        "gratidão",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=OCza-_4S_fo",
+    "chord_chart": "[A]\n.G                D                    C\n  Te dou meu coração e tudo que há em mim\n.          D    Em            D/F#     G\n  Entrego meu viver por amor a Ti meu Rei\n.                   D                     C\n  Meus sonhos rendo a Ti e meus direitos dou\n.        D         Em           D/F#    G\n  O orgulho vou trocar peia vida do Senhor\n\n[Refrão 2x]\n.  Em7  D/F#    G\n E eu        entrego\n. C     G  Em7    D  C\n Tudo a Ti tudo a Ti\n\n[B]\n.G                  D                     C\n  Eu canto esta canção do entrega a Ti Jesus\n.            D    Em              D/F#    G\n  E o que o mundo dá eu deixo aos pés da cruz\n.              D                      C\n  Por conhecer a Ti a Teu nome dar louvor\n.            D   Em             D/F#  G\n  Sentir Tua alegria partiihando Tua dor\n  \n[Refrão 2x...]\n\n[Solo]\n.|  G  |  D  ( G/B ) |  C  |  Em7  ( D/F# ) |\n.|  G  |  D  ( G/B ) |  C  |  Em7  ( D/F# ) |  G  |\n\n[Refrão 4x...]",
+    "verses": [
+        {
+            "referencia": [
+                "Filipenses",
+                "2",
+                "5-8"
+            ],
+            "score": 0.95,
+            "conteudo": "De sorte que haja em vós o mesmo sentimento que houve também em Cristo Jesus, Que, sendo em forma de Deus, não teve por usurpação ser igual a Deus, Mas esvaziou-se a si mesmo, tomando a forma de servo, fazendo-se semelhante aos homens; E, achado na forma de homem, humilhou-se a si mesmo, sendo obediente até à morte, e morte de cruz. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "12",
+                "1"
+            ],
+            "score": 0.92,
+            "conteudo": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "10",
+                "38-39"
+            ],
+            "score": 0.88,
+            "conteudo": "E quem não toma a sua cruz, e não segue após mim, não é digno de mim. Quem achar a sua vida perdê-la-á; e quem perder a sua vida, por amor de mim, achá-la-á. "
+        },
+        {
+            "referencia": [
+                "Lucas",
+                "9",
+                "23"
+            ],
+            "score": 0.85,
+            "conteudo": "E dizia a todos: Se alguém quer vir após mim, negue-se a si mesmo, e tome cada dia a sua cruz, e siga-me. "
+        },
+        {
+            "referencia": [
+                "Gálatas",
+                "2",
+                "20"
+            ],
+            "score": 0.82,
+            "conteudo": "Já estou crucificado com Cristo; e vivo, não mais eu, mas Cristo vive em mim; e a vida que agora vivo na carne, vivo-a pela fé do Filho de Deus, o qual me amou, e se entregou a si mesmo por mim. "
+        },
+        {
+            "referencia": [
+                "Provérbios",
+                "27",
+                "5-6"
+            ],
+            "score": 0.8,
+            "conteudo": "Melhor é a repreensão franca do que o amor encoberto. Leais são as feridas feitas pelo amigo, mas os beijos do inimigo são enganosos. "
+        }
+    ]
+}

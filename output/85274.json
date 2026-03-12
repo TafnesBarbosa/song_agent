@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/85274/",
+    "id": "85274",
+    "title": "Meu Tributo (Como Agradecer)",
+    "author": "Jeanne Mascarenhas",
+    "notes": "",
+    "year": "",
+    "key": "Bb",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "glória",
+        "adoração",
+        "gratidão",
+        "cruz",
+        "contemplativo"
+    ],
+    "url": "https://youtu.be/ksqle9tLRX4?si=Zf8j-xhQ8Yyq0UFU",
+    "chord_chart": "[A]\n.Bb        Dm/A\n COMO AGRADECER\n.    Fm/Ab          G7\n PELO BEM QUE TENS FEITO A MIM\n.Cm         Cm ( maj7 )\n QUE VEM DEMONSTRAR\n.        Cm7           Ebm\n QUANTO AMOR TU TENS Ó DEUS POR MIM\n.  Bb/F                 Gm\n AS VOZES DE MILHÕES DE ANJOS\n.        Gm/E        Ebm\n NÃO PODERIAM EXPRESSAR\n.       Bb/D   F7/C        G7/B   Cm\n A GRATIDÃO DO MEU PEQUENO SER,\n.Bb/F          Eb/F     Bb\n      QUE SÓ PERTENCE A TI\n\n[Refrão]\n.  Bb         Dm7    G7\n A DEUS DEMOS GLÓ - RIA\n.  Cm         Ebm    F7\n A DEUS DEMOS GLÓ - RIA\n.  D7         Gm    Gm/E         Bb/F       F7\n A DEUS DEMOS GLÓ - RIA  QUE POR NÓS TANTO FEZ\n.        Bb         Dm7   G7\n FOI NA CRUZ QUE SALVOU - ME\n.       Cm       Ebm   F7\n TEU PODER RESTAUROU - ME\n.  Am  D7     Gm     C7         Bb/F  Cm/F   Bb\n A DEUS DEMOS GLÓ - RIA QUE POR NÓS   TANTO FEZ\n\n[B]\n.        Am7   D7          Gm           Gm/E    \n QUERO VIVER AQUI PARA ADORAR-TE  MEU SENHOR\n.         Eb      Gm               C7    F7\n E SE SURGIR O LOUVOR AO CALVÁRIO SEJA ASSIM\n.        Bb         Dm7   G7\n FOI NA CRUZ QUE SALVOU - ME\n.      Cm        Ebm    F7\n TEU PODER RESTAUROU -  ME\n.   Am  D7     Gm     C7         Bb/F   Cm/F   Bb\n A DEUS  DEMOS GLÓ - RIA QUE POR NÓS    TANTO FEZ",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "116",
+                "12"
+            ],
+            "score": 0.98,
+            "conteudo": "Que darei eu ao Senhor, por todos os benefícios que me tem feito? "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "103",
+                "1-2"
+            ],
+            "score": 0.95,
+            "conteudo": "Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome. Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "5",
+                "8"
+            ],
+            "score": 0.92,
+            "conteudo": "Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "2",
+                "8"
+            ],
+            "score": 0.88,
+            "conteudo": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "107",
+                "1"
+            ],
+            "score": 0.85,
+            "conteudo": "Louvai ao SENHOR, porque ele é bom, porque a sua benignidade dura para sempre. "
+        },
+        {
+            "referencia": [
+                "1 Pedro",
+                "2",
+                "24"
+            ],
+            "score": 0.82,
+            "conteudo": "Levando ele mesmo em seu corpo os nossos pecados sobre o madeiro, para que, mortos para os pecados, pudéssemos viver para a justiça; e pelas suas feridas fostes sarados. "
+        }
+    ]
+}

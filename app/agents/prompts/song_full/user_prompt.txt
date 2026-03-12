@@ -1,0 +1,10 @@
+# MÚSICA
+```json
+{musica_replace}
+```
+
+# TAREFA
+Com base na música em MÚSICA (título, letra e cifra opcional), devolva um JSON contendo:
+- `verses`: lista de versículos fortemente relacionados (referência + score), seguindo as regras do prompt de sistema.
+- `metadata`: objeto com `time_sig`, `tempo`, `feel` e `tags` (5 tags, somente da lista oficial).
+

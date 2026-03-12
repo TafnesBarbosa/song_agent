@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/96017/",
+    "id": "96017",
+    "title": "O Rei Vivo Está",
+    "author": "",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Rápido",
+    "theme": "",
+    "tags": [
+        "ressurreição",
+        "adoração",
+        "gratidão",
+        "celebrativo",
+        "rei"
+    ],
+    "url": "https://www.youtube.com/watch?v=pg8D0qqpUVg",
+    "chord_chart": "[A]\n.E       E/D#     E/C#            A\n   VIVEU!  MORREU!  MAS A MORTE, SIM, ELE VENCEU!\n.E       Bsus  C#m7   A\n   JESUS,       VIVO ESTÁ!\n.E       E/D#    E/C#               A2\n   O DEUS!  O REI!  PROMETEU QUE EM BREVE VOLTARÁ.\n.E        Bsus\n   E ASSIM   SERÁ.\n.  C#m7          A     E Bsus C#m7  A  \n E TODA TERRA LOUVARÁ AO  SENHOR!\n.F#m         A      E5 Bsus  C#m7  A  F#m  A  E\n TODA TERRA LOUVARÁ AO  SENHOR!\n\n[B]\n.E5       B/E          C#m7\n   SOFREU,  LEVOU SOBRE SI OS NOSSOS PECADOS.\n.E5       B/E      C#m7\n   ENTREGOU  SUA VIDA PARA NOS SALVAR.\n.F#m                C#m7\n   COMPROU-NOS MORRENDO NUMA CRUZ.\n.A2          F#m            Bsus\n   SEU GRANDE AMOR MUDOU AS NOSSAS VIDAS.",
+    "verses": [
+        {
+            "referencia": [
+                "Mateus",
+                "28",
+                "6"
+            ],
+            "score": 0.98,
+            "conteudo": "Ele não está aqui, porque já ressuscitou, como havia dito. Vinde, vede o lugar onde o Senhor jazia. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "1",
+                "18"
+            ],
+            "score": 0.95,
+            "conteudo": "E o que vivo e fui morto, mas eis aqui estou vivo para todo o sempre. Amém. E tenho as chaves da morte e do inferno. "
+        },
+        {
+            "referencia": [
+                "1 Coríntios",
+                "15",
+                "3-4"
+            ],
+            "score": 0.92,
+            "conteudo": "Porque primeiramente vos entreguei o que também recebi: que Cristo morreu por nossos pecados, segundo as Escrituras, E que foi sepultado, e que ressuscitou ao terceiro dia, segundo as Escrituras. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "2",
+                "9-11"
+            ],
+            "score": 0.88,
+            "conteudo": "Por isso, também Deus o exaltou soberanamente, e lhe deu um nome que é sobre todo o nome; Para que ao nome de Jesus se dobre todo o joelho dos que estão nos céus, e na terra, e debaixo da terra, E toda a língua confesse que Jesus Cristo é o Senhor, para glória de Deus Pai. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "22",
+                "20"
+            ],
+            "score": 0.85,
+            "conteudo": "Aquele que testifica estas coisas diz: Certamente cedo venho. Amém. Ora vem, Senhor Jesus. "
+        }
+    ]
+}

@@ -8,22 +8,28 @@
     "key": "D",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 90,
+    "feel": "Médio",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "redentor",
+        "adoração",
+        "gratidão",
+        "confiança",
+        "contemplativo"
+    ],
     "url": "https://www.youtube.com/watch?v=L3tQoWXrRaI",
     "chord_chart": "[A]\n.   D    C#7         F#m\n EM NOME DO SENHOR JESUS,\n.B7            Em       A7             D   G/A  A7\n QUERO ME ENTREGAR, PRÁ SEMPRE AO MEU REI,\n.    D      C#7         F#m\n EU SEI QUE TENTAÇÕES VIRÃO,\n.    B7            Em     A7              D   C/D  D7\n MAS CRISTO JÁ VENCEU, MORRENDO EM MEU LUGAR.\n \n[B]\n.  G        A/G          F#m\n AGORA, POR TODO O MEU CAMINHO\n.    B7           Em\n NÃO VOU FICAR SOZINHO, \n.    A7        D    C/D   D7\n CONFIO NO SENHOR,\n.   G      A/G         F#m\n ENTREGO A ELE O MEU FUTURO,\n.      G  F#m   B7    Em           A7            D\n POIS SEI QUE ESTOU SEGURO NAS PROMESSAS DO MEU DEUS.",
     "verses": [
         {
             "referencia": [
-                "Isaías",
-                "53",
-                "5"
+                "João",
+                "16",
+                "33"
             ],
-            "score": 0.99,
-            "conteudo": "Mas ele foi ferido por causa das nossas transgressões, e moído por causa das nossas iniqüidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados. "
+            "score": 0.95,
+            "conteudo": "Tenho-vos dito isto, para que em mim tenhais paz; no mundo tereis aflições, mas tende bom ânimo, eu venci o mundo. "
         },
         {
             "referencia": [
@@ -31,7 +37,7 @@
                 "3",
                 "17"
             ],
-            "score": 0.98,
+            "score": 0.92,
             "conteudo": "E, quanto fizerdes por palavras ou por obras, fazei tudo em nome do Senhor Jesus, dando por ele graças a Deus Pai. "
         },
         {
@@ -40,17 +46,8 @@
                 "5",
                 "8"
             ],
-            "score": 0.97,
+            "score": 0.9,
             "conteudo": "Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores. "
-        },
-        {
-            "referencia": [
-                "2 Coríntios",
-                "5",
-                "21"
-            ],
-            "score": 0.96,
-            "conteudo": "Àquele que não conheceu pecado, o fez pecado por nós; para que nele fôssemos feitos justiça de Deus. "
         },
         {
             "referencia": [
@@ -58,44 +55,17 @@
                 "12",
                 "1"
             ],
-            "score": 0.95,
+            "score": 0.88,
             "conteudo": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional. "
         },
         {
             "referencia": [
-                "Gálatas",
-                "2",
-                "20"
-            ],
-            "score": 0.94,
-            "conteudo": "Já estou crucificado com Cristo; e vivo, não mais eu, mas Cristo vive em mim; e a vida que agora vivo na carne, vivo-a pela fé do Filho de Deus, o qual me amou, e se entregou a si mesmo por mim. "
-        },
-        {
-            "referencia": [
-                "2 Coríntios",
-                "5",
-                "15"
-            ],
-            "score": 0.93,
-            "conteudo": "E ele morreu por todos, para que os que vivem não vivam mais para si, mas para aquele que por eles morreu e ressuscitou. "
-        },
-        {
-            "referencia": [
-                "Hebreus",
-                "2",
-                "14"
-            ],
-            "score": 0.92,
-            "conteudo": "E, visto como os filhos participam da carne e do sangue, também ele participou das mesmas coisas, para que pela morte aniquilasse o que tinha o império da morte, isto é, o diabo; "
-        },
-        {
-            "referencia": [
                 "1 Coríntios",
-                "10",
-                "13"
+                "15",
+                "57"
             ],
-            "score": 0.9,
-            "conteudo": "Não veio sobre vós tentação, senão humana; mas fiel é Deus, que não vos deixará tentar acima do que podeis, antes com a tentação dará também o escape, para que a possais suportar. "
+            "score": 0.85,
+            "conteudo": "Mas graças a Deus que nos dá a vitória por nosso Senhor Jesus Cristo. "
         }
     ]
 }

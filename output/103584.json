@@ -1,0 +1,61 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/103584/",
+    "id": "103584",
+    "title": "Um Só Rebanho (HCC 574)",
+    "author": "Hinário para o Culto Cristão (HCC)",
+    "notes": "",
+    "year": "",
+    "key": "C",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 84,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "adoração",
+        "gratidão",
+        "cruz",
+        "solene"
+    ],
+    "url": "https://www.youtube.com/watch?v=H5IoXQvelXk|https://www.youtube.com/watch?v=KCMYoePoK6w",
+    "chord_chart": "[A]\n.C      G/B C    F  Fm     C   F  G/F   C/E       Am\n UM SÓ REBANHO, UM  SÓ PASTOR  U__MA SÓ FÉ EM UM SÓ \n.D7    G   C      G/B   C   F   G/D  C    G   C/E  F\n SALVADOR. É TEU AMOR  QUE NOS   U__NE  AQUI   E  NUM SÓ \n.   C         G       C  F Em  Dm    C  Ab    C/G   G  C\n ESPÍRITO ADORAMOS A TI. E NUM SÓ ESPÍRITO ADORAMOS A TI.\n\n[B]\n.C       G/B C   F  Fm     C   F  G/F  C/E       Am     D7\n UM SÓ REBANHO, UM  SÓ PASTOR  FRUTO,   Ó SENHOR DESTE SEU \n.         G    C        G/B C   F  G/D  C  G \n GRANDE AMOR. SÓ NOS GLORIAMOS NA  TUA  CRUZ\n.C/E F    C      G       C\n LOUVADO SEJA BENDITO JESUS.\n.F   Em  Dm   C Ab    C/G    G  C   C   G/A   A\n LOU_VA__DO  SE_JAS BENDITO JESUS.\n\n[C]\n.D      A/C# D   G  Gm     D    G      A/G F#m Bm       E\n UM SÓ REBANHO, UM  SÓ PASTOR. SIM, ESPERA_____MOS POR TI,\n.E7    A   D        A/C# D  G         A    D   G    D/A\n Ó SENHOR. É FACE A FA__CE QUE VAMOS VER QUEM NOS AMOU\n.      A7           D     G   F#m  Em  D  Bb    D/A   A7 \n E POR NÓS QUIS MORRER. QUEM  NOS   AMOU  E POR NÓS QUIS \n.    D\n MORRER.",
+    "verses": [
+        {
+            "referencia": [
+                "Efésios",
+                "4",
+                "4-6"
+            ],
+            "score": 0.98,
+            "conteudo": "Há um só corpo e um só Espírito, como também fostes chamados em uma só esperança da vossa vocação; Um só Senhor, uma só fé, um só batismo; Um só Deus e Pai de todos, o qual é sobre todos, e por todos e em todos vós. "
+        },
+        {
+            "referencia": [
+                "João",
+                "10",
+                "16"
+            ],
+            "score": 0.95,
+            "conteudo": "Ainda tenho outras ovelhas que não são deste aprisco; também me convém agregar estas, e elas ouvirão a minha voz, e haverá um rebanho e um Pastor. "
+        },
+        {
+            "referencia": [
+                "Gálatas",
+                "6",
+                "14"
+            ],
+            "score": 0.92,
+            "conteudo": "Mas longe esteja de mim gloriar-me, a não ser na cruz de nosso Senhor Jesus Cristo, pela qual o mundo está crucificado para mim e eu para o mundo. "
+        },
+        {
+            "referencia": [
+                "1 Coríntios",
+                "12",
+                "13"
+            ],
+            "score": 0.88,
+            "conteudo": "Pois todos nós fomos batizados em um Espírito, formando um corpo, quer judeus, quer gregos, quer servos, quer livres, e todos temos bebido de um Espírito. "
+        }
+    ]
+}

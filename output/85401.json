@@ -1,0 +1,89 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/85401/",
+    "id": "85401",
+    "title": "Quebrantado",
+    "author": "Vineyard",
+    "notes": "",
+    "year": "",
+    "key": "C",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 72,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "cruz",
+        "adoração",
+        "graça",
+        "contemplativo",
+        "redenção"
+    ],
+    "url": "https://www.youtube.com/watch?v=QbnmpJo3DiI",
+    "chord_chart": "[Intro]\n.C  Am  G  F \n\n[A]\n.               C \n Eu olho para cruz \n.                G \n E para cruz eu vou \n.                     Am \n Do seu sofrer participar \n.                       F \n Da sua obra eu vou cantar \n.          C              G \n Meu Salvador Na cruz mostrou \n.           Am           F \n O amor do pai ,o justo Deus \n\n[Refrão]\n.C \n    Pela cruz, me chamou \n.Am                          G \n    Gentilmente me atraiu e eu \n.                         F \n Sem palavras me aproximo \n.                      C \n Quebrantado por seu amor \n\n[Interlúdio]\n.C  Am  G  F \n[B]\n.           C \n Imerecida vida \n.            G \n De graça recebi \n.          Am \n Por sua cruz \n.                F \n Da morte me livrou \n.             C \n Trouxe-me a vida \n.                G \n Eu estava condenado \n.                 Am \n Mas agora pela cruz \n.               F \n Eu fui reconciliado \n\n[Refrão...]\n[Ponte]\n.Dm                       F \n   Impressionante é seu amor \n.Dm                    F               G \n   Me redimiu e me mostrou o quanto é fiel \n\n[Refrão 2x...]\n[Solo 2x]\n.C   Am   G   F",
+    "verses": [
+        {
+            "referencia": [
+                "Gálatas",
+                "2",
+                "20"
+            ],
+            "score": 0.92,
+            "conteudo": "Já estou crucificado com Cristo; e vivo, não mais eu, mas Cristo vive em mim; e a vida que agora vivo na carne, vivo-a pela fé do Filho de Deus, o qual me amou, e se entregou a si mesmo por mim. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "5",
+                "8"
+            ],
+            "score": 0.88,
+            "conteudo": "Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores. "
+        },
+        {
+            "referencia": [
+                "Colossenses",
+                "1",
+                "20"
+            ],
+            "score": 0.85,
+            "conteudo": "E que, havendo por ele feito a paz pelo sangue da sua cruz, por meio dele reconciliasse consigo mesmo todas as coisas, tanto as que estão na terra, como as que estão nos céus. "
+        },
+        {
+            "referencia": [
+                "2 Coríntios",
+                "5",
+                "19"
+            ],
+            "score": 0.82,
+            "conteudo": "Isto é, Deus estava em Cristo reconciliando consigo o mundo, não lhes imputando os seus pecados; e pôs em nós a palavra da reconciliação. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "2",
+                "8"
+            ],
+            "score": 0.79,
+            "conteudo": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "51",
+                "17"
+            ],
+            "score": 0.78,
+            "conteudo": "Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus. "
+        },
+        {
+            "referencia": [
+                "1 Pedro",
+                "3",
+                "18"
+            ],
+            "score": 0.77,
+            "conteudo": "Porque também Cristo padeceu uma vez pelos pecados, o justo pelos injustos, para levar-nos a Deus; mortificado, na verdade, na carne, mas vivificado pelo Espírito; "
+        }
+    ]
+}

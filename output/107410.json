@@ -8,85 +8,37 @@
     "key": "Bb",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Médio",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "natal",
+        "rei",
+        "adoração",
+        "salvação",
+        "celebrativo"
+    ],
     "url": "https://www.youtube.com/watch?v=r63M-pF3rws",
     "chord_chart": "[Intro]\n.Bb  .  Eb  Bb |  Bb . F/Bb  Bb |\n\n[A (todos)]\n.       Bb         Bb/D      Eb     Bb/D\n Proclamaram anjos mil o primeiro natal\n.       Eb       Bb/D      Eb/G   F/A    Bb\n A uns pobres pastores aos pés de  Be---lém,\n.         Bb         Bb/D\n Que nos campos os rebanhos\n.    Eb       Bb/D\n Guardavam do mal\n.       Eb     Bb/D     Cm    Eb/F  Bb\n Numa noite tão fria e escura tam--bém\n\n[Refrão]\n.   Bb    Bb/D    Eb    Bb/D\n Natal, natal, natal, natal\n.Gm  F   Eb   Bb/D     Cm      Bb\n É  nos nas – cido um rei divinal\n \n[B (mulheres)]\n E de súbito no céu linda estrela raiou\n No Oriente luziu com es_tranho fulgor\n E a terra recebeu essa luz, que brilhou\n Muitas noites a_inda com raro esplendor\n  \n[C (mulheres)]\n Tendo visto a clara luz dessa estrela sem par\n Do Oriente alguns magos a  foram se_guir\n A procura de um rei que devia  che_gar\n Aos judeus, e as an_tigas promessas cumprir\n\n[Refrão...]\n[D (homens)]\n Essa estrela apareceu e os magos guiou\n Pela estrada que'até ao me__nino os conduz\n Afinal, sobre Belém essa estrela parou\n Mesmo acima da  casa em que'estava Je__sus\n\n[E (homens)]\n Reverentes, esses sábios, com santo temor\n Mui alegres entraram na_quele lu_gar\n Com ofertas preciosas, de muito va_lor\n Ouro, mirra e'incenso vi__eram lhe dar\n \n[Refrão...]\n[F (todos)]\n E com eles vamos nós, com sincero fervor\n Dar louvores ao nosso di_vino Se_nhor\n Que, deixando os altos céus, a este mundo chegou\n E, morrendo na cruz, nossas almas salvou\n \n[Refrão...]",
     "verses": [
         {
             "referencia": [
-                "Mateus",
-                "2",
-                "11"
-            ],
-            "score": 1.0,
-            "conteudo": "E, entrando na casa, acharam o menino com Maria sua mãe e, prostrando-se, o adoraram; e abrindo os seus tesouros, ofertaram-lhe dádivas: ouro, incenso e mirra. "
-        },
-        {
-            "referencia": [
-                "Mateus",
-                "2",
-                "9"
-            ],
-            "score": 0.98,
-            "conteudo": "E, tendo eles ouvido o rei, partiram; e eis que a estrela, que tinham visto no oriente, ia adiante deles, até que, chegando, se deteve sobre o lugar onde estava o menino. "
-        },
-        {
-            "referencia": [
                 "Lucas",
-                "2",
-                "8-9"
-            ],
-            "score": 0.95,
-            "conteudo": "Ora, havia naquela mesma comarca pastores que estavam no campo, e guardavam, durante as vigílias da noite, o seu rebanho. E eis que o anjo do Senhor veio sobre eles, e a glória do Senhor os cercou de resplendor, e tiveram grande temor. "
-        },
-        {
-            "referencia": [
-                "Mateus",
-                "2",
-                "1-2"
-            ],
-            "score": 0.95,
-            "conteudo": "E, tendo nascido Jesus em Belém de Judéia, no tempo do rei Herodes, eis que uns magos vieram do oriente a Jerusalém, Dizendo: Onde está aquele que é nascido rei dos judeus? porque vimos a sua estrela no oriente, e viemos a adorá-lo. "
-        },
-        {
-            "referencia": [
-                "Lucas",
-                "2",
-                "11"
-            ],
-            "score": 0.92,
-            "conteudo": "Pois, na cidade de Davi, vos nasceu hoje o Salvador, que é Cristo, o Senhor. "
-        },
-        {
-            "referencia": [
-                "Mateus",
                 "2",
                 "10"
             ],
-            "score": 0.9,
-            "conteudo": "E, vendo eles a estrela, regoziram-se muito com grande alegria. "
+            "score": 0.92,
+            "conteudo": "E o anjo lhes disse: Não temais, porque eis aqui vos trago novas de grande alegria, que será para todo o povo: "
         },
         {
             "referencia": [
-                "Filipenses",
+                "Mateus",
                 "2",
-                "7-8"
+                "1"
             ],
-            "score": 0.88,
-            "conteudo": "Mas esvaziou-se a si mesmo, tomando a forma de servo, fazendo-se semelhante aos homens; E, achado na forma de homem, humilhou-se a si mesmo, sendo obediente até à morte, e morte de cruz. "
-        },
-        {
-            "referencia": [
-                "Lucas",
-                "2",
-                "13-14"
-            ],
-            "score": 0.85,
-            "conteudo": "E, no mesmo instante, apareceu com o anjo uma multidão dos exércitos celestiais, louvando a Deus, e dizendo: Glória a Deus nas alturas, Paz na terra, boa vontade para com os homens. "
+            "score": 0.91,
+            "conteudo": "E, tendo nascido Jesus em Belém de Judéia, no tempo do rei Herodes, eis que uns magos vieram do oriente a Jerusalém, "
         },
         {
             "referencia": [
@@ -94,8 +46,35 @@
                 "9",
                 "6"
             ],
-            "score": 0.82,
+            "score": 0.85,
             "conteudo": "Porque um menino nos nasceu, um filho se nos deu, e o principado está sobre os seus ombros, e se chamará o seu nome: Maravilhoso, Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da Paz. "
+        },
+        {
+            "referencia": [
+                "João",
+                "3",
+                "16"
+            ],
+            "score": 0.82,
+            "conteudo": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna. "
+        },
+        {
+            "referencia": [
+                "Lucas",
+                "2",
+                "11"
+            ],
+            "score": 0.8,
+            "conteudo": "Pois, na cidade de Davi, vos nasceu hoje o Salvador, que é Cristo, o Senhor. "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "1",
+                "8"
+            ],
+            "score": 0.78,
+            "conteudo": "Mas, do Filho, diz: Ó Deus, o teu trono subsiste pelos séculos dos séculos; Cetro de eqüidade é o cetro do teu reino. "
         }
     ]
 }

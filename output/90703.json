@@ -8,94 +8,73 @@
     "key": "A",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Rápido",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "amor",
+        "adoração",
+        "gratidão",
+        "celebrativo",
+        "alegre"
+    ],
     "url": "https://www.youtube.com/watch?v=HH_xxJ0ZjC4",
     "chord_chart": "[A]\n.A9        E          F#m     E        D\n MEU JESUS,  SALVADOR OUTRO IGUAL NÃO HÁ \n.         A/C#  D        A/E\n TODOS OS DIAS  QUERO LOUVAR \n.  F#m         G   D/F#  Esus E\n AS MARAVILHAS DE  TEU   AMOR.\n.A9      E       F#m        E             D\n CONSOLO, ABRIGO, FORÇA E REFÚGIO É O SENHOR \n.               A/C#       D         A/E\n COM TODO O MEU SER,  COM TUDO O QUE SOU\n.F#m        G  D/F#  Esus E\n SEMPRE TE ADO__RA___REI.\n \n[B]\n.  A9        F#m          D        Esus E\n ACLAME AO SENHOR TODA A TERRA E CANTEMOS \n.   A9      F#m         D       Esus  E\n PODER, MAJESTADE E LOUVORES AO REI \n.  F#m       F#m/E       D7M\n MONTANHAS SE PROSTREM E RUJAM OS MARES \n.    E     D/F#  E/G#\n AO SOM DE TEU   NOME.\n. A9      F#m        D7M           Esus  E \n ALEGRE TE LOUVO POR TEUS  GRANDES FEITOS\n.   A9       F#m        D7M    Esus  E\n FIRMADO ESTAREI, SEMPRE TE AMAREI. \n.F#m    F#m/E      D7M     D/E        A9\n INCOMPARÁVEIS SÃO TUAS PROMESSAS PRA MIM.\n \n[C - Na 2ª vez]\n.  A9        F#m          D        Esus E\n ACLAME AO SENHOR TODA A TERRA E CANTEMOS \n.   A9      F#m         D       Esus  E\n PODER, MAJESTADE E LOUVORES AO REI \n.  F#m       F#m/E       D7M\n MONTANHAS SE PROSTREM E RUJAM OS MARES \n.    E     D/F#  E/G#\n AO SOM DE TEU   NOME.\n.  B9      G#m        E            F#sus F#\n ALEGRE TE LOUVO POR TEUS GRANDES FEITOS\n.   B9       G#m          E    F#sus F#\n FIRMADO ESTAREI, SEMPRE TE AMAREI.\n.G#m    G#m/F#      E7M    E/F#      \n INCOMPARÁVEIS SÃO TUAS PROMESSAS  ( 3X)\n.    B9\n PRA MIM.",
     "verses": [
         {
             "referencia": [
                 "Salmos",
-                "145",
-                "2"
-            ],
-            "score": 0.98,
-            "conteudo": "Cada dia te bendirei, e louvarei o teu nome pelos séculos dos séculos e para sempre. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "18",
-                "2"
-            ],
-            "score": 0.97,
-            "conteudo": "O Senhor é o meu rochedo, e o meu lugar forte, e o meu libertador; o meu Deus, a minha fortaleza, em quem confio; o meu escudo, a força da minha salvação, e o meu alto refúgio. "
-        },
-        {
-            "referencia": [
-                "1 Crônicas",
-                "29",
-                "11"
-            ],
-            "score": 0.97,
-            "conteudo": "Tua é, Senhor, a magnificência, e o poder, e a honra, e a vitória, e a majestade; porque teu é tudo quanto há nos céus e na terra; teu é, Senhor, o reino, e tu te exaltaste por cabeça sobre todos. "
-        },
-        {
-            "referencia": [
-                "Isaías",
-                "45",
-                "21"
-            ],
-            "score": 0.95,
-            "conteudo": "Anunciai, e chegai-vos, e tomai conselho todos juntos; quem fez ouvir isto desde a antiguidade? Quem desde então o anunciou? Porventura não sou eu, o Senhor? Pois não há outro Deus senão eu; Deus justo e Salvador não há além de mim. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "103",
-                "1"
-            ],
-            "score": 0.95,
-            "conteudo": "Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome. "
-        },
-        {
-            "referencia": [
-                "Salmos",
                 "98",
                 "4"
             ],
-            "score": 0.95,
+            "score": 0.98,
             "conteudo": "Exultai no Senhor toda a terra; exclamai e alegrai-vos de prazer, e cantai louvores. "
         },
         {
             "referencia": [
                 "Salmos",
-                "86",
-                "8"
+                "145",
+                "1"
             ],
-            "score": 0.9,
-            "conteudo": "Entre os deuses não há semelhante a ti, Senhor, nem há obras como as tuas. "
+            "score": 0.92,
+            "conteudo": "Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre. "
         },
         {
             "referencia": [
                 "Salmos",
-                "97",
-                "5"
+                "46",
+                "1"
             ],
-            "score": 0.9,
-            "conteudo": "Os montes derretem como cera na presença do Senhor, na presença do Senhor de toda a terra. "
+            "score": 0.89,
+            "conteudo": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. "
         },
         {
             "referencia": [
-                "2 Coríntios",
-                "1",
-                "20"
+                "Salmos",
+                "95",
+                "1"
+            ],
+            "score": 0.88,
+            "conteudo": "Vinde, cantemos ao SENHOR; jubilemos à rocha da nossa salvação. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "104",
+                "1"
             ],
             "score": 0.85,
-            "conteudo": "Porque todas quantas promessas há de Deus, são nele sim, e por ele o Amém, para glória de Deus por nós. "
+            "conteudo": "Bendize, ó minha alma, ao SENHOR! SENHOR Deus meu, tu és magnificentíssimo; estás vestido de glória e de majestade. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "96",
+                "4"
+            ],
+            "score": 0.82,
+            "conteudo": "Porque grande é o Senhor, e digno de louvor, mais temível do que todos os deuses. "
         }
     ]
 }

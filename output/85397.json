@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/85397/",
+    "id": "85397",
+    "title": "Ajuntamento",
+    "author": "IPALPHA",
+    "notes": "",
+    "year": "",
+    "key": "C",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "presença",
+        "adoração",
+        "gratidão",
+        "contemplativo",
+        "glória"
+    ],
+    "url": "https://www.youtube.com/watch?v=rL0w7huQnaE",
+    "chord_chart": "[Intro]\n.C F Dm Gsus (2x)\n\n[A]\n.C                          F\n VEM E SOPRA SOBRE NÓS TEU SOPRO,\n.Dm7                   G4 G\n REUNIDOS NESSE AJUNTAMENTO,\n. C                        F\n HONRA E SANTIFICA ESTE MOMENTO,\n.Dm7                         G7\n COM A TUA IGREJA QUE É TEU POVO.\n\n[B]\n. C                            F\n FAZ TEU RIO DE PAZ CORRER NO MEIO,\n.Dm7                        F/G\n DESTES QUE POR FÉ VEM BENDIZER-TE,\n.C                 F\n E A UMA VOZ OFERECER-TE,\n.Dm7                         G7\n SEUS LOUVORES, SÚPLICAS E ANSEIOS.\n\n[Refrão]\n.F                      C4  C\n TU ÉS O SENHOR DE TODA GLÓRIA,\n.F                           C4 C\n HOJE, SEMPRE E COMO FOSTE OUTRORA.\n.F               G/F       E/G#        Am7\n NO CORRER DA HISTÓRIA REVELANDO SEU AMOR,\n.G#                       G7\n DEUS, BENDITO, REI E SALVADOR!\n.F/D             G4         C\n DEUS, BENDITO, REI E SALVADOR!\n\n[Intro]\n.C F Dm Gsus (2x)\n\n[Volta Início...]\n\n[Refrão 2ª Vez - 2x]\n.F                      C4  C\n TU ÉS O SENHOR DE TODA GLÓRIA,\n.F                           C4 C\n HOJE, SEMPRE E COMO FOSTE OUTRORA.\n.F               G/F       E/G#        Am7\n NO CORRER DA HISTÓRIA REVELANDO SEU AMOR,\n.G#                       G7\n DEUS, BENDITO, REI E SALVADOR!\n.Dm                       G7\n DEUS, BENDITO, REI E SALVADOR!\n\n[Fim]\n.C   F  Dm   Gsus  |  Am  Em  F  Gsus  |  F",
+    "verses": [
+        {
+            "referencia": [
+                "Mateus",
+                "18",
+                "20"
+            ],
+            "score": 0.95,
+            "conteudo": "Porque, onde estiverem dois ou três reunidos em meu nome, aí estou eu no meio deles. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "133",
+                "1"
+            ],
+            "score": 0.92,
+            "conteudo": "Oh! quão bom e quão suave é que os irmãos vivam em união. "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "13",
+                "8"
+            ],
+            "score": 0.88,
+            "conteudo": "Jesus Cristo é o mesmo, ontem, e hoje, e eternamente. "
+        },
+        {
+            "referencia": [
+                "João",
+                "20",
+                "22"
+            ],
+            "score": 0.85,
+            "conteudo": "E, havendo dito isto, assoprou sobre eles e disse-lhes: Recebei o Espírito Santo. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "1"
+            ],
+            "score": 0.82,
+            "conteudo": "Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre. "
+        }
+    ]
+}

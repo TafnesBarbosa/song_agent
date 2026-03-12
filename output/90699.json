@@ -8,49 +8,37 @@
     "key": "G",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 108,
+    "feel": "Médio",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "natal",
+        "adoração",
+        "rei",
+        "glória",
+        "alegre"
+    ],
     "url": "https://www.youtube.com/watch?v=Mj7Pr42rliI",
     "chord_chart": "[A]\n.     G       D          G        D\n Oh, vinde, fiéis, triunfantes, alegres\n.     Em  A7     D         A7        D7\n Sim, vinde_a Belém, já movidos de amor\n.    G         C   G       A7       D7\n Nasceu vosso Rei, lá dos céus prometido\n\n[Refrão]\n.     G   C    G  D        G   C    G  D\n Oh, vinde_adore-mos! Oh, vinde_adore-mos!\n.     C        D  G    G/D D7    G\n Oh, vinde_adore-mos a nos-so Senhor!\n\n[B]\n.   G        D        G        D\n Olhai, admirados, a sua humildade\n.   Em  A7    D          A7       D7\n Os an-jos o louvam com grande fervor\n.      G      C  G      A7       D7\n Pois veio conosco habitar, encarnado\n\n[C]\n.     G          D       G        D\n Por nós, das alturas celestes baixando\n.   Em  A7     D        A7        D7\n Em for-ma de servo se fez, por amor\n.      G        C   G     A7       D7\n E em glórias a vi-da nos dá para sempre\n\n[D]\n.     G       D          G        D\n Nos céus adorai-o, vós, anjos em coro\n.  Em  A7     D       A7       D7\n E to-dos na terra tributem louvor\n.   G            C   G       A7        D7\n A Deus honra e gló-ria, contentes, rendamos",
     "verses": [
         {
             "referencia": [
-                "Salmos",
-                "95",
-                "6"
+                "Mateus",
+                "2",
+                "11"
             ],
-            "score": 0.98,
-            "conteudo": "Ó, vinde, adoremos e prostremo-nos; ajoelhemos diante do Senhor que nos criou. "
+            "score": 0.92,
+            "conteudo": "E, entrando na casa, acharam o menino com Maria sua mãe e, prostrando-se, o adoraram; e abrindo os seus tesouros, ofertaram-lhe dádivas: ouro, incenso e mirra. "
         },
         {
             "referencia": [
                 "Filipenses",
                 "2",
-                "7"
+                "6-7"
             ],
-            "score": 0.97,
-            "conteudo": "Mas esvaziou-se a si mesmo, tomando a forma de servo, fazendo-se semelhante aos homens; "
-        },
-        {
-            "referencia": [
-                "João",
-                "1",
-                "14"
-            ],
-            "score": 0.96,
-            "conteudo": "E o Verbo se fez carne, e habitou entre nós, e vimos a sua glória, como a glória do unigênito do Pai, cheio de graça e de verdade. "
-        },
-        {
-            "referencia": [
-                "Lucas",
-                "2",
-                "15"
-            ],
-            "score": 0.94,
-            "conteudo": "E aconteceu que, ausentando-se deles os anjos para o céu, disseram os pastores uns aos outros: Vamos, pois, até Belém, e vejamos isso que aconteceu, e que o Senhor nos fez saber. "
+            "score": 0.9,
+            "conteudo": "Que, sendo em forma de Deus, não teve por usurpação ser igual a Deus, Mas esvaziou-se a si mesmo, tomando a forma de servo, fazendo-se semelhante aos homens; "
         },
         {
             "referencia": [
@@ -58,53 +46,26 @@
                 "2",
                 "13-14"
             ],
-            "score": 0.92,
+            "score": 0.88,
             "conteudo": "E, no mesmo instante, apareceu com o anjo uma multidão dos exércitos celestiais, louvando a Deus, e dizendo: Glória a Deus nas alturas, Paz na terra, boa vontade para com os homens. "
         },
         {
             "referencia": [
-                "Mateus",
-                "2",
-                "2"
+                "João",
+                "1",
+                "14"
             ],
-            "score": 0.91,
-            "conteudo": "Dizendo: Onde está aquele que é nascido rei dos judeus? porque vimos a sua estrela no oriente, e viemos a adorá-lo. "
+            "score": 0.85,
+            "conteudo": "E o Verbo se fez carne, e habitou entre nós, e vimos a sua glória, como a glória do unigênito do Pai, cheio de graça e de verdade. "
         },
         {
             "referencia": [
-                "Miquéias",
-                "5",
-                "2"
-            ],
-            "score": 0.9,
-            "conteudo": "E tu, Belém Efrata, posto que pequena entre os milhares de Judá, de ti me sairá o que governará em Israel, e cujas saídas são desde os tempos antigos, desde os dias da eternidade. "
-        },
-        {
-            "referencia": [
-                "Filipenses",
-                "2",
-                "8"
-            ],
-            "score": 0.88,
-            "conteudo": "E, achado na forma de homem, humilhou-se a si mesmo, sendo obediente até à morte, e morte de cruz. "
-        },
-        {
-            "referencia": [
-                "Isaías",
-                "9",
+                "Salmos",
+                "95",
                 "6"
             ],
-            "score": 0.87,
-            "conteudo": "Porque um menino nos nasceu, um filho se nos deu, e o principado está sobre os seus ombros, e se chamará o seu nome: Maravilhoso, Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da Paz. "
-        },
-        {
-            "referencia": [
-                "João",
-                "6",
-                "38"
-            ],
-            "score": 0.86,
-            "conteudo": "Porque eu desci do céu, não para fazer a minha vontade, mas a vontade daquele que me enviou. "
+            "score": 0.82,
+            "conteudo": "Ó, vinde, adoremos e prostremo-nos; ajoelhemos diante do Senhor que nos criou. "
         }
     ]
 }

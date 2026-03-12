@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/85657/",
+    "id": "85657",
+    "title": "Amigo de Deus",
+    "author": "Adhemar de Campos (Inclui \"Não Há Nada Melhor\")",
+    "notes": "",
+    "year": "",
+    "key": "D",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 112,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "presença",
+        "adoração",
+        "gratidão",
+        "amor",
+        "alegre"
+    ],
+    "url": "https://www.youtube.com/watch?v=hIrw_wRXAfk",
+    "chord_chart": "[Intro 2x]\n.| D    A  |  G :||\n\n[A]\n.     D     A        G\n NÃO EXISTE NADA MELHOR\n.        D   A         G\n DO QUE SER AMIGO DE DEUS,\n.     Bm   Bm/A      E\n CAMINHAR SEGURO NA LUZ,\n.      G       A    B\n DESFRUTAR DO SEU AMOR,\n\n[B]\n.      Em      D   A\n TER A PAZ NO CORAÇÃO,\n.      Em         D    A\n VIVER SEMPRE EM COMUNHÃO\n.    G         A\n E ASSIM PERCEBER A \n.      D   D/F#   G\n A GRANDEZA DO PODER\n.      D       A      C\n DE JESUS MEU BOM PASTOR. \n \n[C]\n.       Bm                        Bm/A  | G7M  | G7M ||\n NÃO HÁ NADA MELHOR (NADA MELHOR)\n \n[Fine]\n.Bm  |  Bm/A  |  E/G#  |  G  |\n.D   |   A    |    G   |  G  |",
+    "verses": [
+        {
+            "referencia": [
+                "João",
+                "15",
+                "14-15"
+            ],
+            "score": 0.98,
+            "conteudo": "Vós sereis meus amigos, se fizerdes o que eu vos mando. Já vos não chamarei servos, porque o servo não sabe o que faz o seu senhor; mas tenho-vos chamado amigos, porque tudo quanto ouvi de meu Pai vos tenho feito conhecer. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "23",
+                "1"
+            ],
+            "score": 0.92,
+            "conteudo": "O SENHOR é o meu pastor, nada me faltará. "
+        },
+        {
+            "referencia": [
+                "1 João",
+                "1",
+                "7"
+            ],
+            "score": 0.88,
+            "conteudo": "Mas, se andarmos na luz, como ele na luz está, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o pecado. "
+        },
+        {
+            "referencia": [
+                "João",
+                "10",
+                "11"
+            ],
+            "score": 0.85,
+            "conteudo": "Eu sou o bom Pastor; o bom Pastor dá a sua vida pelas ovelhas. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "4",
+                "7"
+            ],
+            "score": 0.82,
+            "conteudo": "E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus. "
+        }
+    ]
+}

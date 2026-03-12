@@ -1,0 +1,89 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/88035/",
+    "id": "88035",
+    "title": "De Todas as Tribos (Maranata)",
+    "author": "Maranata",
+    "notes": "",
+    "year": "",
+    "key": "D",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 112,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "cordeiro",
+        "adoração",
+        "missões",
+        "celebrativo",
+        "presença"
+    ],
+    "url": "https://www.youtube.com/watch?v=U94w-ZR0OfA",
+    "chord_chart": "[INTRO 2X]\n.| D  A/D  |  G  A7  ||\n\n[A1]\n.    D       A/D     G       A7\n DE TODAS AS TRIBOS POVOS E RAÇAS\n. D       A/D        G\n MUITOS VIRÃO TE LOUVAR\n.     D       A/D     G           A7\n DE TANTAS CULTURAS, LÍNGUAS E NAÇÕES\n.    Em           C       G         A4  A7\n NO TEMPO E NO ESPAÇO, VIRÃO TE ADORAR\n \n[B]\n.    D        A/D          G\n BENDITO SEJA SEMPRE O CORDEIRO,\n.Bm       Bm/A   G        A7\n FILHO DE DEUS, RAIZ DE DAVI\n.    D          A/D        G\n BENDITO SEJA O SEU SANTO NOME\n. Bm     Bm/A      G  A7        D\n CRISTO JESUS, PRESEN_____TE AQUI\n \n[Intro]\n.( D )  A/D  |  G  |  Bm  Bm/G  |  G  A4  A7  |\n \n[A2]\n.   D       A/D      G           A7\n REMIDOS COMPRADOS, GRANDE MULTIDÃO,\n. D       A/D        G\n MUITOS VIRÃO TE LOUVAR\n. D       A/D         G         A7\n POVO ESCOLHIDO, TEU REINO E NAÇÃO\n.    Em           C      G         A4  A7\n NO TEMPO E NO ESPAÇO VIRÃO TE ADORAR\n \n[A3]\n.   D         A/D   G        A7\n A NÓS SÓ NOS CABE TUDO DEDICAR,\n.  D     A/D        G\n OFERTA SUAVE AO SENHOR\n. D       A/D        G          A7\n DONS E TALENTOS QUEREMOS CONSAGRAR\n.     Em      C         G         A4  A7\n E A VIDA NO TEU ALTAR PRA TEU LOUVOR",
+    "verses": [
+        {
+            "referencia": [
+                "Apocalipse",
+                "7",
+                "9"
+            ],
+            "score": 0.98,
+            "conteudo": "Depois destas coisas olhei, e eis aqui uma multidão, a qual ninguém podia contar, de todas as nações, e tribos, e povos, e línguas, que estavam diante do trono, e perante o Cordeiro, trajando vestes brancas e com palmas nas suas mãos; "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "5",
+                "9"
+            ],
+            "score": 0.95,
+            "conteudo": "E cantavam um novo cântico, dizendo: Digno és de tomar o livro, e de abrir os seus selos; porque foste morto, e com o teu sangue nos compraste para Deus de toda a tribo, e língua, e povo, e nação; "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "86",
+                "9"
+            ],
+            "score": 0.92,
+            "conteudo": "Todas as nações que fizeste virão e se prostrarão perante a tua face, Senhor, e glorificarão o teu nome. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "5",
+                "12"
+            ],
+            "score": 0.9,
+            "conteudo": "Que com grande voz diziam: Digno é o Cordeiro, que foi morto, de receber o poder, e riquezas, e sabedoria, e força, e honra, e glória, e ações de graças. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "22",
+                "16"
+            ],
+            "score": 0.88,
+            "conteudo": "Eu, Jesus, enviei o meu anjo, para vos testificar estas coisas nas igrejas. Eu sou a raiz e a geração de Davi, a resplandecente estrela da manhã. "
+        },
+        {
+            "referencia": [
+                "1 Pedro",
+                "2",
+                "9"
+            ],
+            "score": 0.85,
+            "conteudo": "Mas vòs sois a geração eleita, o sacerdòcio real, a nação santa, o povo adquirido, para que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz; "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "12",
+                "1"
+            ],
+            "score": 0.82,
+            "conteudo": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional. "
+        }
+    ]
+}

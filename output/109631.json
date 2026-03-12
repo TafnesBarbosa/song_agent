@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/109631/",
+    "id": "109631",
+    "title": "⁠Te Adorar é Meu Prazer",
+    "author": "Aline Barros",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 72,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "adoração",
+        "presença",
+        "santidade",
+        "gratidão",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=ef-ADl6_PsY",
+    "chord_chart": "[Intro]\n.E   B/D#   C#m   A\n.E   B/D#   A    A\n\n[A]\n.    E           B/D#           C#m \n Senhor, quero viver pra Teu louvor\n.       B/D#             A \n Te entregar tudo o que sou\n.           B            A         B\n Com meu viver Te exaltarei amado Rei dos reis\n.    E          B/D#     C#m \n Senhor, Tua verdade viverei\n.       B/D#        A\n Em santidade servirei\n.         E             B   B/D#     \n Minha herança está em Ti\n\n[B]\n.       A                     B/D#     \n Te adorar, Senhor, é o meu prazer\n.          G#m                 C#m\n Te entronizar Senhor, Te bendizer\n.        F#m7         G#m \n Minha paixão está em Ti\n.         A          Bsus B \n Meu coração está em Ti\n\n[C]\n.       A                     B/D#     \n Te adorar, Senhor, é o meu prazer\n.         G#m                  C#m\n Te entronizar Senhor, Te bendizer\n.       A              B \n Minha paixão está em Ti\n.       A/C#          B      A   B   A \n Meu coração está em Ti, Senhor",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "16",
+                "5"
+            ],
+            "score": 0.88,
+            "conteudo": "O Senhor é a porção da minha herança e do meu cálice; tu sustentas a minha sorte. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "103",
+                "1"
+            ],
+            "score": 0.85,
+            "conteudo": "Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "1"
+            ],
+            "score": 0.82,
+            "conteudo": "Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "12",
+                "1"
+            ],
+            "score": 0.8,
+            "conteudo": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "16",
+                "2"
+            ],
+            "score": 0.78,
+            "conteudo": "A minha alma disse ao Senhor: Tu és o meu Senhor, a minha bondade não chega à tua presença, "
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/109393/",
+    "id": "109393",
+    "title": "Jesus Em Tua Presença",
+    "author": "Tradicional",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 78,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "adoração",
+        "cruz",
+        "redenção",
+        "presença",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=0oventhqIPc",
+    "chord_chart": "[Intro 2x]\n.E  A  |  B  E |\n\n[A]\n.   E             A       B          E\n Jesus em tua presença reunimo-nos aqui\n.        E         A       B          E\n Contemplamos tua face rendemo-nos a ti\n.       C#m7      G#m7           A            E\n Pois um dia a tua morte trouxe vida a todos nós\n.       E             A        B           E\n E nos deu completo acesso ao coração do pai\n\n[B]\n.  C#m         G#m7     A     B7   C#m\n O véu que separava já não separa mais\n.  C#m             G#m       A\n A luz que outrora apagada agora brilha\n.   B7              F#4  F#\n E cada dia brilha mais\n\n[Refrão]\n. A     B7     E   C#m7\n Só pra te adorar\n.     A       B7  C#m7\n E fazer Teu nome grande\n.A    B7        E      C#m   F#\n E te dar o louvor que  é devido\n.   E B7       A   G#m   F#m  E\n Estamos nós aqui\n \n[Intro...]",
+    "verses": [
+        {
+            "referencia": [
+                "Hebreus",
+                "10",
+                "19"
+            ],
+            "score": 0.95,
+            "conteudo": "Tendo, pois, irmãos, ousadia para entrar no santuário, pelo sangue de Jesus, "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "10",
+                "20"
+            ],
+            "score": 0.95,
+            "conteudo": "Pelo novo e vivo caminho que ele nos consagrou, pelo véu, isto é, pela sua carne, "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "4",
+                "16"
+            ],
+            "score": 0.92,
+            "conteudo": "Cheguemos, pois, com confiança ao trono da graça, para que possamos alcançar misericórdia e achar graça, a fim de sermos ajudados em tempo oportuno. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "2",
+                "18"
+            ],
+            "score": 0.9,
+            "conteudo": "Porque por ele ambos temos acesso ao Pai em um mesmo Espírito. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "27",
+                "51"
+            ],
+            "score": 0.88,
+            "conteudo": "E eis que o véu do templo se rasgou em dois, de alto a baixo; e tremeu a terra, e fenderam-se as pedras; "
+        },
+        {
+            "referencia": [
+                "1 Coríntios",
+                "15",
+                "20"
+            ],
+            "score": 0.85,
+            "conteudo": "Mas de fato Cristo ressuscitou dentre os mortos, e foi feito as primícias dos que dormem. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "5",
+                "8"
+            ],
+            "score": 0.8,
+            "conteudo": "Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores. "
+        },
+        {
+            "referencia": [
+                "João",
+                "1",
+                "14"
+            ],
+            "score": 0.78,
+            "conteudo": "E o Verbo se fez carne, e habitou entre nós, e vimos a sua glória, como a glória do unigênito do Pai, cheio de graça e de verdade. "
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/102874/",
+    "id": "102874",
+    "title": "130",
+    "author": "Projeto Sola",
+    "notes": "",
+    "year": "",
+    "key": "D",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 95,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "redenção",
+        "esperança",
+        "perdão",
+        "adoração",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=ik6hXqn5UDw",
+    "chord_chart": "[Intro]\n.Bm\n\n[A]\n.G      A     Bm           G  F#m    Bm\n   Nas profundezas da dor.   Elevo a Ti meu clamor\n.G    A    Bm        Em          F#m         Bm  \n   Escuta minha voz. Ouve a minha oração, Senhor\n\n[B]\n.G   A      Bm\n  E se guardasse as transgressões\n.G  F#m   Bm          G     A    Bm\n  O que seria de mim?   Mas me ofertas perdão\n.Em          F#m          G    Em        F#m           Bm\n  E assim, aprendo a Te temer. E assim, aprendo a Te temer\n\n[C]\n.       G                                       Bm\n Esperarei, no Deus, que em Sua palavra me guardou\n.       ( F#m )   G                              F#m | A\n Hei de ansi_____ar. Por Sua tão zelosa e forte mão\n.      G  D/F#   Em\n Se a noi__te   fria e escura\n.                    Bm  A/C# | D |\n No caminho me alcançar\n.         G       A     F#m     Bm\n Descansarei, confiante até chegar\n\n[Interlúdio - Solo]\n.Bm\n\n[B, C...]\n[D]\n.     A         Bm       ( F#m ) G                      D\n Em Cristo, firmada está         minha esperança até o fim\n.     A          Bm        Em         F#m           Bm\n No amor, plena redenção. Confiante então, descansarei\n.     A         Bm       ( F#m ) G                      D\n Em Cristo, firmada está         minha esperança até o fim\n.     A          Bm        Em         F#m           G\n No amor, plena redenção. Confiante então, descansarei\n. Em         F#m           Bm\n Confiante então, descansarei\n\n[C...]\n[Passagem - Fraco]\n.         G       A     F#m     Bm\n Descansarei, confiante até chegar\n\n[Interlúdio - Solo...]\n[A...]\n[Fine]\n Ouve a minha oração",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "130",
+                "1-2"
+            ],
+            "score": 0.98,
+            "conteudo": "Das profundezas a ti clamo, ó SENHOR. Senhor, escuta a minha voz; sejam os teus ouvidos atentos à voz das minhas súplicas. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "130",
+                "3-4"
+            ],
+            "score": 0.98,
+            "conteudo": "Se tu, Senhor, observares as iniqüidades, Senhor, quem subsistirá? Mas contigo está o perdão, para que sejas temido. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "130",
+                "5"
+            ],
+            "score": 0.95,
+            "conteudo": "Aguardo ao Senhor; a minha alma o aguarda, e espero na sua palavra. "
+        },
+        {
+            "referencia": [
+                "Colossenses",
+                "1",
+                "27"
+            ],
+            "score": 0.92,
+            "conteudo": "Aos quais Deus quis fazer conhecer quais são as riquezas da glória deste mistério entre os gentios, que é Cristo em vós, esperança da glória; "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "1",
+                "7"
+            ],
+            "score": 0.9,
+            "conteudo": "Em quem temos a redenção pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua graça, "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "6",
+                "19"
+            ],
+            "score": 0.88,
+            "conteudo": "A qual temos como âncora da alma, segura e firme, e que penetra até ao interior do véu, "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "41",
+                "10"
+            ],
+            "score": 0.85,
+            "conteudo": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "5",
+                "1"
+            ],
+            "score": 0.85,
+            "conteudo": "Tendo sido, pois, justificados pela fé, temos paz com Deus, por nosso Senhor Jesus Cristo; "
+        }
+    ]
+}

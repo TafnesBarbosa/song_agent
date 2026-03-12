@@ -1,0 +1,116 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/106062/",
+    "id": "106062",
+    "title": "Castelo Forte (HCC 406 / Letra IBM)",
+    "author": "HeartSong Cedarville University / Letra Igreja Batista Maranata",
+    "notes": "",
+    "year": "",
+    "key": "B",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 108,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "soberania",
+        "confiança",
+        "redenção",
+        "adoração",
+        "celebrativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=JYOGKVZ7ltU",
+    "chord_chart": "[Intro]\n.B  |  B  |  B  |  B\n\n[A]\n.B9                       B9   G#m                 E  B\n   CASTELO FORTE É NOSSO DEUS,     ESPADA E BOM ESCU_DO! \n.B9                              G#m                 E B\n   COM SEU PODER DEFENDE OS SEUS    EM TODO TRANSE AGU_DO. \n.G#m7              B               G#m7 \n   COM FÚRIA PERTINAZ PERSEGUE SATANÁS\n.                  B        E          D#m7 \n   COM ARTIMANHAS TAIS E ASTÚCIAS INFERNAIS,\n.E                F#       B\n   QUE IGUAIS NÃO HÁ NA TERRA\n\n[Interlúdio 2x]\n.B   E  G#m  |  E  B\n O   o   o      o  o \n\n[B]\n.B9                       G#m                   E  B\n   A NOSSA FORÇA NADA FAZ,    ESTAMOS, SIM, PERDI_DOS!\n.B9                           G#m              E   B \n   MAS NOSSO DEUS SOCORRO TRAZ   E SOMOS PROTEGI__DOS. \n.G#m7             B                    G#m7 \n   DEFENDE-NOS JESUS, O QUE VENCEU NA CRUZ,\n.G#m7                B       E              D#m7 \n   SENHOR DOS ALTOS CÉUS, E SENDO O PRÓPRIO DEUS, \n.E         F#      B\n   TRIUNFA NA BATALHA.\n   \n[Interlúdio 2x...]\n\n[C]\n.B9                          G#m                E  B \n   SIM, QUE A PALAVRA FICARÁ,   SABEMOS COM CERTE_ZA, \n.B9                     G#m                  E  B \n   E NADA NOS ASSUSTARÁ    COM CRISTO POR DEFE_SA! \n.G#m7            B                   G#m7 \n   SE TEMOS DE PERDER FAMÍLIA, BENS, PRAZER! \n.G#m7             B       E          D#m7\n   EMBORA A VIDA VÁ, POR NÓS JESUS ESTÁ,\n.E         F#        B\n   E NOS DARÁ SEU REINO\n   \n[Interlúdio 2x...]\n.B                E    G#m7                  E   B \n CASTELO FORTE É NOSSO DEUS  (COM ELE REINAREMOS)   4X",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "46",
+                "1"
+            ],
+            "score": 0.98,
+            "conteudo": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "91",
+                "2"
+            ],
+            "score": 0.95,
+            "conteudo": "Direi do Senhor: Ele é o meu Deus, o meu refúgio, a minha fortaleza, e nele confiarei. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "8",
+                "31"
+            ],
+            "score": 0.93,
+            "conteudo": "Que diremos, pois, a estas coisas? Se Deus é por nós, quem será contra nós? "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "6",
+                "11-12"
+            ],
+            "score": 0.92,
+            "conteudo": "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo. Porque não temos que lutar contra a carne e o sangue, mas, sim, contra os principados, contra as potestades, contra os príncipes das trevas deste século, contra as hostes espirituais da maldade, nos lugares celestiais. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "8",
+                "38-39"
+            ],
+            "score": 0.92,
+            "conteudo": "Porque estou certo de que, nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir, Nem a altura, nem a profundidade, nem alguma outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor. "
+        },
+        {
+            "referencia": [
+                "Colossenses",
+                "2",
+                "15"
+            ],
+            "score": 0.91,
+            "conteudo": "E, despojando os principados e potestades, os expôs publicamente e deles triunfou em si mesmo. "
+        },
+        {
+            "referencia": [
+                "João",
+                "16",
+                "33"
+            ],
+            "score": 0.9,
+            "conteudo": "Tenho-vos dito isto, para que em mim tenhais paz; no mundo tereis aflições, mas tende bom ânimo, eu venci o mundo. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "40",
+                "8"
+            ],
+            "score": 0.9,
+            "conteudo": "Seca-se a erva, e cai a flor, porém a palavra de nosso Deus subsiste eternamente. "
+        },
+        {
+            "referencia": [
+                "Provérbios",
+                "18",
+                "10"
+            ],
+            "score": 0.88,
+            "conteudo": "Torre forte é o nome do Senhor; a ela correrá o justo, e estará em alto refúgio. "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "13",
+                "6"
+            ],
+            "score": 0.85,
+            "conteudo": "E assim com confiança ousemos dizer: O Senhor é o meu ajudador, e não temerei O que me possa fazer o homem. "
+        }
+    ]
+}

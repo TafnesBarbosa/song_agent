@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/96366/",
+    "id": "96366",
+    "title": "Seja Engrandecido - Te Louvamos Oh Senhor",
+    "author": "Paulo César Baruk",
+    "notes": "",
+    "year": "",
+    "key": "G",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 102,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "soberania",
+        "adoração",
+        "gratidão",
+        "celebrativo",
+        "salvação"
+    ],
+    "url": "https://www.youtube.com/watch?v=35ly3lu39V0",
+    "chord_chart": "[Intro]\n.| G         | D/F#       | Em9  Em9/D |\n.| A/C#  D/C | Bm    Em7  | C  G/A  A7 |  Dsus  |\n\n[A]\n. G                    Bm              \n SEJA ENGRANDECIDO, OH DEUS DA MINHA VIDA, \n.    C           G/A         C/D\n TU ÉS O DEUS DA MINHA SALVAÇÃO\n.G                   Bm                      \n ÉS A MINHA ROCHA, A MINHA SEGURANÇA, \n.      C             A       C/D\n MEUS LÁBIOS SEMPRE TE EXALTARÃO.\n\n[Refrão]\n.    G       F/G          C           Asus4  A      C/D\n ALELUIA, TE LOUVO, POIS SEI QUE SOBRE TODOS ÉS SENHOR!\n.    G       F/G          C  Em/B        A           G    C/D\n ALELUIA, TE LOUVO, POIS SEI  QUE SOBRE TODOS ÉS SENHOR\n\n[B]\n.G                     Bm              \n SEJA ENGRANDECIDO, OH DEUS DA MINHA VIDA, \n.    C          G/A         C/D\n TU ÉS O DEUS DA MINHA SALVAÇÃO\n.G                   Bm\n ÉS A MINHA ROCHA, A MINHA SEGURANÇA, \n.      C             A       C/D\n MEUS LÁBIOS SEMPRE TE EXALTARÃO.\n\n[Refrão...]\n\n[C]\n.    G       F/G       C    Am       D      G    C/D\n ALELUIA, ALELUIA, ALELUIA, LOUVEMOS AO SENHOR.\n.     G       F/G      C     Am        D      G    Esus  |  E  |  A\n ALELUIA, ALELUIA, ALELUIA,  LOUVEMOS AO SENHOR.\n\n[D]\n.A                 D/A  D/F#  E7/G#\n TE LOUVAMOS OH SENHOR, \n.                  A  D/E  E7\n PELO TEU IMENSO AMOR\n.A    A7            D/A   A/C#    Bm7  E\n MANIFESTA O TEU PERDÃO    E   PODER \n.E   E/D      C#m7   F#m     Bm7\n E ASSIM VAMOS TE ADORAR PARA SEMPRE\n.E7                     A    ( D/E  E  A )\n    PRA SEMPRE OH MEU DEUS",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "18",
+                "2"
+            ],
+            "score": 0.98,
+            "conteudo": "O Senhor é o meu rochedo, e o meu lugar forte, e o meu libertador; o meu Deus, a minha fortaleza, em quem confio; o meu escudo, a força da minha salvação, e o meu alto refúgio. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "63",
+                "3"
+            ],
+            "score": 0.92,
+            "conteudo": "Porque a tua benignidade é melhor do que a vida, os meus lábios te louvarão. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "97",
+                "9"
+            ],
+            "score": 0.88,
+            "conteudo": "Pois tu, Senhor, és o mais alto sobre toda a terra; tu és muito mais exaltado do que todos os deuses. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "34",
+                "1"
+            ],
+            "score": 0.85,
+            "conteudo": "Louvarei ao SENHOR em todo o tempo; o seu louvor estará continuamente na minha boca. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "62",
+                "6"
+            ],
+            "score": 0.82,
+            "conteudo": "Só ele é a minha rocha e a minha salvação; é a minha defesa; não serei abalado. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "103",
+                "1"
+            ],
+            "score": 0.8,
+            "conteudo": "Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome. "
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/93681/",
+    "id": "93681",
+    "title": "Comunhão",
+    "author": "Asaph Borba",
+    "notes": "",
+    "year": "",
+    "key": "G",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "cruz",
+        "ceia",
+        "gratidão",
+        "contemplativo",
+        "adoração"
+    ],
+    "url": "https://www.youtube.com/watch?v=M1rn1MGXTU8",
+    "chord_chart": "[A]\n.G             D/F#      Dm/F           C/E\n AGRADECEMOS SENHOR PELO PÃO QUE NOS DÁ VIDA\n.      Cm/Eb             G/D         A/C#       D4\n DAS LEMBRANÇAS A MAIS QUERIDA PROVA LINDA DO AMOR\n.       Bm          Em          B7             Em \n QUE LEVOU JESUS À CRUZ QUANDO FOI POR NÓS PARTIDO\n.      C          D        C        C/D\n COMO SACRIFÍCIO VIVO QUE NOS UNIU A TI.\n\n[B]\n.G              D/F#     Dm/F         C/E\n AGRADECEMOS, SENHOR PELO CÁLICE DA ALIANÇA\n.         Cm/Eb      G/D          A/C#            D4\n QUE FORTALECE A CONFIANÇA NO TEU PURO E ETERNO AMOR\n.       Bm          Em        B7              Em \n QUE LEVOU JESUS À CRUZ PARA QUE A NÓS FOSSE DADO\n.      C           D         C             C/D     G\n PELO SANGUE DERRAMADO O PERFEITO ACESSO A TI, SENHOR.\n\n[C]\n.  D           Em  D/F#          G\n E AO PARTIMOS  O  PÃO QUANDO O CÁLICE BEBEMOS\n.    D         Em D/F#         G   \n LEMBRAMOS A COMU_NHÃO QUE CONTIGO, Ó PAI, NÓS TEMOS\n.   C                D/C       B7                Em\n ESTANDO A IGREJA EM UNIÃO EM TERNOS BRAÇOS DE AMOR\n.   C          D        C             C/D      G   C  Cm  G\n EM UMA VOZ E CORAÇÃO ADORAMOS HOJE A TI, SENHOR!",
+    "verses": [
+        {
+            "referencia": [
+                "1 Coríntios",
+                "11",
+                "23-26"
+            ],
+            "score": 0.98,
+            "conteudo": "Porque eu recebi do Senhor o que também vos ensinei: que o Senhor Jesus, na noite em que foi traído, tomou o pão; E, tendo dado graças, o partiu e disse: Tomai, comei; isto é o meu corpo que é partido por vós; fazei isto em memória de mim. Semelhantemente também, depois de cear, tomou o cálice, dizendo: Este cálice é o novo testamento no meu sangue; fazei isto, todas as vezes que beberdes, em memória de mim. Porque todas as vezes que comerdes este pão e beberdes este cálice anunciais a morte do Senhor, até que venha. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "26",
+                "26-28"
+            ],
+            "score": 0.95,
+            "conteudo": "E, quando comiam, Jesus tomou o pão, e abençoando-o, o partiu, e o deu aos discípulos, e disse: Tomai, comei, isto é o meu corpo. E, tomando o cálice, e dando graças, deu-lho, dizendo: Bebei dele todos; Porque isto é o meu sangue, o sangue do novo testamento, que é derramado por muitos, para remissão dos pecados. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "2",
+                "13"
+            ],
+            "score": 0.92,
+            "conteudo": "Mas agora em Cristo Jesus, vós, que antes estáveis longe, já pelo sangue de Cristo chegastes perto. "
+        },
+        {
+            "referencia": [
+                "1 Coríntios",
+                "10",
+                "16"
+            ],
+            "score": 0.9,
+            "conteudo": "Porventura o cálice de bênção, que abençoamos, não é a comunhão do sangue de Cristo? O pão que partimos não é porventura a comunhão do corpo de Cristo? "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "10",
+                "19-20"
+            ],
+            "score": 0.88,
+            "conteudo": "Tendo, pois, irmãos, ousadia para entrar no santuário, pelo sangue de Jesus, Pelo novo e vivo caminho que ele nos consagrou, pelo véu, isto é, pela sua carne, "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "12",
+                "1"
+            ],
+            "score": 0.85,
+            "conteudo": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional. "
+        },
+        {
+            "referencia": [
+                "1 João",
+                "1",
+                "7"
+            ],
+            "score": 0.82,
+            "conteudo": "Mas, se andarmos na luz, como ele na luz está, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o pecado. "
+        }
+    ]
+}

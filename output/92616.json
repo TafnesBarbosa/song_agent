@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/92616/",
+    "id": "92616",
+    "title": "Louvado Seja",
+    "author": "Davi Sacer / César Augusto / Gilberto Jr.",
+    "notes": "",
+    "year": "",
+    "key": "G",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "adoração",
+        "graça",
+        "amor",
+        "contemplativo",
+        "gratidão"
+    ],
+    "url": "https://www.youtube.com/watch?v=BFFKm9QeH9o",
+    "chord_chart": "[Intro]\n                                     𝅗𝅥    𝅗𝅥\n. G | D/F# | Dm/F | C/E | Ebmaj7 | Dsus4 C/D ||\n\n[A]\n.G       D/F#  Dm/F        C/E\n  LOUVADO SEJA,  SENHOR TEU NOME,\n.Cm/Eb   G/D Em7 Ebmaj7  Cm7    Dsus4  D\n  ENTRONIZADO      ENTRE  AS NAÇÕES;\n.G      D/F# Dm/F       C/E\n  EXALTAREI    A TI, SENHOR,\n.Cm/Eb        G/D Em7        A7  D\n  PELO QUE TU ÉS,    EU TE ADORAREI.\n  \n[B]\n.G               D/F#\n RECEBE A MINHA ADORAÇÃO\n.      Dm/F           C/E\n QUE É FRUTO DE TUA GRAÇA A MIM\n. Cm/Eb                G/D       Em7\n E  DO TEU AMOR QUE RESTAURA EM MIM\n.  A7          Dsus4   D\n O MEU AMOR POR TI, JESUS.\n\n[C]\n.G        D/F#    Dm/F        C/E\n ENGRANDECEREI, EXALTAREI TEU NOME,\n. Cm/Eb            G/D     Em7\n DIANTE DOS REIS E DOS PODEROSOS\n.    A7        Dsus4   D  ( G )\n EU LOUVAREI A TI, SENHOR.",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "1"
+            ],
+            "score": 0.95,
+            "conteudo": "Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "22",
+                "3"
+            ],
+            "score": 0.92,
+            "conteudo": "Porém tu és santo, tu que habitas entre os louvores de Israel. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "9",
+                "2"
+            ],
+            "score": 0.88,
+            "conteudo": "Em ti me alegrarei e saltarei de prazer; cantarei louvores ao teu nome, ó Altíssimo. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "2",
+                "8"
+            ],
+            "score": 0.85,
+            "conteudo": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "103",
+                "1"
+            ],
+            "score": 0.82,
+            "conteudo": "Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome. "
+        }
+    ]
+}

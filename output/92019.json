@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/92019/",
+    "id": "92019",
+    "title": "Viva Chama",
+    "author": "Jorge Camargo",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Rápido",
+    "theme": "",
+    "tags": [
+        "graça",
+        "adoração",
+        "gratidão",
+        "presença",
+        "celebrativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=rlgS-4941Ag",
+    "chord_chart": "[INTRODUÇÃO]\n.E | E | E | E | E | E D97- |\n\n[A]\n.E                  E/G#    A                  D97-\n É TÃO BOM LOUVARMOS,   AO DEUS DE TODA GRAÇA \n.E                 C#m     A               D97-\n JUNTOS BENDIZERMOS,   A QUEM É NOSSA FORÇA \n.E                  E/G#     A            D79- \n E ASSIM FESTEJARMOS,   COM TODA A ALEGRIA \n.E                   C#m     A         D79- \n O PRAZER DE ESTARMOS,   EM SUA COMPANHIA \n\n[Refrão 2x]\n.A7M                D79-            G#m7       B/C#  \n É NOSSA RESPOSTA, ESTE SENTIMENTO, VOZ DO CORAÇÃO \n.A               D7M             E7M           (D/E)\n AMOR INCONTIDO, UMA VIVA CHAMA, ARDE EM DEVOÇÃO \n\n[INTERLÚDIO]\n.E | E | E | E | E | E D97- |\n\n[B]\n.E                   E/G#   A                 D79-\n É TÃO BOM CANTARMOS,    USANDO A VOZ E A VIDA \n.E                 E/G#     A             D79- \n JUNTOS CELEBRARMOS,   SEU AMOR SEM MEDIDA \n.E                E/G#    A              D79-  \n PARA PROCLAMARMOS,    RAZÃO DA ESPERANÇA \n.E                 E/G#    A                   D79- \n QUE EXPERIMENTAMOS,    ANDANDO EM SUA PRESENÇA",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "147",
+                "1"
+            ],
+            "score": 0.92,
+            "conteudo": "Louvai ao SENHOR, porque é bom cantar louvores ao nosso Deus, porque é agradável; decoroso é o louvor. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "95",
+                "1-2"
+            ],
+            "score": 0.88,
+            "conteudo": "Vinde, cantemos ao SENHOR; jubilemos à rocha da nossa salvação. Apresentemo-nos ante a sua face com louvores, e celebremo-lo com salmos. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "100",
+                "1-2"
+            ],
+            "score": 0.85,
+            "conteudo": "Celebrai com júbilo ao SENHOR, todas as terras. Servi ao Senhor com alegria; e entrai diante dele com canto. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "16",
+                "11"
+            ],
+            "score": 0.82,
+            "conteudo": "Far-me-ás ver a vereda da vida; na tua presença há fartura de alegrias; à tua mão direita há delícias perpetuamente. "
+        },
+        {
+            "referencia": [
+                "1 Pedro",
+                "1",
+                "8"
+            ],
+            "score": 0.79,
+            "conteudo": "Ao qual, não o havendo visto, amais; no qual, não o vendo agora, mas crendo, vos alegrais com gozo inefável e glorioso; "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "28",
+                "7"
+            ],
+            "score": 0.77,
+            "conteudo": "O Senhor é a minha força e o meu escudo; nele confiou o meu coração, e fui socorrido; assim o meu coração salta de prazer, e com o meu canto o louvarei. "
+        }
+    ]
+}

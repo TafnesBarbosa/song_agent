@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/85655/",
+    "id": "85655",
+    "title": "Deus está aqui",
+    "author": "Corinhos Evangélicos",
+    "notes": "",
+    "year": "",
+    "key": "D",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "presença",
+        "adoração",
+        "gratidão",
+        "confiança",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=1h02Jd__n0c",
+    "chord_chart": "[A]\n.D      A7   Bm\n DEUS ESTÁ AQUI, ALELUIA!\n.     G                   A    D    D7\n TÃO CERTO COMO O AR QUE EU RESPIRO,\n.     G               A           F# Bm\n TÃO CERTO COMO O AMANHÃ QUE SE LEVANTA,\n.      G              A                   D  G/A  A7\n TÃO CERTO COMO EU TE FALO E PODES ME OUVIR.\n\n[B]\n.D       A     Bm\n DEUS ESTÁ EM NÓS...\n.     G                  A      D    D7    \n TÃO CERTO COMO O AR QUE EU RESPIRO,\n.     G                A          F#  Bm\n TÃO CERTO COMO O AMANHÃ QUE SE LEVANTA,\n.      G               A                 D   B7\n TÃO CERTO COMO EU TE FALO E PODES ME OUVIR.\n\n[B]\n.E       B    C#m\n DEUS ESTÁ EM MIM...\n.     A                   B     E    E7    \n TÃO CERTO COMO O AR QUE EU RESPIRO,\n.     A                B           G#   C#m\n TÃO CERTO COMO O AMANHÃ QUE SE LEVANTA,\n.      A               B                 E  C#m\n TÃO CERTO COMO EU TE FALO E PODES ME OUVIR.\n.      A               B                 E    \n TÃO CERTO COMO EU TE FALO E PODES ME OUVIR.",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "139",
+                "7-10"
+            ],
+            "score": 0.98,
+            "conteudo": "Para onde me irei do teu espírito, ou para onde fugirei da tua face? Se subir ao céu, lá tu estás; se fizer no inferno a minha cama, eis que tu ali estás também. Se tomar as asas da alva, se habitar nas extremidades do mar, Até ali a tua mão me guiará e a tua destra me susterá. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "28",
+                "20"
+            ],
+            "score": 0.95,
+            "conteudo": "Ensinando-os a guardar todas as coisas que eu vos tenho mandado; e eis que eu estou convosco todos os dias, até a consumação dos séculos. Amém. "
+        },
+        {
+            "referencia": [
+                "Atos",
+                "17",
+                "27-28"
+            ],
+            "score": 0.92,
+            "conteudo": "Para que buscassem ao Senhor, se porventura, tateando, o pudessem achar; ainda que não está longe de cada um de nós; Porque nele vivemos, e nos movemos, e existimos; como também alguns dos vossos poetas disseram: Pois somos também sua geração. "
+        },
+        {
+            "referencia": [
+                "Jeremias",
+                "23",
+                "23-24"
+            ],
+            "score": 0.88,
+            "conteudo": "Porventura sou eu Deus de perto, diz o Senhor, e não também Deus de longe? Esconder-se-ia alguém em esconderijos, de modo que eu não o veja? diz o Senhor. Porventura não encho eu os céus e a terra? diz o Senhor. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "46",
+                "1"
+            ],
+            "score": 0.85,
+            "conteudo": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. "
+        }
+    ]
+}

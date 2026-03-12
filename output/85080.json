@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/85080/",
+    "id": "85080",
+    "title": "Digno É o Senhor",
+    "author": "Aline Barros",
+    "notes": "",
+    "year": "",
+    "key": "A",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 72,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "redentor",
+        "adoração",
+        "gratidão",
+        "cruz",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=stKPXkcW5v8",
+    "chord_chart": "[Intro]\n.Bm A/C# | D | Bm A/C# | Esus |\n \n[A]\n.              D   E/D  A/C#\n GRAÇAS EU TE DOU       PAI\n.            D   E A\n PELO PREÇO QUE PAGOU\n.          E/F#  F#m7\n SACRIFÍCIO DE AMOR\n.   E/D     D     Bm  A/C#   Esus  A/C#\n QUE ME COMPROU UNGIDO DO SENHOR\n\n[B]\n.              D  E/D  A/C#\n PELOS CRAVOS EM  TUAS MÃOS\n.              D  E         A\n GRAÇAS EU TE DOU Ó MEU SENHOR\n.                   E/F#  F#m7\n LAVOU MINHA MENTE E CORAÇÃO\n.   E/D     D         Bm      A/C#   Esus\n ME DEU PERDÃO, RESTAUROU-ME A COMUNHÃO\n\n[C]\n.A           E/G#  Bm     A/C#      D\n DIGNO É O SENHOR, SOBRE O TRONO ESTÁ\n.E   E/D   A/C# D       Bm    Bm/A   E/G#\n SOBERANO, CRIADOR, VOU SEMPRE TE ADORAR\n.  A         E/G#      Bm     A/C#    D\n ELEVO MINHAS MÃOS, AO CRISTO QUE VENCEU\n.    E      E/D     A/C#      D   E\n CORDEIRO DE DEUS MORREU POR MIM\n \n[Ponte / Fine]\n.            Bm   A/C# | D/E |\n MAS RESSUSCITOU\n.            Bm   A/C# | Esus\n DIGNO É O SENHOR",
+    "verses": [
+        {
+            "referencia": [
+                "Apocalipse",
+                "5",
+                "12"
+            ],
+            "score": 0.98,
+            "conteudo": "Que com grande voz diziam: Digno é o Cordeiro, que foi morto, de receber o poder, e riquezas, e sabedoria, e força, e honra, e glória, e ações de graças. "
+        },
+        {
+            "referencia": [
+                "Colossenses",
+                "1",
+                "14"
+            ],
+            "score": 0.92,
+            "conteudo": "Em quem temos a redenção pelo seu sangue, a saber, a remissão dos pecados; "
+        },
+        {
+            "referencia": [
+                "1 Pedro",
+                "1",
+                "18-19"
+            ],
+            "score": 0.9,
+            "conteudo": "Sabendo que não foi com coisas corruptíveis, como prata ou ouro, que fostes resgatados da vossa vã maneira de viver que por tradição recebestes dos vossos pais, Mas com o precioso sangue de Cristo, como de um cordeiro imaculado e incontaminado, "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "53",
+                "5"
+            ],
+            "score": 0.88,
+            "conteudo": "Mas ele foi ferido por causa das nossas transgressões, e moído por causa das nossas iniqüidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "1",
+                "7"
+            ],
+            "score": 0.85,
+            "conteudo": "Em quem temos a redenção pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua graça, "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "9",
+                "14"
+            ],
+            "score": 0.82,
+            "conteudo": "Quanto mais o sangue de Cristo, que pelo Espírito eterno se ofereceu a si mesmo imaculado a Deus, purificará as vossas consciências das obras mortas, para servirdes ao Deus vivo? "
+        }
+    ]
+}

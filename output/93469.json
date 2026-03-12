@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/93469/",
+    "id": "93469",
+    "title": "Cristo Valerá",
+    "author": "Cantor Cristão 322",
+    "notes": "",
+    "year": "",
+    "key": "F",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "fidelidade",
+        "adoração",
+        "gratidão",
+        "confiança",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=xQ8Bj_AUT0Q",
+    "chord_chart": "[Intro]\n                   𝅘𝅥   𝅘𝅥    𝅘𝅥   𝅘𝅥\n.F  |  Am  Dm  |  Gm  Am7  Bb  C4  |  Bb9 ||\n\n[A]\n.F        C/E    A7  Dm7    Dm7/C  Bb  D7\n Oscilando minha fé, Cristo  Vale__rá;\n.Gm          Gm/F       C/E  Bb/D   C  C/E\n Perseguido, sem mercê, ele  vale__rá.\n\n[Refrão]\n. F  C/E   Dm   F  F/A    Bb\n Ele  vale_rá! Ele  vale_rá!\n. F           Am      Dm\n Seu amor por mim não muda,\n.Gm      C   Bb  |  F  |\n Sim, me valerá.\n\n[B]\n.F             C/E   A7  Dm7     Dm7/C    Bb  D7\n Crente inútil eu serei, se  me   não  valer;\n.Gm          Gm/F       C/E   Bb/D     C   C/E\n Nem serviço prestarei, sem o  seu  poder.\n \n[C]\n. F            C/E      A7  Dm7    Dm7/C   Bb  D7\n Com seu sangue me comprou, não me  deixa__rá;\n.Gm         Gm/F          C/E    Bb/D   C   C/E\n Vida eterna me outorgou; sim me  vale_rá.",
+    "verses": [
+        {
+            "referencia": [
+                "Hebreus",
+                "13",
+                "5-6"
+            ],
+            "score": 0.92,
+            "conteudo": "Sejam vossos costumes sem avareza, contentando-vos com o que tendes; porque ele disse: Não te deixarei, nem te desampararei. E assim com confiança ousemos dizer: O Senhor é o meu ajudador, e não temerei O que me possa fazer o homem. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "46",
+                "1"
+            ],
+            "score": 0.88,
+            "conteudo": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "41",
+                "10"
+            ],
+            "score": 0.85,
+            "conteudo": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "4",
+                "13"
+            ],
+            "score": 0.82,
+            "conteudo": "Posso todas as coisas em Cristo que me fortalece. "
+        },
+        {
+            "referencia": [
+                "João",
+                "10",
+                "28"
+            ],
+            "score": 0.78,
+            "conteudo": "E dou-lhes a vida eterna, e nunca hão de perecer, e ninguém as arrebatará da minha mão. "
+        }
+    ]
+}

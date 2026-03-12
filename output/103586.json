@@ -1,0 +1,53 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/103586/",
+    "id": "103586",
+    "title": "Celebrai Com Júbilo",
+    "author": "",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 132,
+    "feel": "Rápido",
+    "theme": "",
+    "tags": [
+        "fidelidade",
+        "adoração",
+        "gratidão",
+        "celebrativo",
+        "alegre"
+    ],
+    "url": "https://www.youtube.com/watch?v=eTpCNtiDiZg",
+    "chord_chart": "[A]\n.E                            \n   CELEBRAI COM JÚBILO AO SENHOR,\n.C#m                            A\n   VÓS TODOS MORADORES DA TERRA,\n.B7           F#m\n   SERVI AO SENHOR COM ALEGRIA\n.B\n   APRESENTAI-VOS A ELE COM CÂNTICO\n  \n[B]\n.E\n   PORQUE O SENHOR É BOM \n.C#m\n   E ETERNA A SUA BONDADE\n.A           F#m\n   E A SUA FIDELIDADE\n.B7\n   DE GERAÇÃO EM GERAÇÃO\n   \n[C]\n.E\n   ALELUIA, GLÓRIA E ALELUIA \n.C#m\n   ALELUIA, GLÓRIA E ALELUIA\n.A          F#m\n   ALELUIA, GLÓRIA E ALELUIA \n.B7                             E\n   ALELUIA, GLÓRIA E ALELUIA, AMÉM",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "100",
+                "1-5"
+            ],
+            "score": 0.98,
+            "conteudo": "Celebrai com júbilo ao SENHOR, todas as terras. Servi ao Senhor com alegria; e entrai diante dele com canto. Sabei que o Senhor é Deus; foi ele que nos fez, e não nós a nós mesmos; somos povo seu e ovelhas do seu pasto. Entrai pelas portas dele com gratidão, e em seus átrios com louvor; louvai-o, e bendizei o seu nome. Porque o Senhor é bom, e eterna a sua misericórdia; e a sua verdade dura de geração em geração. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "100",
+                "5"
+            ],
+            "score": 0.95,
+            "conteudo": "Porque o Senhor é bom, e eterna a sua misericórdia; e a sua verdade dura de geração em geração. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "100",
+                "2"
+            ],
+            "score": 0.92,
+            "conteudo": "Servi ao Senhor com alegria; e entrai diante dele com canto. "
+        }
+    ]
+}

@@ -8,49 +8,46 @@
     "key": "F",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "presença",
+        "ceia",
+        "gratidão",
+        "contemplativo",
+        "perdão"
+    ],
     "url": "https://www.youtube.com/watch?v=u0maSDIPQG0",
     "chord_chart": "[Introdução]\n.F          | Bb9/F    | F   F/A | C   C#º  |\n.Dm7  Dm7/C | Bb9  F/A | Gm7  C4 | Fsus4  F |\n\n[A]\n.         F         Bb9/F\n No nome forte de Jesus\n.        F        F/A            C   C#º\n Nos reunimos aquecidos por sua luz.\n.         Dm7      Dm7/C      Bb9        F/A\n Por meio do Senhor,    unidos neste amor\n.            Gm7         C4          Fsus4  F\n Com vinho e pão nós celebramos comunhão.\n \n[B]\n. C     Bb9     F/A         F\n Não me sinto estranho aqui\n.Gm7      C4     F   F/A\n Este é o meu lugar,\n.Bb9   C/Bb   F/A         Dm7\n No perdão que tenho em Ti\n. G7sus4   G7   C4  C\n Aprendo a perdoar\n \n[C]\n.             F              Bb9/F\n Quem serve o vinho e parte o pão\n.             F            F/A             C  C#º\n É o próprio Cristo, ressurreto e nosso irmão\n.        Dm7         Dm7/C          Bb9  F/A\n O rei da terra e céus    é nosso anfitrião\n.            Gm7          C4         Fsus4  F\n Com vinho e pão nós celebramos comunhão.\n\n[D]\n.C       Bb9  F/A      F\n Entre o povo do Senhor\n.Gm7  C4     F   F/A\n Verdadeiro lar.\n.Bb9     C/Bb  F/A        Dm7\n Cristo está presente aqui\n.G7sus4  G7     C4  C\n Neste   ce-le-brar.\n \n[E]\n.        G          C9/G\n E logo vamos nos reunir\n.            G          G/B              D  D#º\n No grande encontro preparado que há de vir.\n.         Em7       Em7/D        C9     G/B\n Na glória do Senhor,    em todo esplendor\n.            Am7        D4    D#º  Em7\n Com vinho e pão celebraremos comunhão (2x)\n.            Am7         D         C9  |  G\n Com vinho e pão celebraremos comunhão",
     "verses": [
         {
             "referencia": [
-                "1 Coríntios",
-                "11",
-                "23-26"
+                "Mateus",
+                "26",
+                "26"
             ],
             "score": 0.98,
-            "conteudo": "Porque eu recebi do Senhor o que também vos ensinei: que o Senhor Jesus, na noite em que foi traído, tomou o pão; E, tendo dado graças, o partiu e disse: Tomai, comei; isto é o meu corpo que é partido por vós; fazei isto em memória de mim. Semelhantemente também, depois de cear, tomou o cálice, dizendo: Este cálice é o novo testamento no meu sangue; fazei isto, todas as vezes que beberdes, em memória de mim. Porque todas as vezes que comerdes este pão e beberdes este cálice anunciais a morte do Senhor, até que venha. "
+            "conteudo": "E, quando comiam, Jesus tomou o pão, e abençoando-o, o partiu, e o deu aos discípulos, e disse: Tomai, comei, isto é o meu corpo. "
         },
         {
             "referencia": [
                 "1 Coríntios",
                 "10",
-                "16-17"
+                "16"
             ],
-            "score": 0.97,
-            "conteudo": "Porventura o cálice de bênção, que abençoamos, não é a comunhão do sangue de Cristo? O pão que partimos não é porventura a comunhão do corpo de Cristo? Porque nós, sendo muitos, somos um só pão e um só corpo, porque todos participamos do mesmo pão. "
+            "score": 0.95,
+            "conteudo": "Porventura o cálice de bênção, que abençoamos, não é a comunhão do sangue de Cristo? O pão que partimos não é porventura a comunhão do corpo de Cristo? "
         },
         {
             "referencia": [
                 "Lucas",
-                "22",
-                "19-20"
+                "24",
+                "30-31"
             ],
-            "score": 0.96,
-            "conteudo": "E, tomando o pão, e havendo dado graças, partiu-o, e deu-lho, dizendo: Isto é o meu corpo, que por vós é dado; fazei isto em memória de mim. Semelhantemente, tomou o cálice, depois da ceia, dizendo: Este cálice é o novo testamento no meu sangue, que é derramado por vós. "
-        },
-        {
-            "referencia": [
-                "Atos",
-                "2",
-                "42"
-            ],
-            "score": 0.95,
-            "conteudo": "E perseveravam na doutrina dos apóstolos, e na comunhão, e no partir do pão, e nas orações. "
+            "score": 0.92,
+            "conteudo": "E aconteceu que, estando com eles à mesa, tomando o pão, o abençoou e partiu-o, e lho deu. Abriram-se-lhes então os olhos, e o conheceram, e ele desapareceu-lhes. "
         },
         {
             "referencia": [
@@ -58,35 +55,26 @@
                 "18",
                 "20"
             ],
-            "score": 0.93,
+            "score": 0.88,
             "conteudo": "Porque, onde estiverem dois ou três reunidos em meu nome, aí estou eu no meio deles. "
         },
         {
             "referencia": [
-                "João",
-                "6",
-                "53-56"
-            ],
-            "score": 0.88,
-            "conteudo": "Jesus, pois, lhes disse: Na verdade, na verdade vos digo que, se não comerdes a carne do Filho do homem, e não beberdes o seu sangue, não tereis vida em vós mesmos. Quem come a minha carne e bebe o meu sangue tem a vida eterna, e eu o ressuscitarei no último dia. Porque a minha carne verdadeiramente é comida, e o meu sangue verdadeiramente é bebida. Quem come a minha carne e bebe o meu sangue permanece em mim e eu nele. "
-        },
-        {
-            "referencia": [
                 "Efésios",
-                "2",
-                "19-20"
+                "4",
+                "32"
             ],
             "score": 0.85,
-            "conteudo": "Assim que já não sois estrangeiros, nem forasteiros, mas concidadãos dos santos, e da família de Deus; Edificados sobre o fundamento dos apóstolos e dos profetas, de que Jesus Cristo é a principal pedra da esquina; "
+            "conteudo": "Antes sede uns para com os outros benignos, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo. "
         },
         {
             "referencia": [
-                "Colossenses",
-                "3",
-                "13"
+                "Apocalipse",
+                "19",
+                "9"
             ],
-            "score": 0.85,
-            "conteudo": "Suportando-vos uns aos outros, e perdoando-vos uns aos outros, se alguém tiver queixa contra outro; assim como Cristo vos perdoou, assim fazei vós também. "
+            "score": 0.82,
+            "conteudo": "E disse-me: Escreve: Bemaventurados aqueles que são chamados à ceia das bodas do Cordeiro. E disse-me: Estas são as verdadeiras palavras de Deus. "
         }
     ]
 }

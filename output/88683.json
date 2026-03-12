@@ -8,103 +8,64 @@
     "key": "C",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 72,
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
-    "url": "https://www.youtube.com/watch?v=rf6jgMvyr3M",
+    "tags": [
+        "presença",
+        "adoração",
+        "gratidão",
+        "contemplativo",
+        "santificação"
+    ],
+    "url": "https://www.youtube.com/watch?v=DOwgMhPZgcI",
     "chord_chart": "[Intro 2X]\n.F/A  G/B  C  F\n\n[A]\n.F/A  G/B  C         F    C/E \n Fala, Ó Deus é teu povo aqui \n.       F      C/E      F7M/A     G \n pronto para ouvir Tua Palavra ó Pai. \n.F/A   G/B  C        F   C/E \n Plante em nós tua revelação, \n.      F    C/E          G  C \n plena expressão de tua imagem. \n.C/E       G  G2/F   C               F  C/E \n Que o Senhor  Je - sus brilhe em nosso ser, \n.      G  G2/F  C         Dm7    G \n pelo Teu  a - mor , pelo Teu poder. \n.F/A  G/B C           F   C/E \n Fala, Ó Deus vem em nós agir, \n.        F      C/E         C2/G  G   C\n teu querer cumprir pra Tua gló   -  ria \n\n[B]\n.F/A  G/B  C     F   C/E \n Faz-nos Pai te obedecer, \n.     F      C/E       F7M/A   G \n reverentes ser, Dá-nos contrição. \n.F/A   G/B  C        F   C/E \n Vem   pro-var cada coração \n.        F  C/E       G  C \n pela exposição da verdade. \n.C/E     G  G2/F   C          F   C/E \n Dá-nos fé   pra crer, olhos para ver \n.      G  G2/F  C         Dm7    G \n Teu eter-no amor, teu glorioso ser. \n.F/A  G/B C        F   C/E \n Vem  fa-lar em poder real, \n.     F      C/E       C2/G G  C\n superando o mal da descren - ça. \n\n[C]\n.F/A  G/B  C           F  C/E \n Fala, Ó  Pai, traz renovação, \n.       F      C/E        F7M/A    G \n Plena compreensão dos teus pla - nos. \n.F/A  G/B  C        F   C/E \n  Tu – a  lei nunca mudará, \n.       F  C/E      G   C \n firme ecoará para sempre. \n.C/E        G  G2/F  C             F   C/E \n Por tua graça, Ó   Deus, faz-nos confiar \n.      G  G2/F  C          Dm7     G \n Pela fé   em   Ti, ao teu lado andar. \n.F/A  G/B C              F       C \n Fala, Ó Deus, vem, nos faz crescer, \n.        F      C/E          C2/G  G   C\n Vem a terra encher  com tua gló   -  ria.",
     "verses": [
         {
             "referencia": [
-                "2 Coríntios",
-                "3",
-                "18"
-            ],
-            "score": 0.98,
-            "conteudo": "Mas todos nós, com rosto descoberto, refletindo como um espelho a glória do Senhor, somos transformados de glória em glória na mesma imagem, como pelo Espírito do Senhor. "
-        },
-        {
-            "referencia": [
                 "Salmos",
-                "139",
-                "23-24"
+                "119",
+                "105"
             ],
-            "score": 0.98,
-            "conteudo": "Sonda-me, ó Deus, e conhece o meu coração; prova-me, e conhece os meus pensamentos. E vê se há em mim algum caminho mau, e guia-me pelo caminho eterno. "
-        },
-        {
-            "referencia": [
-                "2 Coríntios",
-                "4",
-                "6"
-            ],
-            "score": 0.97,
-            "conteudo": "Porque Deus, que disse que das trevas resplandecesse a luz, é quem resplandeceu em nossos corações, para iluminação do conhecimento da glória de Deus, na face de Jesus Cristo. "
-        },
-        {
-            "referencia": [
-                "Filipenses",
-                "2",
-                "13"
-            ],
-            "score": 0.97,
-            "conteudo": "Porque Deus é o que opera em vós tanto o querer como o efetuar, segundo a sua boa vontade. "
-        },
-        {
-            "referencia": [
-                "Romanos",
-                "8",
-                "29"
-            ],
-            "score": 0.95,
-            "conteudo": "Porque os que dantes conheceu também os predestinou para serem conformes à imagem de seu Filho, a fim de que ele seja o primogênito entre muitos irmãos. "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "1",
-                "18"
-            ],
-            "score": 0.95,
-            "conteudo": "Tendo iluminados os olhos do vosso entendimento, para que saibais qual seja a esperança da sua vocação, e quais as riquezas da glória da sua herança nos santos; "
-        },
-        {
-            "referencia": [
-                "Deuteronômio",
-                "6",
-                "4"
-            ],
-            "score": 0.9,
-            "conteudo": "Ouve, Israel, o Senhor nosso Deus é o único Senhor. "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "1",
-                "12"
-            ],
-            "score": 0.9,
-            "conteudo": "Com o fim de sermos para louvor da sua glória, nós os que primeiro esperamos em Cristo; "
-        },
-        {
-            "referencia": [
-                "João",
-                "8",
-                "47"
-            ],
-            "score": 0.85,
-            "conteudo": "Quem é de Deus escuta as palavras de Deus; por isso vós não as escutais, porque não sois de Deus. "
+            "score": 0.92,
+            "conteudo": "Lâmpada para os meus pés é tua palavra, e luz para o meu caminho. "
         },
         {
             "referencia": [
                 "1 Samuel",
-                "15",
-                "22"
+                "3",
+                "10"
+            ],
+            "score": 0.88,
+            "conteudo": "Então veio o Senhor, e pôs-se ali, e chamou como das outras vezes: Samuel, Samuel. E disse Samuel: Fala, porque o teu servo ouve. "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "4",
+                "12"
             ],
             "score": 0.85,
-            "conteudo": "Porém Samuel disse: Tem porventura o Senhor tanto prazer em holocaustos e sacrifícios, como em que se obedeça à palavra do Senhor? Eis que o obedecer é melhor do que o sacrificar; e o atender melhor é do que a gordura de carneiros. "
+            "conteudo": "Porque a palavra de Deus é viva e eficaz, e mais penetrante do que espada alguma de dois gumes, e penetra até à divisão da alma e do espírito, e das juntas e medulas, e é apta para discernir os pensamentos e intenções do coração. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "19",
+                "7"
+            ],
+            "score": 0.82,
+            "conteudo": "A lei do Senhor é perfeita, e refrigera a alma; o testemunho do Senhor é fiel, e dá sabedoria aos símplices. "
+        },
+        {
+            "referencia": [
+                "Tiago",
+                "1",
+                "22"
+            ],
+            "score": 0.8,
+            "conteudo": "E sede cumpridores da palavra, e não somente ouvintes, enganando-vos a vós mesmos. "
         }
     ]
 }

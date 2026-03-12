@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/93083/",
+    "id": "93083",
+    "title": "Teu Amor É Incrível (Phillips, Craig & Dean)",
+    "author": "Brenton Brown",
+    "notes": "",
+    "year": "",
+    "key": "G",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 118,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "amor",
+        "adoração",
+        "gratidão",
+        "alegre",
+        "fidelidade"
+    ],
+    "url": "https://www.youtube.com/watch?v=7HykzkFBAwc",
+    "chord_chart": "[Intro]\n           ♩.   𝅘𝅥𝅮-𝅗𝅥               ♩.   𝅘𝅥𝅮-𝅗𝅥\n. G    |  D/G  Dm/G  | C/G    | C/G  Cm/G   :||\n\n\n[A1]\n.             G/B                 C9       \n Teu amor é incrível, firme e constante,\n.          D                 C9\n Como uma rocha sob os meus pés.\n.          G/B                  C9\n Ele me sustenta, isso é um mistério!\n.                D               C9\n Quando estou cercado, Ele me conduz.\n\n[Coro]\n.    G       D/F#     Em7    \n Aleluia, aleluia, aleluia\n.      C9\n Teu amor me faz cantar...\n.    G       D/F#     Em7\n Aleluia, aleluia, aleluia\n.       C9\n Teu amor me faz cantar.  \n\n[A2]\n.             G/B                 C9\n Teu amor surpreende, cresce de repente,\n.          D                   C9\n Alegria imensa sempre a me encher.\n.             G/B                   C9\n Sempre que Te vejo brilha a Tua bondade,\n.               D                   C9\n Nasce um novo canto dentro do meu ser.\n\n[Volta coro depois solo...]\n\n[Solo]\n.A  |  D/F#  |  A/C#  |  B/D#  |  C/D   \n\n[Coro parcial (órgão + violão dedilhado)]\n.    G       D Dm      C   Cm    \n Aleluia, aleluia, aleluia\n\n\n[volta coro depois final...]\n\n[Final]\n           ♩.   𝅘𝅥𝅮-𝅗𝅥            ♩.   𝅘𝅥𝅮-𝅗𝅥\n. G    |  D/G  Dm/G | C/G  | C/G  Cm/G  :||",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "36",
+                "5"
+            ],
+            "score": 0.92,
+            "conteudo": "A tua misericórdia, Senhor, está nos céus, e a tua fidelidade chega até às mais excelsas nuvens. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "18",
+                "2"
+            ],
+            "score": 0.88,
+            "conteudo": "O Senhor é o meu rochedo, e o meu lugar forte, e o meu libertador; o meu Deus, a minha fortaleza, em quem confio; o meu escudo, a força da minha salvação, e o meu alto refúgio. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "136",
+                "1"
+            ],
+            "score": 0.85,
+            "conteudo": "Louvai ao SENHOR, porque ele é bom; porque a sua benignidade dura para sempre. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "3",
+                "18-19"
+            ],
+            "score": 0.82,
+            "conteudo": "Poderdes perfeitamente compreender, com todos os santos, qual seja a largura, e o comprimento, e a altura, e a profundidade, E conhecer o amor de Cristo, que excede todo o entendimento, para que sejais cheios de toda a plenitude de Deus. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "103",
+                "11"
+            ],
+            "score": 0.8,
+            "conteudo": "Pois assim como o céu está elevado acima da terra, assim é grande a sua misericórdia para com os que o temem. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "40",
+                "3"
+            ],
+            "score": 0.78,
+            "conteudo": "E pôs um novo cântico na minha boca, um hino ao nosso Deus; muitos o verão, e temerão, e confiarão no Senhor. "
+        }
+    ]
+}

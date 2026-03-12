@@ -8,11 +8,17 @@
     "key": "D",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "amor",
+        "presença",
+        "adoração",
+        "gratidão",
+        "contemplativo"
+    ],
     "url": "https://www.youtube.com/watch?v=tLO8Sqkccj4",
     "chord_chart": "[Introd]\n.D  A/D   G/D\n\n[A]\n.       D   A/D     G/D\n NÃO EXISTE NADA MELHOR\n.        D  A/D       G/D  D  A/C#\n DO QUE SER AMIGO DE DEUS,\n.     Bm    Bm/A     G\n CAMINHAR SEGURO NA LUZ,\n.      G/B    A/C#  D\n DESFRUTAR DO SEU AMOR,\n\n[B]\n.      Em      D  A/C#\n TER A PAZ NO CORAÇÃO,\n.      Em         D   A/C#\n VIVER SEMPRE EM COMUNHÃO\n.    G/B      A/C#\n E ASSIM PERCEBER A \n.     D  D/F#   G\n GRANDEZA DO PODER\n \n[1ª vez]\n.      D/A     A9     Bm  D/F#   G\n DE JESUS MEU BOM PASTOR \n \n[Última vez]\n.      D/A     A9     G   D/F#  Em D\n DE JESUS MEU BOM PASTOR",
     "verses": [
@@ -22,35 +28,8 @@
                 "15",
                 "14-15"
             ],
-            "score": 0.95,
+            "score": 0.98,
             "conteudo": "Vós sereis meus amigos, se fizerdes o que eu vos mando. Já vos não chamarei servos, porque o servo não sabe o que faz o seu senhor; mas tenho-vos chamado amigos, porque tudo quanto ouvi de meu Pai vos tenho feito conhecer. "
-        },
-        {
-            "referencia": [
-                "Filipenses",
-                "4",
-                "7"
-            ],
-            "score": 0.95,
-            "conteudo": "E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus. "
-        },
-        {
-            "referencia": [
-                "1 João",
-                "1",
-                "3"
-            ],
-            "score": 0.95,
-            "conteudo": "O que vimos e ouvimos, isso vos anunciamos, para que também tenhais comunhão conosco; e a nossa comunhão é com o Pai, e com seu Filho Jesus Cristo. "
-        },
-        {
-            "referencia": [
-                "Tiago",
-                "2",
-                "23"
-            ],
-            "score": 0.9,
-            "conteudo": "E cumpriu-se a Escritura, que diz: E creu Abraão em Deus, e foi-lhe isso imputado como justiça, e foi chamado o amigo de Deus. "
         },
         {
             "referencia": [
@@ -58,26 +37,17 @@
                 "23",
                 "1"
             ],
-            "score": 0.9,
+            "score": 0.92,
             "conteudo": "O SENHOR é o meu pastor, nada me faltará. "
         },
         {
             "referencia": [
-                "João",
-                "10",
-                "11"
+                "Tiago",
+                "2",
+                "23"
             ],
-            "score": 0.9,
-            "conteudo": "Eu sou o bom Pastor; o bom Pastor dá a sua vida pelas ovelhas. "
-        },
-        {
-            "referencia": [
-                "João",
-                "8",
-                "12"
-            ],
-            "score": 0.9,
-            "conteudo": "Falou-lhes, pois, Jesus outra vez, dizendo: Eu sou a luz do mundo; quem me segue não andará em trevas, mas terá a luz da vida. "
+            "score": 0.88,
+            "conteudo": "E cumpriu-se a Escritura, que diz: E creu Abraão em Deus, e foi-lhe isso imputado como justiça, e foi chamado o amigo de Deus. "
         },
         {
             "referencia": [
@@ -85,26 +55,8 @@
                 "1",
                 "7"
             ],
-            "score": 0.9,
+            "score": 0.85,
             "conteudo": "Mas, se andarmos na luz, como ele na luz está, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o pecado. "
-        },
-        {
-            "referencia": [
-                "João",
-                "14",
-                "27"
-            ],
-            "score": 0.9,
-            "conteudo": "Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorize. "
-        },
-        {
-            "referencia": [
-                "1 Coríntios",
-                "1",
-                "9"
-            ],
-            "score": 0.9,
-            "conteudo": "Fiel é Deus, pelo qual fostes chamados para a comunhão de seu Filho Jesus Cristo nosso Senhor. "
         }
     ]
 }

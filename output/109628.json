@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/109628/",
+    "id": "109628",
+    "title": "Se Os Problemas Parecem Não Ter Solução (HCC 202)",
+    "author": "Hinário para o Culto Cristão (HCC)",
+    "notes": "",
+    "year": "",
+    "key": "C",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 85,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "soberania",
+        "confiança",
+        "adoração",
+        "esperança",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=xJlwTzVkweY",
+    "chord_chart": "[A]\n.D7        G        Am/G      G       Am/G\n Se os problemas parecem não ter solução\n.           G        Em     Am7     D7\n Quando as mágoas inundam o teu coração\n.      G         C9     B7     Em\n Há alguém que atende a tua oração\n.Em7     A7               D7(4)  D7\n Jesus Cristo, o Mestre e Senhor\n\n[B]\n.       G        Em      Am7      D7\n Ele é dono da chuva, do sol e do ar\n.      G         Em       Am7        D7\n É Senhor da alegria, da dor, do chorar\n.       G      Dm7/G G      C       C#°\n Ele é dono dos montes, do céu e do mar\n.     G/D        Em          G/D        Em\n É Senhor das crianças, das preces, dos hinos\n.      G/D       C/D     D7 G\n Ele é meu e também teu Senhor\n\n[C]\n.D7  G      Am/G       G        Am/G\n Ele é o caminho, a verdade e a luz\n.D7    G       Em      Am      D7\n Abre teu coração e recebe a Jesus\n.     G       C9         B7     Em\n Tua vida é Cristo que agora conduz\n.Em7     A7                D7(4)  D7\n Pois é ele teu Mestre e Senhor\n\n[D]\n. D7     G       Am/G       G         Am/G\n Como é bom caminhar nesta luz, nesta paz!\n.D7   G        Em         Am      D7\n Ele vive pra sempre, ele me satisfaz\n.        G        C9        B7      Em\n Eu sou dele, e a vida que ele me traz\n.Em7  A7                D7(4)  D7\n É segura, pois ele é Senhor",
+    "verses": [
+        {
+            "referencia": [
+                "João",
+                "14",
+                "6"
+            ],
+            "score": 0.98,
+            "conteudo": "Disse-lhe Jesus: Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por mim. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "11",
+                "28"
+            ],
+            "score": 0.88,
+            "conteudo": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "55",
+                "22"
+            ],
+            "score": 0.85,
+            "conteudo": "Lança o teu cuidado sobre o Senhor, e ele te susterá; não permitirá jamais que o justo seja abalado. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "121",
+                "1-2"
+            ],
+            "score": 0.82,
+            "conteudo": "Levantarei os meus olhos para os montes, de onde vem o meu socorro. O meu socorro vem do Senhor que fez o céu e a terra. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "4",
+                "6-7"
+            ],
+            "score": 0.8,
+            "conteudo": "Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica, com ação de graças. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus. "
+        }
+    ]
+}

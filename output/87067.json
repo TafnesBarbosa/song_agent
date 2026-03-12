@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/87067/",
+    "id": "87067",
+    "title": "Te Agradeço (Tradicional)",
+    "author": "Paulo Cesar Baruk",
+    "notes": "",
+    "year": "",
+    "key": "D",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "3/4",
+    "tempo": 85,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "redenção",
+        "adoração",
+        "gratidão",
+        "salvação",
+        "celebrativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=QkdR52yfZBQ",
+    "chord_chart": "[A]\n.     D               G\n POR TUDO O QUE TENS FEITO\n.     D                A7\n POR TUDO O QUE VAIS FAZER\n.     D      D7        G                 \n POR TUAS PROMESSAS E TUDO O QUE ÉS\n.    D           A7\n EU QUERO AGRADECER\n.              G     D\n COM TODO MEU SER\n\n[B]\n.               G             D\n HOMENS: TE AGRADEÇO, MEU SENHOR\n.                 G            D\n MULHERES: TE AGRADEÇO, MEU SENHOR\n \n[C]\n.       D               D/F#\n TE AGRADEÇO POR ME LIBERTAR E SALVAR\n. G             G/D\n POR TER MORRIDO EM MEU LUGAR\n.      D/A  D/F#   G\n TE AGRADE--ÇO\n.             D/A  D/F#    G\n JESUS, TE AGRADE---ÇO\n.         D/A   D/F#      G\n EU TE AGRADE---ÇO\n.      Em/D     D\n TE AGRADE-----ÇO",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "103",
+                "1-2"
+            ],
+            "score": 0.98,
+            "conteudo": "Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome. Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios. "
+        },
+        {
+            "referencia": [
+                "1 Tessalonicenses",
+                "5",
+                "18"
+            ],
+            "score": 0.95,
+            "conteudo": "Em tudo dai graças, porque esta é a vontade de Deus em Cristo Jesus para convosco. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "136",
+                "1-3"
+            ],
+            "score": 0.92,
+            "conteudo": "Louvai ao SENHOR, porque ele é bom; porque a sua benignidade dura para sempre. Louvai ao Deus dos deuses; porque a sua benignidade dura para sempre. Louvai ao Senhor dos senhores; porque a sua benignidade dura para sempre. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "5",
+                "20"
+            ],
+            "score": 0.9,
+            "conteudo": "Dando sempre graças por tudo a nosso Deus e Pai, em nome de nosso Senhor Jesus Cristo; "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "118",
+                "1"
+            ],
+            "score": 0.88,
+            "conteudo": "Louvai ao SENHOR, porque ele é bom, porque a sua benignidade dura para sempre. "
+        }
+    ]
+}

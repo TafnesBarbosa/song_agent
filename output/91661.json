@@ -8,58 +8,37 @@
     "key": "A",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 132,
+    "feel": "Rápido",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "salvação",
+        "adoração",
+        "gratidão",
+        "celebrativo",
+        "poder"
+    ],
     "url": "https://www.youtube.com/watch?v=GEAcs2B-kNc|https://www.youtube.com/watch?v=qG_bf6tO3RE",
     "chord_chart": "[Intro 2X]\n.D |  A  | F#m |  E\n\n[A]\n.D           A                  F#m7\n TODOS NECESSITAM DE UM AMOR PERFEITO\n.    E           D\n PERDÃO E COMPAIXÃO\n.            A                   F#m7\n TODOS NECESSITAM DE GRAÇA E ESPERANÇA\n.       E             D | E | D | E\n DE UM DEUS QUE SALVA\n\n[Refrão]\n. A                 E\n CRISTO MOVE AS MONTANHAS\n.         D          A\n E TEM PODER PRA SALVAR\n.        F#m         E\n E TEM PODER PRA SALVAR\n.     A                     E\n PRA SEMPRE, AUTOR DA SALVAÇÃO\n.         D        A\n JESUS A MORTE VENCEU\n.        F#m       E\n SOBRE A MORTE VENCEU\n\n[Intro]\n.D |  A  | F#m |  E\n\n[B]\n.D                    A               F#m\n ME ACEITAS COM MEUS MEDOS,FALHAS E TEMORES\n.E            D\n ENCHE MEU VIVER\n.                A                    F#m\n A MINHA VIDA ENTREGO PRA SEGUIR TEUS PASSOS\n.   E          D | E | D | E\n A TI ME RENDO\n\n[Refrão...]\n\n[C]\n.D            A               E           F#m\n POSSA O MUNDO VER BRILHAR A LUZ, CANTAMOS\n.D           A             E       F#m\n PARA A GLÓRIA DO SENHOR JESUS CRISTO\n.D            A               E           F#m\n POSSA O MUNDO VER BRILHAR A LUZ, CANTAMOS\n.D           A             E\n PARA A GLÓRIA DO SENHOR JESUS\n\n[Refrão...]\n\n[Fim 2x]\n.D |  A  | F#m |  E",
     "verses": [
         {
             "referencia": [
+                "Romanos",
+                "1",
+                "16"
+            ],
+            "score": 0.95,
+            "conteudo": "Porque não me envergonho do evangelho de Cristo, pois é o poder de Deus para salvação de todo aquele que crê; primeiro do judeu, e também do grego. "
+        },
+        {
+            "referencia": [
                 "Hebreus",
-                "5",
-                "9"
+                "12",
+                "2"
             ],
-            "score": 0.98,
-            "conteudo": "E, sendo ele consumado, veio a ser a causa da eterna salvação para todos os que lhe obedecem; "
-        },
-        {
-            "referencia": [
-                "João",
-                "3",
-                "16"
-            ],
-            "score": 0.95,
-            "conteudo": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna. "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "2",
-                "8-9"
-            ],
-            "score": 0.95,
-            "conteudo": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. Não vem das obras, para que ninguém se glorie; "
-        },
-        {
-            "referencia": [
-                "1 Coríntios",
-                "15",
-                "54-57"
-            ],
-            "score": 0.95,
-            "conteudo": "E, quando isto que é corruptível se revestir da incorruptibilidade, e isto que é mortal se revestir da imortalidade, então cumprir-se-á a palavra que está escrita: Tragada foi a morte na vitória. Onde está, ó morte, o teu aguilhão? Onde está, ó inferno, a tua vitória? Ora, o aguilhão da morte é o pecado, e a força do pecado é a lei. Mas graças a Deus que nos dá a vitória por nosso Senhor Jesus Cristo. "
-        },
-        {
-            "referencia": [
-                "Mateus",
-                "5",
-                "16"
-            ],
-            "score": 0.95,
-            "conteudo": "Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai, que está nos céus. "
+            "score": 0.92,
+            "conteudo": "Olhando para Jesus, autor e consumador da fé, o qual, pelo gozo que lhe estava proposto, suportou a cruz, desprezando a afronta, e assentou-se à destra do trono de Deus. "
         },
         {
             "referencia": [
@@ -67,26 +46,53 @@
                 "4",
                 "12"
             ],
-            "score": 0.9,
+            "score": 0.88,
             "conteudo": "E em nenhum outro há salvação, porque também debaixo do céu nenhum outro nome há, dado entre os homens, pelo qual devamos ser salvos. "
         },
         {
             "referencia": [
-                "Apocalipse",
-                "1",
-                "18"
+                "Mateus",
+                "17",
+                "20"
             ],
-            "score": 0.9,
-            "conteudo": "E o que vivo e fui morto, mas eis aqui estou vivo para todo o sempre. Amém. E tenho as chaves da morte e do inferno. "
+            "score": 0.85,
+            "conteudo": "E Jesus lhes disse: Por causa de vossa incredulidade; porque em verdade vos digo que, se tiverdes fé como um grão de mostarda, direis a este monte: Passa daqui para acolá, e há de passar; e nada vos será impossível. "
         },
         {
             "referencia": [
-                "Romanos",
-                "12",
-                "1"
+                "1 Coríntios",
+                "15",
+                "57"
             ],
-            "score": 0.9,
-            "conteudo": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional. "
+            "score": 0.82,
+            "conteudo": "Mas graças a Deus que nos dá a vitória por nosso Senhor Jesus Cristo. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "2",
+                "8"
+            ],
+            "score": 0.8,
+            "conteudo": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "34",
+                "18"
+            ],
+            "score": 0.78,
+            "conteudo": "Perto está o Senhor dos que têm o coração quebrantado, e salva os contritos de espírito. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "2",
+                "15"
+            ],
+            "score": 0.76,
+            "conteudo": "Para que sejais irrepreensíveis e sinceros, filhos de Deus inculpáveis, no meio de uma geração corrompida e perversa, entre a qual resplandeceis como astros no mundo; "
         }
     ]
 }

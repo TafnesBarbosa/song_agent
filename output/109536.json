@@ -1,65 +1,35 @@
 {
     "songlib_url": "https://songlib.com/songs/4297/109536/",
     "id": "109536",
-    "title": "Amor de Deus (Pendente)",
+    "title": "Amor de Deus (Logo Eu)",
     "author": "Rachel Novais",
     "notes": "",
     "year": "",
-    "key": "",
+    "key": "A",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
-    "url": "",
-    "chord_chart": "",
+    "tags": [
+        "amor",
+        "graça",
+        "adoração",
+        "salvação",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=t3uT_xGD4T0",
+    "chord_chart": "[Intro]\n.D  E | C#m  D |\n.D  E | A      |\n\n[A]\n. A\n Graça sobre graça, recebi\n.F#m\n E da plenitude, renasci\n. E                        D\n Quando atraído, me encontrei\n.            A\n No amor de Deus\n\n[B]\n.A\n Viva e poderosa salvação\n.F#m\n Luz que me alcançou na escuridão\n. E                     D\n Todo meu pecado se apagou\n.            A\n No amor de Deus\n\n[Refrão]\n.      D                E\n Logo eu, um pobre pecador\n.     C#m                  D\n Logo eu, tão fraco e tão devedor\n.     Bm                E            A\n Logo eu, de graça recebi o amor de Deus\n.      D               E\n Logo eu, finito e carnal\n.     C#m                   D\n Logo eu, diante de um Deus imortal\n.     Bm               E             A\n Logo eu, de graça recebi o amor de Deus\n\n[A...]\n[B...]\n[Refrão...]\n\n[C]\n.           A\n O amor de Deus é rico em benefícios\n.           F#m\n O amor de Deus não mede sacrifícios\n.                   E                Bm\n Dos braços desse amor, recebo o perdão\n.             F#m    E\n Comprado por Jesus\n\n[D]\n.           A\n O amor de Deus é puro e consciente\n.           F#m\n Como as manhãs, é firme e constante\n.                    E                  Bm\n Que se entregou na cruz e a morte derrotou\n.           D   E  |  C#m  D  |  E   D  |\n O amor de Jesus\n\n[Refrão...]\n\n[Fine] \n.              D   E   C#m   D\n ...o amor de Deus\n.            D  E  D\n O amor de Deus",
     "verses": [
         {
             "referencia": [
-                "1 João",
-                "4",
-                "8"
-            ],
-            "score": 0.98,
-            "conteudo": "Aquele que não ama não conhece a Deus; porque Deus é amor. "
-        },
-        {
-            "referencia": [
                 "João",
-                "3",
+                "1",
                 "16"
             ],
-            "score": 0.95,
-            "conteudo": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna. "
-        },
-        {
-            "referencia": [
-                "Romanos",
-                "8",
-                "38-39"
-            ],
-            "score": 0.95,
-            "conteudo": "Porque estou certo de que, nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir, Nem a altura, nem a profundidade, nem alguma outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor. "
-        },
-        {
-            "referencia": [
-                "1 João",
-                "4",
-                "10"
-            ],
-            "score": 0.93,
-            "conteudo": "Nisto está o amor, não em que nós tenhamos amado a Deus, mas em que ele nos amou a nós, e enviou seu Filho para propiciação pelos nossos pecados. "
-        },
-        {
-            "referencia": [
-                "1 João",
-                "3",
-                "1"
-            ],
-            "score": 0.9,
-            "conteudo": "Vede quão grande amor nos tem concedido o Pai, que fôssemos chamados filhos de Deus. Por isso o mundo não nos conhece; porque não o conhece a ele. "
+            "score": 0.98,
+            "conteudo": "E todos nós recebemos também da sua plenitude, e graça por graça. "
         },
         {
             "referencia": [
@@ -67,7 +37,7 @@
                 "5",
                 "8"
             ],
-            "score": 0.88,
+            "score": 0.95,
             "conteudo": "Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores. "
         },
         {
@@ -76,35 +46,44 @@
                 "2",
                 "4-5"
             ],
-            "score": 0.85,
+            "score": 0.92,
             "conteudo": "Mas Deus, que é riquíssimo em misericórdia, pelo seu muito amor com que nos amou, Estando nós ainda mortos em nossas ofensas, nos vivificou juntamente com Cristo (pela graça sois salvos), "
         },
         {
             "referencia": [
-                "Jeremias",
-                "31",
-                "3"
+                "Efésios",
+                "2",
+                "8"
             ],
-            "score": 0.82,
-            "conteudo": "Há muito que o Senhor me apareceu, dizendo: Porquanto com amor eterno te amei, por isso com benignidade te atraí. "
+            "score": 0.9,
+            "conteudo": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. "
+        },
+        {
+            "referencia": [
+                "1 João",
+                "4",
+                "9"
+            ],
+            "score": 0.88,
+            "conteudo": "Nisto se manifestou o amor de Deus para conosco: que Deus enviou seu Filho unigênito ao mundo, para que por ele vivamos. "
         },
         {
             "referencia": [
                 "Salmos",
                 "103",
-                "17"
+                "8"
             ],
-            "score": 0.78,
-            "conteudo": "Mas a misericórdia do Senhor é desde a eternidade e até a eternidade sobre aqueles que o temem, e a sua justiça sobre os filhos dos filhos; "
+            "score": 0.85,
+            "conteudo": "Misericordioso e piedoso é o Senhor; longânimo e grande em benignidade. "
         },
         {
             "referencia": [
-                "Sofonias",
+                "Romanos",
                 "3",
-                "17"
+                "23-24"
             ],
-            "score": 0.77,
-            "conteudo": "O Senhor teu Deus, o poderoso, está no meio de ti, ele salvará; ele se deleitará em ti com alegria; calar-se-á por seu amor, regozijar-se-á em ti com júbilo. "
+            "score": 0.82,
+            "conteudo": "Porque todos pecaram e destituídos estão da glória de Deus; Sendo justificados gratuitamente pela sua graça, pela redenção que há em Cristo Jesus. "
         }
     ]
 }

@@ -1,0 +1,62 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/93722/",
+    "id": "93722",
+    "title": "Aqui Viemos Te Adorar ó Cristo",
+    "author": "",
+    "notes": "",
+    "year": "",
+    "key": "C",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 95,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "adoração",
+        "poder",
+        "rei",
+        "abertura",
+        "celebrativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=Mhnx4zI1-Aw",
+    "chord_chart": "[Intro]\n.F   G    Am  F    C    G7    C  F/G G7\n\n[A]\n.  C    F          C     C7\n AQUI VIEMOS TE ADORAR Ó CRISTO,\n. F     G           C\n PROCLAMAR O TEU PODER,\n.    F     G    Am             F\n NOS LEVANTAMOS PARA O TEU LOUVOR,\n.  C      Am             Bb  G7\n SENHOR JESUS, REI, SALVADOR.\n\n[B]\n.  C    F          C    C7\n AQUI VIEMOS POR AMOR Ó CRISTO,\n. F       G           C\n ACEITA A NOSSA ADORAÇÃO,\n.      F     G    Am           F\n QUE A NOSSA VIDA NO ALTAR DE DEUS,\n.   C       G7        C\n CONFIRME A NOSSA ORAÇÃO.",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "95",
+                "6"
+            ],
+            "score": 0.95,
+            "conteudo": "Ó, vinde, adoremos e prostremo-nos; ajoelhemos diante do Senhor que nos criou. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "19",
+                "16"
+            ],
+            "score": 0.92,
+            "conteudo": "E no manto e na sua coxa tem escrito este nome: Rei dos reis, e Senhor dos senhores. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "1"
+            ],
+            "score": 0.88,
+            "conteudo": "Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "12",
+                "1"
+            ],
+            "score": 0.85,
+            "conteudo": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional. "
+        }
+    ]
+}

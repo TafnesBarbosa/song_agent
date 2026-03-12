@@ -1,0 +1,89 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/88506/",
+    "id": "88506",
+    "title": "Tua Forte Mão",
+    "author": "Paulo César Baruk",
+    "notes": "",
+    "year": "",
+    "key": "A",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "confiança",
+        "adoração",
+        "gratidão",
+        "contemplativo",
+        "amor"
+    ],
+    "url": "https://www.youtube.com/watch?v=eGLXjek6zFs",
+    "chord_chart": "[Intro]\n.D7M | A7M | D7M | A7M |\n\n[A]\n.               D7M          Bm7\n Se a minha alma teme o amanhã\n.           D7M       E       F#m\n E o coração não vê o Teu cuidado\n.               D7M            Bm7\n Se eu não consigo ouvir a Tua voz\n.                    D7M  A7M\n Ainda assim confiarei\n.        D7M  A7M\n Confiarei\n\n[B]\n.    D                      E\n Eu sei que o meu Redentor Vive\n.           Bm7            E\n Que se levantará sobre a terra\n.  D                 E\n A Tua bondade transbordará\n.        Bm7              D    E\n Meus desertos com misericó-órdia\n\n[Refrão]\n.          A                    E/G#\n Tua forte mão, guarda os meus dias\n.           F#m7                D/F#\n Mesmo sem te ver eu pertenço a Ti\n.                 A                         E/G#\n O Teu perdão me cura, oh Deus, Tua Cruz me limpa\n.                  Bm7              Dadd9\n Eu sei que não mereço mas, me amas com amor\n \n[C]\n.    D7M      E  D7M  E\n Sem fim, Sem fim\n \n[B...]\n[Refrão...]\n[D]\n.     A      E/G#\n Sem fim oooooh\n.        F#m7         D/F#\n Sem fim      sem fim\n.            A                E/G#\n Sei que me amas de um modo totalmente\n.          Bm7                Dadd9\n Gracioso, Jesus, tão grande amor\n \n[Refrão 2x...]\n\n[Fine]\n.Dadd9\n ... sem fim",
+    "verses": [
+        {
+            "referencia": [
+                "Jó",
+                "19",
+                "25"
+            ],
+            "score": 0.98,
+            "conteudo": "Porque eu sei que o meu Redentor vive, e que por fim se levantará sobre a terra. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "31",
+                "15"
+            ],
+            "score": 0.92,
+            "conteudo": "Os meus tempos estão nas tuas mãos; livra-me das mãos dos meus inimigos e dos que me perseguem. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "23",
+                "6"
+            ],
+            "score": 0.88,
+            "conteudo": "Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida; e habitarei na casa do Senhor por longos dias. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "8",
+                "38-39"
+            ],
+            "score": 0.85,
+            "conteudo": "Porque estou certo de que, nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir, Nem a altura, nem a profundidade, nem alguma outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "13",
+                "5"
+            ],
+            "score": 0.82,
+            "conteudo": "Mas eu confio na tua benignidade; na tua salvação se alegrará o meu coração. "
+        },
+        {
+            "referencia": [
+                "Efesios",
+                "2",
+                "8-9"
+            ],
+            "score": 0.78,
+            "conteudo": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. Não vem das obras, para que ninguém se glorie; "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "103",
+                "11"
+            ],
+            "score": 0.77,
+            "conteudo": "Pois assim como o céu está elevado acima da terra, assim é grande a sua misericórdia para com os que o temem. "
+        }
+    ]
+}

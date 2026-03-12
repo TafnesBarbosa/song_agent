@@ -1,0 +1,62 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/104443/",
+    "id": "104443",
+    "title": "Em Amor Por Mim (Este é Meu Corpo)",
+    "author": "Vencedores por Cristo",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 72,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "ceia",
+        "redentor",
+        "perdão",
+        "solene",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=gIq17i0Y8J8",
+    "chord_chart": "[Intro]\n.E  F#m  G#m  F#m \n\n[A]\n.E          F#m      E/G#      A\n ESTE É MEU CORPO PARTIDO POR TI;\n.G#m       C#m   F#      B7\n TRAZ SALVAÇÃO   E DÁ A PAZ.\n.F#m    B7      G#m      C#m\n TOMA E COME,  E QUANDO FIZERES,\n.F#m       B7      E\n FAZE EM AMOR POR MIM.\n\n[B]\n.E          F#m       E/G#      A\n ESTE É MEU SANGUE VERTIDO POR TI;\n.G#m       C#m  F#      B7\n TRAZ O PERDÃO  E LIBERDADE.\n.F#m     B7      G#m      C#m\n TOMA E BEBE,  E QUANDO FIZERES,\n.F#m       B7      E\n FAZE EM AMOR POR MIM.",
+    "verses": [
+        {
+            "referencia": [
+                "Lucas",
+                "22",
+                "19"
+            ],
+            "score": 0.98,
+            "conteudo": "E, tomando o pão, e havendo dado graças, partiu-o, e deu-lho, dizendo: Isto é o meu corpo, que por vós é dado; fazei isto em memória de mim. "
+        },
+        {
+            "referencia": [
+                "1 Coríntios",
+                "11",
+                "24"
+            ],
+            "score": 0.98,
+            "conteudo": "E, tendo dado graças, o partiu e disse: Tomai, comei; isto é o meu corpo que é partido por vós; fazei isto em memória de mim. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "26",
+                "26"
+            ],
+            "score": 0.95,
+            "conteudo": "E, quando comiam, Jesus tomou o pão, e abençoando-o, o partiu, e o deu aos discípulos, e disse: Tomai, comei, isto é o meu corpo. "
+        },
+        {
+            "referencia": [
+                "Marcos",
+                "14",
+                "22"
+            ],
+            "score": 0.95,
+            "conteudo": "E, comendo eles, tomou Jesus pão e, abençoando-o, o partiu e deu-lho, e disse: Tomai, comei, isto é o meu corpo. "
+        }
+    ]
+}

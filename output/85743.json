@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/85743/",
+    "id": "85743",
+    "title": "Tu Somente És Deus",
+    "author": "Pib de Curitiba",
+    "notes": "",
+    "year": "",
+    "key": "A",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": "72",
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "soberania",
+        "adoração",
+        "gratidão",
+        "contemplativo",
+        "presença"
+    ],
+    "url": "https://www.youtube.com/watch?v=MSQO743DjjE",
+    "chord_chart": "[Intro]\n.A  |  D  |  A  |  D  ||\n\n[A]\n.A                    D/A  \n TU NÃO ÉS UM DEUS CRIADO POR NOSSAS MÃOS.\n.A                      D/A  \n NEM UM DEUS QUE É DEPENDENTE, DE UM HOMEM MORTAL.\n.A          E/G#  F#m     D  \n NADA QUE POSSAMOS DAR-TE É TÃO BOM PARA TI\n.A     E     A/C#           D\n TU ÉS DEUS, SERÁS PRA SEMPRE ASSIM.\n \n[B]\n.               A               E/G#\n TU SOMENTE ÉS DEUS, O ETERNO SENHOR,\n.                F#m                 D\n O TEU TRONO É O CÉU. TU SOMENTE ÉS DEUS.\n.      A/C#                 E/G# \n HOJE AQUI, SENDO MEUS DIAS BONS,\n.            F#m                D\n OU SE FOREM MAUS, TU COMIGO ESTÁS.\n\n[A2]\n.A                 D/A  \n SÓ O TEU PODER É ETERNO NINGUÉM DETÉM\n.A                    D/A  \n AO TEU NOME SEJA A GLÓRIA, HONRA E PODER\n.A           E/G#   F#m         D  \n TUDO O QUE PODEMOS DAR-TE, ÉS DIGNO DE RECEBER\n.A      E       A/C#                   D\n TU ÉS DEUS, E ASSIM PRA SEMPRE HÁ DE SER.\n\n[C]\n.      A          E/G#\n NÃO MUDARÁS, NÃO FALHARÁS.\n.  F#m                  D\n TREMENDO DEUS ASSIM TU ÉS.\n.     A           E/G#\n NÃO MUDARÁS, NÃO FALHARÁS.\n.  F#m                    F   ( G )\n TREMENDO DEUS. ASSIM TU ÉS.",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "90",
+                "2"
+            ],
+            "score": 0.98,
+            "conteudo": "Antes que os montes nascessem, ou que tu formasses a terra e o mundo, mesmo de eternidade a eternidade, tu és Deus. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "44",
+                "6"
+            ],
+            "score": 0.95,
+            "conteudo": "Assim diz o Senhor, Rei de Israel, e seu Redentor, o Senhor dos Exércitos: Eu sou o primeiro, e eu sou o último, e fora de mim não há Deus. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "103",
+                "19"
+            ],
+            "score": 0.92,
+            "conteudo": "O Senhor tem estabelecido o seu trono nos céus, e o seu reino domina sobre tudo. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "4",
+                "11"
+            ],
+            "score": 0.9,
+            "conteudo": "Digno és, Senhor, de receber glória, e honra, e poder; porque tu criaste todas as coisas, e por tua vontade são e foram criadas. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "13"
+            ],
+            "score": 0.88,
+            "conteudo": "O teu reino é um reino eterno; o teu domínio dura em todas as gerações. "
+        },
+        {
+            "referencia": [
+                "Malaquias",
+                "3",
+                "6"
+            ],
+            "score": 0.85,
+            "conteudo": "Porque eu, o Senhor, não mudo; por isso vós, ó filhos de Jacó, não sois consumidos. "
+        }
+    ]
+}
