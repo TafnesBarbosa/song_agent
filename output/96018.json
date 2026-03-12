@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/96018/",
+    "id": "96018",
+    "title": "Jesus Cristo Mudou Meu Viver",
+    "author": "",
+    "notes": "",
+    "year": "",
+    "key": "A",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Rápido",
+    "theme": "",
+    "tags": [
+        "salvação",
+        "adoração",
+        "gratidão",
+        "celebrativo",
+        "perdão"
+    ],
+    "url": "https://youtu.be/1bcvpIABL80?si=Mobb1r6K4ImTydSx",
+    "chord_chart": "[A]\n.       A                 C#m\n JESUS CRISTO MUDOU MEU VIVER,\n.       D                  D#º\n JESUS CRISTO MUDOU MEU VIVER,\n.    A/E       C#/F         F#m\n É A LUZ QUE ILUMINA  MEU  SER,\n.            Bm7        D/E       A    D/E\n SIM, JESUS CRISTO MUDOU   MEU VIVER!\n\n[B]\n.     A                      C#m\n DIFERENTE HOJE É O MEU CORAÇÃO,\n.     D                      D#º\n DIFERENTE HOJE É O MEU CORAÇÃO,\n.       A/E     C#/F      F#m\n CRISTO DEU-ME  PAZ  E PERDÃO,\n.        Bm7                 D/E   E9   A  G/A  A7\n SIM, DIFERENTE HOJE É O MEU      CORAÇÃO!\n\n[C]\n.D                D#º\n   O AMOR SÓ CONHECI EM CANÇÕES\n.       A/E  C#/F    F#m\n QUE FALAVAM  DE ILUSÕES,\n.            B         B4\n MAS TUDO AGORA É DIFERENTE\n.     B5-             B7\n ISTO PROVO A TODA GENTE\n.     Bm7                  D/E   E9\n POIS CRISTO DEU-ME SEU PERDÃO!",
+    "verses": [
+        {
+            "referencia": [
+                "2 Coríntios",
+                "5",
+                "17"
+            ],
+            "score": 0.98,
+            "conteudo": "Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "1",
+                "7"
+            ],
+            "score": 0.88,
+            "conteudo": "Em quem temos a redenção pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua graça, "
+        },
+        {
+            "referencia": [
+                "João",
+                "8",
+                "12"
+            ],
+            "score": 0.85,
+            "conteudo": "Falou-lhes, pois, Jesus outra vez, dizendo: Eu sou a luz do mundo; quem me segue não andará em trevas, mas terá a luz da vida. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "51",
+                "10"
+            ],
+            "score": 0.82,
+            "conteudo": "Cria em mim, ó Deus, um coração puro, e renova em mim um espírito reto. "
+        },
+        {
+            "referencia": [
+                "Colossenses",
+                "1",
+                "13-14"
+            ],
+            "score": 0.8,
+            "conteudo": "O qual nos tirou da potestade das trevas, e nos transportou para o reino do Filho do seu amor; Em quem temos a redenção pelo seu sangue, a saber, a remissão dos pecados; "
+        }
+    ]
+}

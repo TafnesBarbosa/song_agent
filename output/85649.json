@@ -9,10 +9,16 @@
     "ccli": "",
     "copyright": "",
     "time_sig": "6/8",
-    "tempo": "",
-    "feel": "",
+    "tempo": 112,
+    "feel": "Médio",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "glória",
+        "adoração",
+        "gratidão",
+        "redenção",
+        "celebrativo"
+    ],
     "url": "https://www.youtube.com/watch?v=9I1PvNUc7Wk",
     "chord_chart": "[INTRO]\n.Bb | F/Bb | Eb/Bb | Eb/Bb \n.Bb | F/Bb | Eb/Bb | F/Bb  ||\n\n[A1]\n. Bb         Fm          Eb              Bb\n VEM GLORIFICAR A DEUS O PAI DO NOSSO SENHOR;\n. Bb              Fm          Eb       Bb\n EM CRISTO ELE DERRAMOU O SEU ETERNO AMOR.\n.    Gm       Bb     Eb              Gm   Bb     Eb\n SEM MANCHAS, PUROS, EM SUA LUZ, NOS DESTINOU A SER;\n.     Bb       Fm               Eb         Bb\n SEUS FILHOS ADOTADOS, SIM, POR MEIO DE JESUS.\n \n[Refrão]\n.          Gm         F              Bb/D\n PRA O LOUVOR DA TUA GLÓRIA, DA TUA GRAÇA,\n.            Eb\n BONDADE E AMOR.\n.         Gm          F/A    Ab    Eb   Bb  |  3  |\n PRA O LOUVOR DA TUA GLÓRIA, ÉS O SALVADOR!\n \n[A2]\n.Bb          Fm            Eb              Bb\n VEM GLORIFICAR A DEUS QUE EM CRISTO GRAÇA DÁ;\n.  Bb           Fm            Eb         Bb\n LAVADAS NOSSAS CULPAS SÃO E TEMOS REDENÇÃO.\n.  Gm   Bb       Eb          Gm       Bb     Eb\n E NELE DEUS NOS REVELOU MISTÉRIO EM SEU QUERER:\n.     Bb        Fm          Eb            Bb\n QUE CRISTO SEJA O SENHOR E VENHA TUDO ENCHER.\n \n[Refrão...]\n[Interlúdio 2x]\n.|  Cm  |  Gm  |  Ab  Eb |  Bb  ||\n\n[A3]\n.Bb         Fm            Eb             Bb\n VEM GLORIFICAR A DEUS, Ó CRENTES DO SENHOR;\n.    Bb        Fm              Eb          Bb\n QUE PELA FÉ SELADOS SÃO COM O SANTO ESPÍRITO.\n.   Gm      Bb        Eb          Gm     Bb   Eb\n DA NOSSA HERANÇA ELE É O PENHOR ATÉ O DIA FINAL.\n.    Bb       Fm           Eb           Eb\n NOS UNIREMOS PRA LOUVAR O NOSSO TRINO DEUS\n \n[Refrão...]",
     "verses": [
@@ -20,64 +26,19 @@
             "referencia": [
                 "Efésios",
                 "1",
-                "6"
-            ],
-            "score": 0.99,
-            "conteudo": "Para louvor da glória de sua graça, pela qual nos fez agradáveis a si no Amado, "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "1",
-                "5"
+                "4-6"
             ],
             "score": 0.98,
-            "conteudo": "E nos predestinou para filhos de adoção por Jesus Cristo, para si mesmo, segundo o beneplácito de sua vontade, "
+            "conteudo": "Como também nos elegeu nele antes da fundação do mundo, para que fôssemos santos e irrepreensíveis diante dele em amor; E nos predestinou para filhos de adoção por Jesus Cristo, para si mesmo, segundo o beneplácito de sua vontade, Para louvor da glória de sua graça, pela qual nos fez agradáveis a si no Amado, "
         },
         {
             "referencia": [
                 "Efésios",
                 "1",
-                "14"
-            ],
-            "score": 0.98,
-            "conteudo": "O qual é o penhor da nossa herança, para redenção da possessão adquirida, para louvor da sua glória. "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "1",
-                "13"
-            ],
-            "score": 0.97,
-            "conteudo": "Em quem também vós estais, depois que ouvistes a palavra da verdade, o evangelho da vossa salvação; e, tendo nele também crido, fostes selados com o Espírito Santo da promessa; "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "1",
-                "3"
+                "13-14"
             ],
             "score": 0.96,
-            "conteudo": "Bendito o Deus e Pai de nosso Senhor Jesus Cristo, o qual nos abençoou com todas as bênçãos espirituais nos lugares celestiais em Cristo; "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "1",
-                "9"
-            ],
-            "score": 0.96,
-            "conteudo": "Descobrindo-nos o mistério da sua vontade, segundo o seu beneplácito, que propusera em si mesmo, "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "1",
-                "4"
-            ],
-            "score": 0.95,
-            "conteudo": "Como também nos elegeu nele antes da fundação do mundo, para que fôssemos santos e irrepreensíveis diante dele em amor; "
+            "conteudo": "Em quem também vós estais, depois que ouvistes a palavra da verdade, o evangelho da vossa salvação; e, tendo nele também crido, fostes selados com o Espírito Santo da promessa; O qual é o penhor da nossa herança, para redenção da possessão adquirida, para louvor da sua glória. "
         },
         {
             "referencia": [
@@ -92,19 +53,10 @@
             "referencia": [
                 "Efésios",
                 "1",
-                "12"
+                "9-10"
             ],
-            "score": 0.94,
-            "conteudo": "Com o fim de sermos para louvor da sua glória, nós os que primeiro esperamos em Cristo; "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "1",
-                "10"
-            ],
-            "score": 0.9,
-            "conteudo": "De tornar a congregar em Cristo todas as coisas, na dispensação da plenitude dos tempos, tanto as que estão nos céus como as que estão na terra; "
+            "score": 0.92,
+            "conteudo": "Descobrindo-nos o mistério da sua vontade, segundo o seu beneplácito, que propusera em si mesmo, De tornar a congregar em Cristo todas as coisas, na dispensação da plenitude dos tempos, tanto as que estão nos céus como as que estão na terra; "
         }
     ]
 }

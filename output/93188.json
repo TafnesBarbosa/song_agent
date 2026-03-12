@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/93188/",
+    "id": "93188",
+    "title": "Louvemos ao Senhor",
+    "author": "Adhemar de Campos",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": "67",
+    "feel": "Rápido",
+    "theme": "",
+    "tags": [
+        "glória",
+        "adoração",
+        "gratidão",
+        "celebrativo",
+        "rei"
+    ],
+    "url": "https://www.youtube.com/watch?v=76S1BZ9EN2k",
+    "chord_chart": "[A - 2x]\n.    F#m7       B                  F#m7     \n Louvemos ao Senhor (louvemos ao Senhor) \n.               B4  B\n Louvemos ao Senhor \n.    E          B/D#    C#m \n Adoremos no seu santo monte, \n.C#m7/B       A       F/A#      B\n Nosso amado Pai, seu nome é santo  \n\n[B - 2x]\n.   E C#m         F#m   B               E    \n Louva___mos ao Senhor pois seu nome é santo.   \n.                F#m    G#m    A\n (Pois seu nome é sa____an____to) \n\n[C]\n.    E   B/D#      A/C#   B/D#\n Magnifiquemos ao Senho____or,\n.    E        G#m7       C#m    A   B\n Ao Rei que é digno de louvo___or, \n.  E        B/D#        F#m  E/G#   A   A#º   B4  B\n Excelso, supremo e mui  dig__no    de  lou__vor,  \n\n[D]\n.  E       D        A       B     E   B4  B\n Hosana, hosana, hosana ao nosso Rei. \n.  E       D        A       B     E     \n Hosana, hosana, hosana ao nosso Rei. \n\n[E]\n.       E                G#m7     \n Cristo é a nossa vida o motivo de louvor, \n.    A         F#m7   B4   B\n Em nosso novo cora__ção, \n.         E                   G#m7    \n Pois morreu a nossa morte pra vivermos sua vida, \n.     A           F#m7    B4   B\n Nos trouxe grande salva__ção.",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "99",
+                "9"
+            ],
+            "score": 0.92,
+            "conteudo": "Exaltai ao Senhor nosso Deus e adorai-o no seu monte santo, pois o Senhor nosso Deus é santo. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "34",
+                "3"
+            ],
+            "score": 0.88,
+            "conteudo": "Engrandecei ao Senhor comigo; e juntos exaltemos o seu nome. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "3"
+            ],
+            "score": 0.85,
+            "conteudo": "Grande é o Senhor, e muito digno de louvor, e a sua grandeza inescrutável. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "4",
+                "11"
+            ],
+            "score": 0.82,
+            "conteudo": "Digno és, Senhor, de receber glória, e honra, e poder; porque tu criaste todas as coisas, e por tua vontade são e foram criadas. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "21",
+                "9"
+            ],
+            "score": 0.8,
+            "conteudo": "E a multidão que ia adiante, e a que seguia, clamava, dizendo: Hosana ao Filho de Davi; bendito o que vem em nome do Senhor. Hosana nas alturas! "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "18",
+                "46"
+            ],
+            "score": 0.78,
+            "conteudo": "O Senhor vive; e bendito seja o meu rochedo, e exaltado seja o Deus da minha salvação. "
+        }
+    ]
+}

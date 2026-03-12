@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/88616/",
+    "id": "88616",
+    "title": "Autor da Minha Fé",
+    "author": "Grupo Logos",
+    "notes": "",
+    "year": "",
+    "key": "C",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "esperança",
+        "adoração",
+        "gratidão",
+        "contemplativo",
+        "glória"
+    ],
+    "url": "https://www.youtube.com/watch?v=2tHiFx9FRNg",
+    "chord_chart": "[INTRO]\n\n\n[A]\n.   C            G/B               Asus  A7                   Dm\n Ó PAI EU QUERIA TANTO VER O MEU SENHOR DESCER VINDO ME ENCONTRAR. \n.  Dm Dm/C       G/B   F/A       G7                        Csus  C\n EU POSSO ATÉ IMAGINAR  A   REFULGENTE  GLÓRIA DO SENHOR JESUS \n.     A7    Asus          A7            A7/D  Dm            B/D#  F#º\n TRANSPONDO  AS  BRANCAS NUVENS NO MAIS PURO  AZUL ONDE NEM SUL  NEM  \n.B7          E    E7          Am          Am/G         D7/F#  D7       G\n NORTE  EXISTIRÁ. E EM MEIO A LÁGRIMAS, SORRISOS DE ALEGRIA   E DE PRAZER \n.        Bº  E7         Amsus   Am          C           D\n EU QUE ERA  CEGO AGORA POSSO  VER; CONTEMPLAR, CONTEMPLAR ENFIM, POR \n.D#º/B   B7      E\n ISSO EU CANTO GLÓRIA.\n\n[Refrão]\n.Am     Am/G  F          C/G  G        C  G/B\n GLÓRIA,     GLÓRIA AO AUTOR DA MINHA FÉ\n.Am     Am/F  F          C/G  G       Csus  C  Gsus G7\n GLÓRIA,     GLÓRIA AO AUTOR DA MINHA FÉ\n\n[B]\n.  C             G/B                   Asus A7                Dm\n Ó PAI EU QUERIA TANTO OUVIR O SOM QUE VAI  ABRIR O ENCONTRO TRIUNFAL; \n.  Dm Dm/C    G/B  F/A         G7                 Csus   C          A7\n REVER AMIGOS QUE   UM DIA EM  CRISTO FORAM FEITOS MEUS IRMÃOS. E AGORA, \n.Asus  A7     A7/D   Dm               B7/D#       F#º       B7      \n SIM, PODEMOS DAR AS MÃOS, POIS TEMOS TODOS UM, SOMENTE UM, UM SÓ \n.    E  E7           Am        Am/G         D7/F#  D7          G\n SENHOR.  E EIS O CONSOLO QUE ENVOLVE A MINHA VIDA  O MEU  SENHOR JESUS \n.        Bº     E7     Amsus Am          C        D           D#º/B\n QUE FOI MORTO SIM, NAQUELA  CRUZ, VOLTARÁ, VOLTARÁ ENFIM, POR ISSO EU \n.B7     E\n CANTO GLÓRIA.\n\n[Refrão]\n.Am     Am/G  F          C/G  G        C  G/B\n GLÓRIA,     GLÓRIA AO AUTOR DA MINHA FÉ\n.Am     Am/F  F          C/G  G       Csus  C  G11\n GLÓRIA,     GLÓRIA AO AUTOR DA MINHA FÉ\n\n[C]\n.     C          C/B      Am       Am/G      F\n GLÓRIA AO SENHOR, GLÓRIA AO SENHOR,   GLÓRIA AO SENHOR, \n.  Gsus  G        C\n AUTOR  DA MINHA FÉ.\n.C/B  Am          Am/G     F            Gsus  G        C\n GLÓRIA AO SENHOR,  GLÓRIA AO SENHOR, AUTOR  DA MINHA FÉ.",
+    "verses": [
+        {
+            "referencia": [
+                "Hebreus",
+                "12",
+                "2"
+            ],
+            "score": 0.98,
+            "conteudo": "Olhando para Jesus, autor e consumador da fé, o qual, pelo gozo que lhe estava proposto, suportou a cruz, desprezando a afronta, e assentou-se à destra do trono de Deus. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "1",
+                "7"
+            ],
+            "score": 0.92,
+            "conteudo": "Eis que vem com as nuvens, e todo o olho o verá, até os mesmos que o traspassaram; e todas as tribos da terra se lamentarão sobre ele. Sim. Amém. "
+        },
+        {
+            "referencia": [
+                "1 Tessalonicenses",
+                "4",
+                "16-17"
+            ],
+            "score": 0.88,
+            "conteudo": "Porque o mesmo Senhor descerá do céu com alarido, e com voz de arcanjo, e com a trombeta de Deus; e os que morreram em Cristo ressuscitarão primeiro. Depois nós, os que ficarmos vivos, seremos arrebatados juntamente com eles nas nuvens, a encontrar o Senhor nos ares, e assim estaremos sempre com o Senhor. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "4",
+                "5"
+            ],
+            "score": 0.85,
+            "conteudo": "Um só Senhor, uma só fé, um só batismo; "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "21",
+                "4"
+            ],
+            "score": 0.82,
+            "conteudo": "E Deus limpará de seus olhos toda a lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor; porque já as primeiras coisas são passadas. "
+        }
+    ]
+}

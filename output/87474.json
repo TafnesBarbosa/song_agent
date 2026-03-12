@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/87474/",
+    "id": "87474",
+    "title": "Perdão e Graça",
+    "author": "Vineyard",
+    "notes": "",
+    "year": "",
+    "key": "C",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "perdão",
+        "confissão",
+        "graça",
+        "contemplativo",
+        "misericórdia"
+    ],
+    "url": "https://www.youtube.com/watch?v=ZHB7lUH338E",
+    "chord_chart": "[Intro]\n.|  C   |  F  C  |  F  C  |  G  C  ||\n\n[A - 2X]\n.C                           F        C\n CONFESSO A TI, SENHOR, QUE FRACO EU SOU\n.F             C        G       C\n TÃO FRACO EU SOU, MAS FORTE TU ÉS\n.C                           F        C\n EU VENHO A TI, SENHOR, SEM NADA PRA DAR\n.F          C             G          C\n SÓ QUERO PEDIR, VEM E AJUDA-ME, OH DEUS\n \n[B]\n.Dm                Em             F                 G\n UM CORAÇÃO QUEBRANTADO E HUMILDE NÃO REJEITAS, SENHOR\n.Dm                 Am\n ESTENDA A MIM TUA GRAÇA E DEIXE\n.F                      G\n TEU AMOR FLUIR, POR MISERICÓRDIA NÓS CLAMAMOS\n \n[Refrão]\n.C                        F\n FAZ CHOVER PERDÃO E GRAÇA SOBRE MIM, PERDÃO E GRAÇA\n.G                       C                  F    C\n E LAVA-ME, SENHOR POIS HOJE EU PRECISO DE TEU AMOR\n\n[C - 2X]\n.C          F        G              C\n SE PEDIRMOS TU VIRÁS COMO CHUVA DERRAMARÁS",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "51",
+                "17"
+            ],
+            "score": 0.98,
+            "conteudo": "Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus. "
+        },
+        {
+            "referencia": [
+                "2 Coríntios",
+                "12",
+                "9"
+            ],
+            "score": 0.92,
+            "conteudo": "E disse-me: A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza. De boa vontade, pois, me gloriarei nas minhas fraquezas, para que em mim habite o poder de Cristo. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "51",
+                "1"
+            ],
+            "score": 0.89,
+            "conteudo": "Tem misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas misericórdias. "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "4",
+                "16"
+            ],
+            "score": 0.88,
+            "conteudo": "Cheguemos, pois, com confiança ao trono da graça, para que possamos alcançar misericórdia e achar graça, a fim de sermos ajudados em tempo oportuno. "
+        },
+        {
+            "referencia": [
+                "Oséias",
+                "6",
+                "3"
+            ],
+            "score": 0.85,
+            "conteudo": "Então conheçamos, e prossigamos em conhecer ao Senhor; a sua saída, como a alva, é certa; e ele a nós virá como a chuva, como chuva serôdia que rega a terra. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "86",
+                "5"
+            ],
+            "score": 0.82,
+            "conteudo": "Pois tu, Senhor, és bom, e pronto a perdoar, e abundante em benignidade para todos os que te invocam. "
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/85658/",
+    "id": "85658",
+    "title": "É de Coração",
+    "author": "Paulo César Baruk",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "amor",
+        "adoração",
+        "gratidão",
+        "redenção",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=5-srhflJ-kg",
+    "chord_chart": "[Intro]\n.A B C#m   A B C#m   A B C#m \n\n[A]\n.          A    B\n Como descrever\n.        C#m \n Como explicar\n.                   A       B\n O amor que vai de leste a oeste\n.                 C#m    \n E nunca mais vai terminar\n.                A   B\n Tu me conheces bem,\n.             C#m \n E sabes quem eu sou\n.G#m          A              B\n Não há como me esconder dê Ti\n.              E     Esus E\n Sempre sabes onde estou\n\n[Refrão]\n.        A    B\n É de coração\n.             E     E/G#\n Tudo que eu disser\n.             A     B\n Num hino de louvor\n.            E    G#m\n A Jesus de Nazaré\n.        A\n Se as palavras não mostrarem\n. B      E    G#7  C#m\n Como é grande a minha gratidão\n.               F#7\n Mesmo assim Senhor\n.                 B\n Recebe o meu louvor\n.          E\n É de coração\n\n[B]\n.            A    B              C#m           \n Não vou esquecer, não vou desprezar\n.                  A         B           C#m       \n O amor que Tu me revelaste ali pra me resgatar\n\n[C]\n.                A  B                 C#m \n Tu me conheces bem, e sabes quem eu sou\n.G#m          A               B\n Não há como me esconder dê Ti\n.               E   Esus  E\n Sempre sabes onde estou\n \n[Refrão...]",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "139",
+                "1-3"
+            ],
+            "score": 0.98,
+            "conteudo": "SENHOR, tu me sondaste, e me conheces. Tu sabes o meu assentar e o meu levantar; de longe entendes o meu pensamento. Cercas o meu andar, e o meu deitar; e conheces todos os meus caminhos. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "103",
+                "11-12"
+            ],
+            "score": 0.92,
+            "conteudo": "Pois assim como o céu está elevado acima da terra, assim é grande a sua misericórdia para com os que o temem. Assim como está longe o oriente do ocidente, assim afasta de nós as nossas transgressões. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "139",
+                "7-12"
+            ],
+            "score": 0.88,
+            "conteudo": "Para onde me irei do teu espírito, ou para onde fugirei da tua face? Se subir ao céu, lá tu estás; se fizer no inferno a minha cama, eis que tu ali estás também. Se tomar as asas da alva, se habitar nas extremidades do mar, Até ali a tua mão me guiará e a tua destra me susterá. Se disser: Decerto que as trevas me encobrirão; então a noite será luz à roda de mim. Nem ainda as trevas me encobrem de ti; mas a noite resplandece como o dia; as trevas e a luz são para ti a mesma coisa; "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "100",
+                "4"
+            ],
+            "score": 0.85,
+            "conteudo": "Entrai pelas portas dele com gratidão, e em seus átrios com louvor; louvai-o, e bendizei o seu nome. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "116",
+                "12-14"
+            ],
+            "score": 0.82,
+            "conteudo": "Que darei eu ao Senhor, por todos os benefícios que me tem feito? Tomarei o cálice da salvação, e invocarei o nome do Senhor. Pagarei os meus votos ao Senhor, agora, na presença de todo o seu povo. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "2",
+                "8-9"
+            ],
+            "score": 0.78,
+            "conteudo": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. Não vem das obras, para que ninguém se glorie; "
+        }
+    ]
+}

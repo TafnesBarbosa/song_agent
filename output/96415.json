@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/96415/",
+    "id": "96415",
+    "title": "Louvor e Honra",
+    "author": "Ron Kenoly / Maranata",
+    "notes": "",
+    "year": "",
+    "key": "D",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Rápido",
+    "theme": "",
+    "tags": [
+        "glória",
+        "adoração",
+        "gratidão",
+        "celebrativo",
+        "rei"
+    ],
+    "url": "https://www.youtube.com/watch?v=-aCrjbZxveU&t=1591s",
+    "chord_chart": "[Intro]\n.D  G/D  G/D D\n\n [A]\n.D      Em/D   D      D   Em/D  D\n Louvor  e    honra, poder  e  glória\n.D              A/C#  Bm   Bm  A/C#\n Pertencem ao nosso  Deus\n.D    Em/D  D      D     Em/D  D\n Todos os  povos, tudo que   existe\n.Bm          A/C#  D\n Louvem ao Eterno  Deus\n\n [B]\n.G           Em       A     D/F#\n Toda língua confessará tua grande glória\n.G           Em       A   D/F# F#m\n Todo joelho se dobrará em louvor\n.G        Em        A\n Exaltado sempre serás\n.D/F#     G       Em7      A\n E o teu reino jamais passará\n.   A       D\n Oh Eterno Deus\n\n Interlúdio\n.D  C/D\n\n [C]\n.     D\n  Teu reino será para sempre\n.C/D  G/D  Am/D  C/D  D\n  Cantem ao  Eterno  Deus\n.  D\n  Pois nada consegue se comparar\n.C/D  G/D  Am/D  C/D  D     (G/D  D  A/D)\n  Cantem ao Eterno   Deus",
+    "verses": [
+        {
+            "referencia": [
+                "Apocalipse",
+                "7",
+                "12"
+            ],
+            "score": 0.98,
+            "conteudo": "Dizendo: Amém. Louvor, e glória, e sabedoria, e ação de graças, e honra, e poder, e força ao nosso Deus, para todo o sempre. Amém. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "2",
+                "10-11"
+            ],
+            "score": 0.95,
+            "conteudo": "Para que ao nome de Jesus se dobre todo o joelho dos que estão nos céus, e na terra, e debaixo da terra, E toda a língua confesse que Jesus Cristo é o Senhor, para glória de Deus Pai. "
+        },
+        {
+            "referencia": [
+                "Daniel",
+                "4",
+                "3"
+            ],
+            "score": 0.92,
+            "conteudo": "Quão grandes são os seus sinais, e quão poderosas as suas maravilhas! O seu reino é um reino sempiterno, e o seu domínio de geração em geração. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "11",
+                "15"
+            ],
+            "score": 0.88,
+            "conteudo": "E o sétimo anjo tocou a sua trombeta, e houve no céu grandes vozes, que diziam: Os reinos do mundo vieram a ser de nosso Senhor e do seu Cristo, e ele reinará para todo o sempre. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "13"
+            ],
+            "score": 0.85,
+            "conteudo": "O teu reino é um reino eterno; o teu domínio dura em todas as gerações. "
+        }
+    ]
+}

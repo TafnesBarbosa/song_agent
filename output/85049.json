@@ -8,31 +8,46 @@
     "key": "D",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Médio",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "redenção",
+        "adoração",
+        "graça",
+        "esperança",
+        "celebrativo"
+    ],
     "url": "https://www.youtube.com/watch?v=2FQpBK3Mmp8",
     "chord_chart": "[INTRO]\n.G | D | D G || D | D G ||\n\n[A]\n.    D                         G\nVIVO HOJE ESTOU AQUI POIS ELE DECIDIU ME AMAR\n.G  A  Bm                G  D\n E  ENTÃO EU POSSO LIVRE ANDAR\n.      D                     G\nO SEU SANGUE SOBRE MIM ME COMPROU ME RESTAUROU.\n.G A Bm              G  D\nSEM  CULPA ENTÃO ME TORNOU\n\n[B]\n.   G\nO PASSADO JÁ NÃO MAIS TEM PODER POIS NOVO SOU\n.     A                Bm\nNELE VOU VIVER, POSSO AMAR\n.     G                G  A    Bm\nTODA MORTE E O SOFRER NÃO ME ASSUSTARÃO JAMAIS\n.         A \nPOIS FOI ELE QUEM VENCEU EM MEU LUGAR\n\n[C]\n.      G              D\nJESUS CRISTO REI DOS REIS\n.    A             Bm\nNOS TROUXE A REDENÇÃO\n.   G           D\nESPERANÇA RETORNOU\n.        A            Bm\nGRAÇA E PAZ NOS REVELOU\n\n[D]\n.Bm             D              A               Em        \nTUDO ENTREGAR, VOU ME RENDER, AOS SEUS PÉS VOU ME LANÇAR (6X)\n\n[FINE]\n          𝅘𝅥𝅘𝅥𝅘𝅥   𝄐 \n.Bm | Bm  G |  D |",
     "verses": [
+        {
+            "referencia": [
+                "Efésios",
+                "1",
+                "7"
+            ],
+            "score": 0.98,
+            "conteudo": "Em quem temos a redenção pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua graça, "
+        },
         {
             "referencia": [
                 "2 Coríntios",
                 "5",
                 "17"
             ],
-            "score": 0.98,
+            "score": 0.95,
             "conteudo": "Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo. "
         },
         {
             "referencia": [
-                "Gálatas",
-                "5",
+                "Romanos",
+                "8",
                 "1"
             ],
-            "score": 0.95,
-            "conteudo": "Estai, pois, firmes na liberdade com que Cristo nos libertou, e não torneis a colocar-vos debaixo do jugo da servidão. "
+            "score": 0.92,
+            "conteudo": "Portanto, agora nenhuma condenação há para os que estão em Cristo Jesus, que não andam segundo a carne, mas segundo o Espírito. "
         },
         {
             "referencia": [
@@ -40,53 +55,17 @@
                 "1",
                 "18-19"
             ],
-            "score": 0.95,
+            "score": 0.89,
             "conteudo": "Sabendo que não foi com coisas corruptíveis, como prata ou ouro, que fostes resgatados da vossa vã maneira de viver que por tradição recebestes dos vossos pais, Mas com o precioso sangue de Cristo, como de um cordeiro imaculado e incontaminado, "
         },
         {
             "referencia": [
-                "Efésios",
-                "1",
-                "7"
-            ],
-            "score": 0.95,
-            "conteudo": "Em quem temos a redenção pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua graça, "
-        },
-        {
-            "referencia": [
-                "1 Coríntios",
-                "15",
-                "54-57"
-            ],
-            "score": 0.95,
-            "conteudo": "E, quando isto que é corruptível se revestir da incorruptibilidade, e isto que é mortal se revestir da imortalidade, então cumprir-se-á a palavra que está escrita: Tragada foi a morte na vitória. Onde está, ó morte, o teu aguilhão? Onde está, ó inferno, a tua vitória? Ora, o aguilhão da morte é o pecado, e a força do pecado é a lei. Mas graças a Deus que nos dá a vitória por nosso Senhor Jesus Cristo. "
-        },
-        {
-            "referencia": [
-                "Colossenses",
-                "1",
-                "13-14"
-            ],
-            "score": 0.9,
-            "conteudo": "O qual nos tirou da potestade das trevas, e nos transportou para o reino do Filho do seu amor; Em quem temos a redenção pelo seu sangue, a saber, a remissão dos pecados; "
-        },
-        {
-            "referencia": [
-                "Hebreus",
+                "Gálatas",
                 "2",
-                "14-15"
+                "20"
             ],
-            "score": 0.9,
-            "conteudo": "E, visto como os filhos participam da carne e do sangue, também ele participou das mesmas coisas, para que pela morte aniquilasse o que tinha o império da morte, isto é, o diabo; E livrasse todos os que, com medo da morte, estavam por toda a vida sujeitos à servidão. "
-        },
-        {
-            "referencia": [
-                "Romanos",
-                "5",
-                "1-2"
-            ],
-            "score": 0.9,
-            "conteudo": "Tendo sido, pois, justificados pela fé, temos paz com Deus, por nosso Senhor Jesus Cristo; Pelo qual também temos entrada pela fé a esta graça, na qual estamos firmes, e nos gloriamos na esperança da glória de Deus. "
+            "score": 0.88,
+            "conteudo": "Já estou crucificado com Cristo; e vivo, não mais eu, mas Cristo vive em mim; e a vida que agora vivo na carne, vivo-a pela fé do Filho de Deus, o qual me amou, e se entregou a si mesmo por mim. "
         },
         {
             "referencia": [
@@ -99,12 +78,12 @@
         },
         {
             "referencia": [
-                "Filipenses",
-                "2",
-                "9-11"
+                "Romanos",
+                "5",
+                "8"
             ],
-            "score": 0.8,
-            "conteudo": "Por isso, também Deus o exaltou soberanamente, e lhe deu um nome que é sobre todo o nome; Para que ao nome de Jesus se dobre todo o joelho dos que estão nos céus, e na terra, e debaixo da terra, E toda a língua confesse que Jesus Cristo é o Senhor, para glória de Deus Pai. "
+            "score": 0.82,
+            "conteudo": "Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores. "
         }
     ]
 }

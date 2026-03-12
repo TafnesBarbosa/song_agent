@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/94470/",
+    "id": "94470",
+    "title": "Digno És de Glória",
+    "author": "Ministério Koinonya de Louvor",
+    "notes": "",
+    "year": "",
+    "key": "A",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "glória",
+        "adoração",
+        "gratidão",
+        "presença",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=sK1_3JUtWkw&t=3005s",
+    "chord_chart": "[Intro]\n.A   E/G#    F#m7    Em   G/A   D7+   A/C#  Bm7   D/E\n\n[A]\n.E/D           A    E/G#      F#m  Em7   G/A  \n DIGNO ÉS DE GLÓRIA      E LOUVORES\n.     D7+    A/C#    Bm7\n LEVANTAMOS NOSSAS MÃOS\n.     D/E          E\n TE ADORAMOS Ó SENHOR (2X)\n\n[B]\n.                 A\n PORQUE GRANDE ÉS TU,\n.   E/G#    Fº    F#m\n MARAVILHAS FAZES TU\n.       G/A           D7+    \n NÃO HÁ OUTRO IGUAL A TI\n.     A/C#  Bm7\n NÃO, NÃO   HÁ\n.    D/E               E\n NÃO HÁ OUTRO IGUAL A TI\n\n[C]\n.                  A\n PORQUE GRANDE ÉS TU,\n.    E/G#   Fº    F#m\n MARAVILHAS FAZES TU\n.       G/A           D7+    \n NÃO HÁ OUTRO IGUAL A TI\n.     A/C#  Bm7\n NÃO, NÃO   HÁ\n.    D/E         E\n NÃO HÁ OUTRO IGUAL A TI\n.   A    E/G#    Fº    F#m\n SENHOR!\n.       G/A           D7+    \n NÃO HÁ OUTRO IGUAL A TI\n.     A/C#  Bm7\n NÃO, NÃO   HÁ\n.    D/E         E           A\n NÃO HÁ OUTRO IGUAL A TI  SENHOR!",
+    "verses": [
+        {
+            "referencia": [
+                "Apocalipse",
+                "4",
+                "11"
+            ],
+            "score": 0.98,
+            "conteudo": "Digno és, Senhor, de receber glória, e honra, e poder; porque tu criaste todas as coisas, e por tua vontade são e foram criadas. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "86",
+                "10"
+            ],
+            "score": 0.92,
+            "conteudo": "Porque tu és grande e fazes maravilhas; só tu és Deus. "
+        },
+        {
+            "referencia": [
+                "2 Samuel",
+                "7",
+                "22"
+            ],
+            "score": 0.89,
+            "conteudo": "Portanto, grandioso és, ó Senhor Deus, porque não há semelhante a ti, e não há outro Deus senão tu só, segundo tudo o que temos ouvido com os nossos ouvidos. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "77",
+                "14"
+            ],
+            "score": 0.85,
+            "conteudo": "Tu és o Deus que fazes maravilhas; tu fizeste notória a tua força entre os povos. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "44",
+                "6"
+            ],
+            "score": 0.82,
+            "conteudo": "Assim diz o Senhor, Rei de Israel, e seu Redentor, o Senhor dos Exércitos: Eu sou o primeiro, e eu sou o último, e fora de mim não há Deus. "
+        }
+    ]
+}

@@ -8,21 +8,36 @@
     "key": "G",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 72,
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "confiança",
+        "oração",
+        "gratidão",
+        "contemplativo",
+        "presença"
+    ],
     "url": "https://www.youtube.com/watch?v=v0vbOLiKGTI",
     "chord_chart": "[Intro]\n.Bm7  Em7  G  C\n.Bm7  Em7  G  D(add4)  C\n\n[A]\n.Bm7            C7M\n   Não tenhas sobre ti\n.D                           Bm7  Em7  G  C\n   Um só cuidado qualquer que seja\n.Bm7          C7M\n   Pois um, somente um\n.D        C/E       G\n   Seria muito para ti\n\n[Refrão]\n.C7M          D6       Bm7         C7M\n     É meu somente meu todo o trabalho\n.Am7(9)         D             G4     G\n     E o teu trabalho é descansar em mim\n.C7M          D6       Bm7         C7M\n     É meu somente meu todo o trabalho\n.Am7(9)         D             G4     G\n     E o teu trabalho é descansar em mim\n     \n[Intro...]\n\n[B]\n.Bm7          C7M\n    Não temas quando enfim\n.D                        Bm7  Em7  G  C\n    Tiveres que tomar decisão\n.Bm7          C7M\n    Entrega tudo a mim\n.D        C/E             G\n    Confia de todo o coração\n\n[Refrão...]\n\n[Interlúdio]\n.C7M    | D6  |  Bm7  | C7M |\n.Am7(9) | D   |  G4   |  G  |\n.C7M    | D6  |  Bm7  | C7M |\n.Am7(9) | D   |  G4   |  G  |\n\n[Refrão...]",
     "verses": [
+        {
+            "referencia": [
+                "Mateus",
+                "11",
+                "28"
+            ],
+            "score": 0.98,
+            "conteudo": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei. "
+        },
         {
             "referencia": [
                 "1 Pedro",
                 "5",
                 "7"
             ],
-            "score": 0.98,
+            "score": 0.96,
             "conteudo": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós. "
         },
         {
@@ -36,12 +51,12 @@
         },
         {
             "referencia": [
-                "Mateus",
-                "6",
-                "25"
+                "Provérbios",
+                "3",
+                "5"
             ],
-            "score": 0.95,
-            "conteudo": "Por isso vos digo: Não andeis cuidadosos quanto à vossa vida, pelo que haveis de comer ou pelo que haveis de beber; nem quanto ao vosso corpo, pelo que haveis de vestir. Não é a vida mais do que o mantimento, e o corpo mais do que o vestuário? "
+            "score": 0.94,
+            "conteudo": "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. "
         },
         {
             "referencia": [
@@ -49,44 +64,8 @@
                 "55",
                 "22"
             ],
-            "score": 0.95,
-            "conteudo": "Lança o teu cuidado sobre o Senhor, e ele te susterá; não permitirá jamais que o justo seja abalado. "
-        },
-        {
-            "referencia": [
-                "Provérbios",
-                "3",
-                "5-6"
-            ],
-            "score": 0.93,
-            "conteudo": "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas. "
-        },
-        {
-            "referencia": [
-                "Mateus",
-                "11",
-                "28-30"
-            ],
             "score": 0.92,
-            "conteudo": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei. Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para as vossas almas. Porque o meu jugo é suave e o meu fardo é leve. "
-        },
-        {
-            "referencia": [
-                "Isaías",
-                "41",
-                "10"
-            ],
-            "score": 0.9,
-            "conteudo": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça. "
-        },
-        {
-            "referencia": [
-                "Mateus",
-                "6",
-                "34"
-            ],
-            "score": 0.9,
-            "conteudo": "Não vos inquieteis, pois, pelo dia de amanhã, porque o dia de amanhã cuidará de si mesmo. Basta a cada dia o seu mal. "
+            "conteudo": "Lança o teu cuidado sobre o Senhor, e ele te susterá; não permitirá jamais que o justo seja abalado. "
         }
     ]
 }

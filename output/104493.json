@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/104493/",
+    "id": "104493",
+    "title": "A Rua e o Mundo",
+    "author": "Ipalpha",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "missões",
+        "amor",
+        "resposta",
+        "celebrativo",
+        "rei"
+    ],
+    "url": "https://www.youtube.com/watch?v=3E84QBUyZFo|https://www.youtube.com/watch?v=L8JfLS2Mw5o",
+    "chord_chart": "[Intro]\n.E\n\n[A]\n.               E\n O Amor veio a nós e como um de nós se deu\n Pra dizer ao mundo que o Reino vem\n E entre os povos já posso ouvir\n Aqueles que louvam o Rei dos reis\n\n[B]\n.      A                 B            A              B\n Seja eu a anunciar teu reino. Com justiça e amor governas\n.        A                     B\n Eu não posso compreender. Me rendo \n.     A/C#                 B/D#\n Erguerei a minha voz para dizer\n\n[Refrão]\n.        E           F#m\n Por onde for serei tuas mãos\n.        A              A4+               A\n Aqui ou onde me enviar,     me entrego, podes me usar\n.        E               F#m ( D/A )\n Por onde for seja  expressão        do teu amor\n.     A                     A4+           A5\n Ao redor do mundo ou do outro lado dessa rua\n.                 E   F9/G  F7(9-)\n Falarei do teu amor\n\n[C] \n.             E9                E7M\n O Amor veio a nós e como um de nós se deu\n.             F#m              A\n Pra dizer ao mundo que o Reino vem\n.           E9               E7M\n E entre os povos já posso ouvir\n.            F#m           A\n Aqueles que louvam o Rei dos reis\n\n[B...]\n\n[Refrão 2x]\n.        E      E/G#  F#m\n Por onde for serei  tuas mãos\n.        A              A9               A             A4+\n Aqui ou onde me enviar,     me entrego, podes me usar\n.          E     E/G#     D/A\n Por onde for seja  expressão  do teu amor\n.     F#m                                 A4+\n Ao redor do mundo ou do outro lado dessa rua\n.                 E\n Falarei do teu amor",
+    "verses": [
+        {
+            "referencia": [
+                "Mateus",
+                "28",
+                "19-20"
+            ],
+            "score": 0.92,
+            "conteudo": "Portanto ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo; Ensinando-os a guardar todas as coisas que eu vos tenho mandado; e eis que eu estou convosco todos os dias, até a consumação dos séculos. Amém. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "6",
+                "8"
+            ],
+            "score": 0.88,
+            "conteudo": "Depois disto ouvi a voz do Senhor, que dizia: A quem enviarei, e quem há de ir por nós? Então disse eu: Eis-me aqui, envia-me a mim. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "2",
+                "6-8"
+            ],
+            "score": 0.85,
+            "conteudo": "Que, sendo em forma de Deus, não teve por usurpação ser igual a Deus, Mas esvaziou-se a si mesmo, tomando a forma de servo, fazendo-se semelhante aos homens; E, achado na forma de homem, humilhou-se a si mesmo, sendo obediente até à morte, e morte de cruz. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "19",
+                "16"
+            ],
+            "score": 0.82,
+            "conteudo": "E no manto e na sua coxa tem escrito este nome: Rei dos reis, e Senhor dos senhores. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "6",
+                "10"
+            ],
+            "score": 0.8,
+            "conteudo": "Venha o teu reino, seja feita a tua vontade, assim na terra como no céu; "
+        },
+        {
+            "referencia": [
+                "1 João",
+                "4",
+                "9"
+            ],
+            "score": 0.78,
+            "conteudo": "Nisto se manifestou o amor de Deus para conosco: que Deus enviou seu Filho unigênito ao mundo, para que por ele vivamos. "
+        }
+    ]
+}

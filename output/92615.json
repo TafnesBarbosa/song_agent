@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/92615/",
+    "id": "92615",
+    "title": "Venha O Teu Reino",
+    "author": "Davi Sacer",
+    "notes": "",
+    "year": "",
+    "key": "D",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": "73",
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "soberania",
+        "oração",
+        "perdão",
+        "glória",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=tqwe1k3t9jU",
+    "chord_chart": "[INTRO]\n.G  D  | Bm  A  :||\n\n[A]\n.G       D\n  NOSSO PAI\n.           Bm            A\n  QUE O TEU NOME SEJA MANTIDO SANTO\n.G      D        A\n  VENHA O TEU REINO\n.G        D        Bm          A           G\n  DÁ-NOS HOJE O ALIMENTO NECESSÁRIO PRA VIVER\n.           D     A\n  O PÃO DE CADA DIA\n\n[B]\n.    G      D         Bm        A\n PERDOA OS ERROS QUE TEMOS COMETIDO\n.      G   D             Bm      A\n COMO PERDOAMOS QUEM NOS OFENDEU\n.         G      D     Bm           A\n NÃO NOS DEIXE CAIR EM TENTAÇÕES SEVERAS\n.     G     D      A\n MAS LIVRA-NOS DO MAL\n\n [D]\n.             G\n VENHA O TEU REINO\n.            D\n FAÇA A TUA VONTADE\n.              F#m\n SEJA ASSIM NA TERRA\n.           Em\n COMO É NO CÉU\n \n[Interlúdio ao A]\n.G  A  |  D  Bm  |  G  A  |  D  ||\n\n [Ponte ao D]\n        𝅘𝅥𝅮                𝅘𝅥𝅮             𝅘𝅥𝅮                  𝆒\n.(Em)  D/F#  |  D/F#  G  A  |  A  Bm  A/C#  |  A/C#  D  |  A  ||\n\n[D]\n.G                    D\n  PORQUE O REINO, O PODER E A GLÓRIA\n.Bm              A\n  SÃO TEUS PARA SEMPRE...\n.G                     D\n  PORQUE O REINO, O PODER E A GLÓRIA\n.Bm              A\n  SÃO TEUS PARA SEMPRE...\n\n.||: G   A  |  D  Bm  |  G  A  |  D :||  D\n    AMÉM...",
+    "verses": [
+        {
+            "referencia": [
+                "Mateus",
+                "6",
+                "9-13"
+            ],
+            "score": 1.0,
+            "conteudo": "Portanto, vós orareis assim: Pai nosso, que estás nos céus, santificado seja o teu nome; Venha o teu reino, seja feita a tua vontade, assim na terra como no céu; O pão nosso de cada dia nos dá hoje; E perdoa-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores; E não nos conduzas à tentação; mas livra-nos do mal; porque teu é o reino, e o poder, e a glória, para sempre. Amém. "
+        },
+        {
+            "referencia": [
+                "Lucas",
+                "11",
+                "2-4"
+            ],
+            "score": 0.98,
+            "conteudo": "E ele lhes disse: Quando orardes, dizei: Pai nosso, que estás nos céus, santificado seja o teu nome; venha o teu reino; seja feita a tua vontade, assim na terra, como no céu. Dá-nos cada dia o nosso pão cotidiano; E perdoa-nos os nossos pecados, pois também nós perdoamos a qualquer que nos deve, e não nos conduzas à tentação, mas livra-nos do mal. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "6",
+                "33"
+            ],
+            "score": 0.85,
+            "conteudo": "Mas, buscai primeiro o reino de Deus, e a sua justiça, e todas estas coisas vos serão acrescentadas. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "11-13"
+            ],
+            "score": 0.82,
+            "conteudo": "Falarão da glória do teu reino, e relatarão o teu poder, Para fazer saber aos filhos dos homens as tuas proezas e a glória da magnificência do teu reino. O teu reino é um reino eterno; o teu domínio dura em todas as gerações. "
+        },
+        {
+            "referencia": [
+                "1 Crônicas",
+                "29",
+                "11"
+            ],
+            "score": 0.8,
+            "conteudo": "Tua é, Senhor, a magnificência, e o poder, e a honra, e a vitória, e a majestade; porque teu é tudo quanto há nos céus e na terra; teu é, Senhor, o reino, e tu te exaltaste por cabeça sobre todos. "
+        }
+    ]
+}

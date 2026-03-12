@@ -1,0 +1,62 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/94495/",
+    "id": "94495",
+    "title": "Jesus É O Rei da Glória (Todo Poder)",
+    "author": "Daniel Souza",
+    "notes": "",
+    "year": "",
+    "key": "F",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 128,
+    "feel": "Rápido",
+    "theme": "",
+    "tags": [
+        "rei",
+        "glória",
+        "adoração",
+        "poder",
+        "celebrativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=FpvQum5rjI8",
+    "chord_chart": "[Intro]\n.F  Bb/F F  Bb/F\n\n[A]\n.F                 F/A               Bb \n Todo poder te foi dado no céu e na terra\n.F/C               C  F   C/F  Bb/F\n Todo poder te foi dado\n.F                 F/A\n Deus o pai te exaltou\n.               Bb\n Sobre todas as coisas\n.F/C                C   F C/E\n Deus o pai te exaltou\n\n[B]\n.Dm7            Bb     Dm7               Bb\n Manifestado em carne, justificado em espírito\n.Dm7                 C/E\n Visto dos anjos, pregado aos gentios\n.F    F/A       Bb    Dm       C   F   D4  D\n Crido no mundo  e recebido na glória\n\n[C]\n.G9      G/B           C          D4  D\n Levantai ó portas as vossas cabeças\n.      G9     G/B    C      D4  D\n Levantai-vos  ó  entradas eternas\n.      Em7            C            Em7          A7\n E entrará o rei da glória. Quem é este rei da glória?\n.     Am7        G/B  C\n O Senhor forte e poderoso\n.     Am7     G/B      C   D   G9   D/G  C/G\n O Senhor poderoso na gue__e__rra\n\n.G9      G/B           C          D4  D\n Levantai ó portas as vossas cabeças\n.      G9     G/B    C      D4  D\n Levantai-vos  ó  entradas eternas\n.      Em7            C            Em7          A7\n E entrará o rei da glória. Quem é este rei da glória?\n.     Am7     G/B    C\n O Senhor dos exércitos\n.   Am7  G/B      C   D  G9   D/G  C/G\n Ele é o rei da  gló__o_ria\n\n[E]\n.G9  C   D   G9  C   D\n Je_____sus, Je_____sus\n.Em7          C            Em7             D4  D   G  \n Ele é o rei, Ele é o rei, Ele é o rei da gló__ó__ria",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "24",
+                "7-10"
+            ],
+            "score": 0.99,
+            "conteudo": "Levantai, ó portas, as vossas cabeças; levantai-vos, ó entradas eternas, e entrará o Rei da Glória. Quem é este Rei da Glória? O Senhor forte e poderoso, o Senhor poderoso na guerra. Levantai, ó portas, as vossas cabeças, levantai-vos, ó entradas eternas, e entrará o Rei da Glória. Quem é este Rei da Glória? O Senhor dos Exércitos, ele é o Rei da Glória. (Selá.) "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "28",
+                "18"
+            ],
+            "score": 0.98,
+            "conteudo": "E, chegando-se Jesus, falou-lhes, dizendo: É-me dado todo o poder no céu e na terra. "
+        },
+        {
+            "referencia": [
+                "1 Timóteo",
+                "3",
+                "16"
+            ],
+            "score": 0.97,
+            "conteudo": "E, sem dúvida alguma, grande é o mistério da piedade: Deus se manifestou em carne, foi justificado no Espírito, visto dos anjos, pregado aos gentios, crido no mundo, recebido acima na glória. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "2",
+                "9-11"
+            ],
+            "score": 0.92,
+            "conteudo": "Por isso, também Deus o exaltou soberanamente, e lhe deu um nome que é sobre todo o nome; Para que ao nome de Jesus se dobre todo o joelho dos que estão nos céus, e na terra, e debaixo da terra, E toda a língua confesse que Jesus Cristo é o Senhor, para glória de Deus Pai. "
+        }
+    ]
+}

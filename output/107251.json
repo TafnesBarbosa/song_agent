@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/107251/",
+    "id": "107251",
+    "title": "Noite Santa - Paul Baloche",
+    "author": "Paul Baloche",
+    "notes": "",
+    "year": "",
+    "key": "A",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "6/8",
+    "tempo": 95,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "natal",
+        "rei",
+        "adoração",
+        "esperança",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=8XmcxnI0tb4",
+    "chord_chart": "[Intro]\n.A  / /  D/A  |  A  / /  D/A\n\n[A]\n.A                 D             A\n Ó Noite Santa, estrelas no céu brilham \n.                Esus4  E    |  A  / /  D/A |\n O Salvador nesta noi---te nasceu \n.A       A/C#     D       F#m\n Estava o mundo  pecador errante \n.       C#m        G#7        C#m\n Até que Cristo na terra apareceu\n \n[B]\n.   E          A         ( Asus )   A\n O mundo vive nova espe----ran-----ça \n.    E              A                 E/G#\n Em clara aurora a nova luz se ergueu\n \n[Refrão]\n.F#m       C#m    Bm         F#m\n  A - joelhai!  Ouvi os anjos cantam \n.  A/E    E    A/C#    D       A/E  E         A\n Nata----al!  Nata----al!  Nasceu     o Redentor \n.   E  E7/D    A/C#   DMa7    A/E   E\n Nata--al!    Nata----al!  Natal!\n \n[Final Refrão - 1ª vez]\n.      |  A  / /  D/A  |  A  |  Bm  |  D/F#  F#m  |\n Noite Feliz \n\n[B...]\n[Refrão...]\n\n[Final Refrão - 2ª vez]\n.      |  A  |  D/A  |  A  |  D/A  |\n Noite Feliz\n\n[C]\n.A                  D           A\n Com os corações alegres nos curvamos \n.                 Esus4   E   |  A  / /  D/A |\n Aqui no berço de  Cris--to   Jesus \n.A       A/C#    D       F#m\n Magos também do Oriente chegam \n.       C#m        G#7       C#m\n Guiados por uma estrela de luz \n.E                A        ( Asus )   A\n O grande Rei nascido humildemen------te \n.E               A              E/G#\n Eterno Deus se revelou a nós\n \n[Refrão...]\n[Fine]\n.         A\n Noite Feliz",
+    "verses": [
+        {
+            "referencia": [
+                "Lucas",
+                "2",
+                "11"
+            ],
+            "score": 0.95,
+            "conteudo": "Pois, na cidade de Davi, vos nasceu hoje o Salvador, que é Cristo, o Senhor. "
+        },
+        {
+            "referencia": [
+                "Lucas",
+                "2",
+                "10"
+            ],
+            "score": 0.95,
+            "conteudo": "E o anjo lhes disse: Não temais, porque eis aqui vos trago novas de grande alegria, que será para todo o povo: "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "2",
+                "1"
+            ],
+            "score": 0.9,
+            "conteudo": "E, tendo nascido Jesus em Belém de Judéia, no tempo do rei Herodes, eis que uns magos vieram do oriente a Jerusalém, "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "9",
+                "6"
+            ],
+            "score": 0.85,
+            "conteudo": "Porque um menino nos nasceu, um filho se nos deu, e o principado está sobre os seus ombros, e se chamará o seu nome: Maravilhoso, Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da Paz. "
+        },
+        {
+            "referencia": [
+                "João",
+                "1",
+                "14"
+            ],
+            "score": 0.8,
+            "conteudo": "E o Verbo se fez carne, e habitou entre nós, e vimos a sua glória, como a glória do unigênito do Pai, cheio de graça e de verdade. "
+        },
+        {
+            "referencia": [
+                "Lucas",
+                "2",
+                "14"
+            ],
+            "score": 0.8,
+            "conteudo": "Glória a Deus nas alturas, Paz na terra, boa vontade para com os homens. "
+        }
+    ]
+}

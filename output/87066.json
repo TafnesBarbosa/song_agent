@@ -8,11 +8,17 @@
     "key": "C",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "glória",
+        "adoração",
+        "gratidão",
+        "contemplativo",
+        "cordeiro"
+    ],
     "url": "https://www.youtube.com/watch?v=RaIM579pqpM",
     "chord_chart": "[Pré-Intro]\n.Bb | F/A | Gm7  | F/A  |\n.Bb | Am7 | Bb/C | C/Bb |  (BAIXO) | G/F F/Eb Eb/Db Db/B | F/G\n\n[Intro]\n. F7+  G/F | Em7   Am7 | F7+   G/F   | Em7  Gm7  F#7/5+ |   \n. F7+  G/F | Em7  Asus | Dm7 Em7 F7+ | Dm7  Em7  F/G    |  C  |  F/G  |\n\n[A]\n.        C7+                 F7+    \n Ao que é digno de receber a glória,\n.        C/E                  Gsus \n Ao que é digno de receber o louvor \n.        C7+                  F7+   \n Ao que é digno de receber a glória,\n.         C/E                   Gm7  F#7/5+\n Ao que é digno de receber o louvor \n\n[B]\n.     F7+           G/F      Em7  Am7\n Levantemos nossas mãos e adore - mos  \n.    F7+     G/F     Em7  Gm7  F#7/5+  \n A Jesus, cordeiro de Glória \n.    F7+       G/F         Em7   Asus \n Exaltemos sua incomparável majestade \n.      Dm7 Em7     F7+ \n Ao que vive para sempre\n \n[1ª vez]\n.Dm7  Em7       F7+        C   F/G \n   Ao grande EU SOU   A Jesus \n[1ª vez - Volta Início...] \n\n[2ª vez]\n.Dm7  Em7       F7+  F/G \n   Ao grande EU SOU   A Jesus \n   \n[Solo]\n.F7+ |  G/F   |  Em7    |  Am7  |\n.F7+ |  Bb79  |  Eb79M  |  F/G  |\n\n[C]\n.         C7+                Dm     \n Ao que é digno de receber a glória,\n.         C/E                   F7+ \n Ao que é digno de receber o louvor \n.         C/G                F/A    \n Ao que é digno de receber a glória,\n.         G/B                  ( Gm7  E  D  F#7/5+ )\n Ao que é digno de receber o louvor \n \n[D]\n.     F7+           G/F      Em7  Am7\n Levantemos nossas mãos e adore - mos  \n.    F7+     G/F     Em7  Gm7  F#7/5+  \n A Jesus, cordeiro de Glória \n.    F7+       G/F         Em7   Asus \n Exaltemos sua incomparável majestade\n \n[1ª vez]\n.      Dm7 Em7     F7+    A7/5+\n Ao que vive para sempre \n.Dm7  Em7       F7+  F/G    C  | F/G  F#/5+\n E ao grande EU SOU,  a  Jesus\n \n[Fine]\n.      Dm7 Em7     F7+    A7/5+\n Ao que vive para sempre\n.Dm7  Em7       F7+            Bb  |  F/A  |  C  ||\n E ao grande EU SOU (3x)  A Jesus",
     "verses": [
@@ -27,39 +33,21 @@
         },
         {
             "referencia": [
-                "João",
-                "8",
-                "58"
+                "Êxodo",
+                "3",
+                "14"
             ],
-            "score": 0.97,
-            "conteudo": "Disse-lhes Jesus: Em verdade, em verdade vos digo que antes que Abraão existisse, eu sou. "
+            "score": 0.95,
+            "conteudo": "E disse Deus a Moisés: EU SOU O QUE SOU. Disse mais: Assim dirás aos filhos de Israel: EU SOU me enviou a vós. "
         },
         {
             "referencia": [
                 "Apocalipse",
                 "1",
-                "8"
+                "18"
             ],
-            "score": 0.96,
-            "conteudo": "Eu sou o Alfa e o Ômega, o princípio e o fim, diz o Senhor, que é, e que era, e que há de vir, o Todo-Poderoso. "
-        },
-        {
-            "referencia": [
-                "Apocalipse",
-                "4",
-                "11"
-            ],
-            "score": 0.95,
-            "conteudo": "Digno és, Senhor, de receber glória, e honra, e poder; porque tu criaste todas as coisas, e por tua vontade são e foram criadas. "
-        },
-        {
-            "referencia": [
-                "Hebreus",
-                "13",
-                "8"
-            ],
-            "score": 0.95,
-            "conteudo": "Jesus Cristo é o mesmo, ontem, e hoje, e eternamente. "
+            "score": 0.92,
+            "conteudo": "E o que vivo e fui morto, mas eis aqui estou vivo para todo o sempre. Amém. E tenho as chaves da morte e do inferno. "
         },
         {
             "referencia": [
@@ -67,44 +55,26 @@
                 "5",
                 "13"
             ],
-            "score": 0.94,
+            "score": 0.9,
             "conteudo": "E ouvi a toda a criatura que está no céu, e na terra, e debaixo da terra, e que estão no mar, e a todas as coisas que neles há, dizer: Ao que está assentado sobre o trono, e ao Cordeiro, sejam dadas ações de graças, e honra, e glória, e poder para todo o sempre. "
         },
         {
             "referencia": [
-                "Filipenses",
-                "2",
-                "9-11"
-            ],
-            "score": 0.92,
-            "conteudo": "Por isso, também Deus o exaltou soberanamente, e lhe deu um nome que é sobre todo o nome; Para que ao nome de Jesus se dobre todo o joelho dos que estão nos céus, e na terra, e debaixo da terra, E toda a língua confesse que Jesus Cristo é o Senhor, para glória de Deus Pai. "
-        },
-        {
-            "referencia": [
-                "Êxodo",
-                "3",
-                "14"
-            ],
-            "score": 0.9,
-            "conteudo": "E disse Deus a Moisés: EU SOU O QUE SOU. Disse mais: Assim dirás aos filhos de Israel: EU SOU me enviou a vós. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "145",
-                "3"
+                "Apocalipse",
+                "4",
+                "11"
             ],
             "score": 0.88,
-            "conteudo": "Grande é o Senhor, e muito digno de louvor, e a sua grandeza inescrutável. "
+            "conteudo": "Digno és, Senhor, de receber glória, e honra, e poder; porque tu criaste todas as coisas, e por tua vontade são e foram criadas. "
         },
         {
             "referencia": [
                 "João",
-                "1",
-                "29"
+                "8",
+                "58"
             ],
             "score": 0.85,
-            "conteudo": "No dia seguinte João viu a Jesus, que vinha para ele, e disse: Eis o Cordeiro de Deus, que tira o pecado do mundo. "
+            "conteudo": "Disse-lhes Jesus: Em verdade, em verdade vos digo que antes que Abraão existisse, eu sou. "
         }
     ]
 }

@@ -8,40 +8,28 @@
     "key": "A",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "soberania",
+        "adoração",
+        "gratidão",
+        "contemplativo",
+        "glória"
+    ],
     "url": "https://www.youtube.com/watch?v=L5FsFz2fgKA",
     "chord_chart": "[INTRO]\n.F#m  D  A  E \n\n[A 2X]\n.A/C#     D    E             \n DEUS, SUPREMO ÉS\n.A/C#   D       E\n SOBE__RANO EM GLÓRIA\n.Bm   A/C#    D         \n ÉS INCOMPARÁVEL, MARAVILHOSO\n.Bm    A/C#   E\n EM SUA MAJESTADE\n.Bm   A/C#    D      \n ÉS INCOMPARÁVEL, MARAVILHOSO\n.Bm    A/C#   E\n EM SUA FORMOSURA\n\n[B]\n.A     A/C#   D     E       A \n NÃO HÁ OUTRO DEUS COMO JEOVÁ                                               \n.      A/C#    D     E        F#m \n NÃO HÁ OUTRO DEUS ALÉM DO SENHOR\n.   C#m     D        E    F#m \n NÃO HÁ NO CÉU, NÃO HÁ NA TERRA\n.    C#m    D                                 \n NÃO HÁ NO MAR\n.E              | F#m  D  A  E  |\n DEUS COMO O SENHOR\n\n[Intro...]\n[Volta para início...]",
     "verses": [
         {
             "referencia": [
-                "Deuteronômio",
-                "4",
-                "39"
-            ],
-            "score": 0.97,
-            "conteudo": "Por isso hoje saberás, e refletirás no teu coração, que só o Senhor é Deus, em cima no céu e em baixo na terra; nenhum outro há. "
-        },
-        {
-            "referencia": [
-                "Isaías",
-                "45",
-                "5"
+                "Salmos",
+                "86",
+                "10"
             ],
             "score": 0.95,
-            "conteudo": "Eu sou o Senhor, e não há outro; fora de mim não há Deus; eu te cingirei, ainda que tu não me conheças; "
-        },
-        {
-            "referencia": [
-                "Deuteronômio",
-                "4",
-                "35"
-            ],
-            "score": 0.92,
-            "conteudo": "A ti te foi mostrado para que soubesses que o Senhor é Deus; nenhum outro há senão ele. "
+            "conteudo": "Porque tu és grande e fazes maravilhas; só tu és Deus. "
         },
         {
             "referencia": [
@@ -49,35 +37,8 @@
                 "44",
                 "6"
             ],
-            "score": 0.9,
+            "score": 0.92,
             "conteudo": "Assim diz o Senhor, Rei de Israel, e seu Redentor, o Senhor dos Exércitos: Eu sou o primeiro, e eu sou o último, e fora de mim não há Deus. "
-        },
-        {
-            "referencia": [
-                "1 Samuel",
-                "2",
-                "2"
-            ],
-            "score": 0.9,
-            "conteudo": "Não há santo como o Senhor; porque não há outro fora de ti; e rocha nenhuma há como o nosso Deus. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "86",
-                "8"
-            ],
-            "score": 0.9,
-            "conteudo": "Entre os deuses não há semelhante a ti, Senhor, nem há obras como as tuas. "
-        },
-        {
-            "referencia": [
-                "Jeremias",
-                "10",
-                "6"
-            ],
-            "score": 0.88,
-            "conteudo": "Ninguém há semelhante a ti, ó Senhor; tu és grande, e grande o teu nome em poder. "
         },
         {
             "referencia": [
@@ -85,26 +46,35 @@
                 "15",
                 "11"
             ],
-            "score": 0.85,
+            "score": 0.9,
             "conteudo": "Ó Senhor, quem é como tu entre os deuses? Quem é como tu glorificado em santidade, admirável em louvores, realizando maravilhas? "
         },
         {
             "referencia": [
                 "Salmos",
-                "8",
-                "1"
+                "145",
+                "3"
             ],
-            "score": 0.8,
-            "conteudo": "Ó Senhor, Senhor nosso, quão admirável é o teu nome em toda a terra, pois puseste a tua glória sobre os céus! "
+            "score": 0.88,
+            "conteudo": "Grande é o Senhor, e muito digno de louvor, e a sua grandeza inescrutável. "
+        },
+        {
+            "referencia": [
+                "Deuteronômio",
+                "4",
+                "39"
+            ],
+            "score": 0.85,
+            "conteudo": "Por isso hoje saberás, e refletirás no teu coração, que só o Senhor é Deus, em cima no céu e em baixo na terra; nenhum outro há. "
         },
         {
             "referencia": [
                 "Salmos",
-                "96",
-                "4"
+                "95",
+                "3"
             ],
-            "score": 0.78,
-            "conteudo": "Porque grande é o Senhor, e digno de louvor, mais temível do que todos os deuses. "
+            "score": 0.82,
+            "conteudo": "Porque o Senhor é Deus grande, e Rei grande sobre todos os deuses. "
         }
     ]
 }

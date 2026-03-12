@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/102428/",
+    "id": "102428",
+    "title": "Tu És / Águas Purificadoras",
+    "author": "Fhop Music",
+    "notes": "",
+    "year": "",
+    "key": "D",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 100,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "redenção",
+        "adoração",
+        "gratidão",
+        "salvação",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=YXnQ02HYB1w",
+    "chord_chart": "[Intro]\n.Bm7   A/C#  |  G9  |  \n\n[A]\n.Bm7                A/C#    G9               ( Em )\n   Junto ao poço estava eu quando um homem judeu\n.         Bm7        A/C#    G9\n   Viu a sede que havia em mim\n.Bm7                A/C#     G9        ( Em )  \n   Sem me ouvir conheceu e me ofereceu\n.      Bm7     A/C#        G9\n   Uma água que jorra sem fim\n\n[B]\n. Em                        D/F#\n Dá-me de beber pois tenho sede,\n.                   G                   D/F#  \n Não quero mais buscar em outras fontes\n.Em                   D/F#                      G  \n Não precisarei aqui voltar, pra minha sede saciar \n.                     A\n Uma vez que eu já ouvi teu falar\n\n[Refrão A]\n.   D                             G\n Tu és, por quem a minh'alma esperou\n.                    Em\n A fonte da vida que me encontrou, és o Dom de Deus \n.      G           A\n O Messias, o meu Salvador\n \n[Interlúdio]\n.Bm7  A/C#  |  G   Em   |  Bm7  A/C#  |  G     |\n\n[A, B...]\n[Refrão A 2x...]\n[B 2x, Refrão A 2x...]\n[Refrão Águas Purificadoras - 2x]\n.  D\n Quero beber do teu rio, Senhor.\n.   G       D/F#          Em       A    \n Sacia minha sede, lava o meu interior\n.    Bm7                 G         Bm7                G  \n Eu quero fluir em tuas águas. Eu quero beber da tua fonte\n.                A\n Fonte de águas vivas\n \n[Refrão B - 2x]\n.   D                             C\n Tu és, por quem a minh'alma esperou.\n.                    Em\n A fonte da vida que me encontrou,\n.                      Gm/Bb         A\n És o Dom de Deus, O Messias, o meu Salvador\n[Refrão A - 2x...]\n[Fine]\n.  D",
+    "verses": [
+        {
+            "referencia": [
+                "João",
+                "4",
+                "10-14"
+            ],
+            "score": 0.95,
+            "conteudo": "Jesus respondeu, e disse-lhe: Se tu conheceras o dom de Deus, e quem é o que te diz: Dá-me de beber, tu lhe pedirias, e ele te daria água viva. Disse-lhe a mulher: Senhor, tu não tens com que a tirar, e o poço é fundo; onde, pois, tens a água viva? És tu maior do que o nosso pai Jacó, que nos deu o poço, bebendo ele próprio dele, e os seus filhos, e o seu gado? Jesus respondeu, e disse-lhe: Qualquer que beber desta água tornará a ter sede; Mas aquele que beber da água que eu lhe der nunca terá sede, porque a água que eu lhe der se fará nele uma fonte de água que salte para a vida eterna. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "12",
+                "3"
+            ],
+            "score": 0.9,
+            "conteudo": "E vós com alegria tirareis águas das fontes da salvação. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "21",
+                "6"
+            ],
+            "score": 0.88,
+            "conteudo": "E disse-me mais: Está cumprido. Eu sou o Alfa e o Ômega, o princípio e o fim. A quem quer que tiver sede, de graça lhe darei da fonte da água da vida. "
+        },
+        {
+            "referencia": [
+                "João",
+                "7",
+                "37-39"
+            ],
+            "score": 0.85,
+            "conteudo": "E no último dia, o grande dia da festa, Jesus pôs-se em pé, e clamou, dizendo: Se alguém tem sede, venha a mim, e beba. Quem crê em mim, como diz a Escritura, rios de água viva correrão do seu ventre. E isto disse ele do Espírito que haviam de receber os que nele cressem; porque o Espírito Santo ainda não fora dado, por ainda Jesus não ter sido glorificado. "
+        },
+        {
+            "referencia": [
+                "Jeremias",
+                "2",
+                "13"
+            ],
+            "score": 0.78,
+            "conteudo": "Porque o meu povo fez duas maldades: a mim me deixaram, o manancial de águas vivas, e cavaram cisternas, cisternas rotas, que não retêm águas. "
+        }
+    ]
+}

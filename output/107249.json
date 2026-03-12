@@ -1,0 +1,98 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/107249/",
+    "id": "107249",
+    "title": "Emanuel",
+    "author": "Purples",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 108,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "redenção",
+        "adoração",
+        "natal",
+        "glória",
+        "alegre"
+    ],
+    "url": "",
+    "chord_chart": "[Intro]\n.E  |  E  F#m  |  C#m  | C#m  A  |\n[A]\n.E                                  F#m\n Numa santa noite, em Belém, brilhou\n.C#m\n No oriente a estrela anunciou\n.A                                              E\n É noite de paz, eis que tudo dorme em derredor\n.E                            F#m\n Profecia antiga se fez cumprir\n.C#m                             E\n E nossa esperança fez ressurgir\n. A                                    E\n Numa manjedoura a dormir está o Salvador\n\n[B]\n.             C#m          A      E               B\n Da virgem virá, à luz dará  e será chamado Emanuel\n.         C#m        A            B\n Vem libertar o Seu povo finalmente\n\n [Refrão]\n.          E\n Oh não temais, pois trago boas-novas\n.   C#m\n Cantai nos altos céus, dai glória\n. A                                  E    B\n Hoje nos nasceu Cristo, o nosso Salvador\n.               E\n Deus se fez homem, nasce uma criança\n.  C#m\n Natal, nasceu nossa esperança\n. A                                  B\n Terra e céus se prostram ao bebê Jesus\n \n[C]\n.     E\n Emanuel\n   ( Cristo, Deus conosco, Emanuel ) 2x\n \n[D]\n.  E                             F#m\n Verbo em carne entre nós habitou\n.C#m                          E\n Em verdade e graça se revelou\n. A                                       E    B\n Do Filho unigênito vimos glória e esplendor\n \n[Refrão...]\n\n[E]\n.    C#m | A | E | B |\n Emanuel\n    (Oh, oh, oh, oh ) 2x\n    \n[F]\n.           C#m          A          E                 B\n Filho em amor, se entregou. Homem Deus, nosso libertador\n.    C#m           A           B\n Emanuel, Deus conosco eternamente\n \n[Refrão...]\n\n[Fine]\n.    E                   C#m\n Emanuel\n   (Oh vinde adoremos. Oh vinde adoremos)\n.A                B  E\n Deus conosco, Emanuel",
+    "verses": [
+        {
+            "referencia": [
+                "Isaías",
+                "7",
+                "14"
+            ],
+            "score": 0.95,
+            "conteudo": "Portanto o mesmo Senhor vos dará um sinal: Eis que a virgem conceberá, e dará à luz um filho, e chamará o seu nome Emanuel. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "1",
+                "23"
+            ],
+            "score": 0.95,
+            "conteudo": "Eis que a virgem conceberá, e dará à luz um filho, E chamá-lo-ão pelo nome de EMANUEL, Que traduzido é: Deus conosco. "
+        },
+        {
+            "referencia": [
+                "João",
+                "1",
+                "14"
+            ],
+            "score": 0.95,
+            "conteudo": "E o Verbo se fez carne, e habitou entre nós, e vimos a sua glória, como a glória do unigênito do Pai, cheio de graça e de verdade. "
+        },
+        {
+            "referencia": [
+                "Lucas",
+                "2",
+                "10"
+            ],
+            "score": 0.9,
+            "conteudo": "E o anjo lhes disse: Não temais, porque eis aqui vos trago novas de grande alegria, que será para todo o povo: "
+        },
+        {
+            "referencia": [
+                "Lucas",
+                "2",
+                "11"
+            ],
+            "score": 0.9,
+            "conteudo": "Pois, na cidade de Davi, vos nasceu hoje o Salvador, que é Cristo, o Senhor. "
+        },
+        {
+            "referencia": [
+                "Lucas",
+                "2",
+                "12"
+            ],
+            "score": 0.88,
+            "conteudo": "E isto vos será por sinal: Achareis o menino envolto em panos, e deitado numa manjedoura. "
+        },
+        {
+            "referencia": [
+                "Miqueias",
+                "5",
+                "2"
+            ],
+            "score": 0.85,
+            "conteudo": "E tu, Belém Efrata, posto que pequena entre os milhares de Judá, de ti me sairá o que governará em Israel, e cujas saídas são desde os tempos antigos, desde os dias da eternidade. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "2",
+                "1"
+            ],
+            "score": 0.8,
+            "conteudo": "E, tendo nascido Jesus em Belém de Judéia, no tempo do rei Herodes, eis que uns magos vieram do oriente a Jerusalém, "
+        }
+    ]
+}

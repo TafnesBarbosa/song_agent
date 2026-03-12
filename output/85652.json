@@ -8,11 +8,16 @@
     "key": "A",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 72,
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "adoração",
+        "gratidão",
+        "contemplativo",
+        "oferta"
+    ],
     "url": "https://www.youtube.com/watch?v=MdUMfXixI4M",
     "chord_chart": "[Intro]\n.A    E/G#    F#m  F#m/E  D   A/C#    Bm     D/E    E\n\n[A]\n. A                E/G#       F#m   F#m/E\n VENHO SENHOR MINHA VIDA OFERECER,\n. D         A/C#       Bm    D/E   E\n COMO OFERTA DE AMOR E SACRIFÍCIO.\n. A         E/G#     F#m      F#m/E\n QUERO MINHA VIDA  A  TI ENTREGAR\n. D         D/E             A    A/C#\n COMO OFERTA VIVA EM TEU ALTAR.\n\n[B]\n. D    E/D        C#m  F#m   D  E/D       F#m\n POIS, PRA  TE ADORAR       FOI QUE EU NASCI.\n.C#m              D          A/C#\n CUMPRE EM MIM O TEU QUERER, \n.Bm          D/E             A   G/B  A/C#\n FAÇA O QUE ESTA EM TEU CORAÇÃO.\n\n[C]\n.D            E/D    C#7           F#m\n E QUE A CADA DIA EU QUEIRA MAIS E MAIS\n.Bm    C#m    D   D/E      A\n ESTAR  AO   TEU  LADO SENHOR.",
     "verses": [
@@ -27,12 +32,12 @@
         },
         {
             "referencia": [
-                "1 Pedro",
-                "2",
-                "5"
+                "Salmos",
+                "143",
+                "10"
             ],
-            "score": 0.95,
-            "conteudo": "Vòs também, como pedras vivas, sois edificados casa espiritual e sacerdòcio santo, para oferecer sacrifícios espirituais agradáveis a Deus por Jesus Cristo. "
+            "score": 0.85,
+            "conteudo": "Ensina-me a fazer a tua vontade, pois és o meu Deus. O teu Espírito é bom; guie-me por terra plana. "
         },
         {
             "referencia": [
@@ -40,53 +45,26 @@
                 "6",
                 "10"
             ],
-            "score": 0.95,
+            "score": 0.82,
             "conteudo": "Venha o teu reino, seja feita a tua vontade, assim na terra como no céu; "
         },
         {
             "referencia": [
-                "Hebreus",
-                "13",
-                "15-16"
+                "Salmos",
+                "116",
+                "17"
             ],
-            "score": 0.9,
-            "conteudo": "Portanto, ofereçamos sempre por ele a Deus sacrifício de louvor, isto é, o fruto dos lábios que confessam o seu nome. E não vos esqueçais da beneficência e comunicação, porque com tais sacrifícios Deus se agrada. "
+            "score": 0.8,
+            "conteudo": "Oferecer-te-ei sacrifícios de louvor, e invocarei o nome do Senhor. "
         },
         {
             "referencia": [
                 "Filipenses",
-                "1",
-                "20-21"
+                "2",
+                "13"
             ],
-            "score": 0.9,
-            "conteudo": "Segundo a minha intensa expectação e esperança, de que em nada serei confundido; antes, com toda a confiança, Cristo será, tanto agora como sempre, engrandecido no meu corpo, seja pela vida, seja pela morte. Porque para mim o viver é Cristo, e o morrer é ganho. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "40",
-                "8"
-            ],
-            "score": 0.9,
-            "conteudo": "Deleito-me em fazer a tua vontade, ó Deus meu; sim, a tua lei está dentro do meu coração. "
-        },
-        {
-            "referencia": [
-                "1 Coríntios",
-                "10",
-                "31"
-            ],
-            "score": 0.88,
-            "conteudo": "Portanto, quer comais quer bebais, ou façais outra qualquer coisa, fazei tudo para glória de Deus. "
-        },
-        {
-            "referencia": [
-                "João",
-                "4",
-                "23-24"
-            ],
-            "score": 0.85,
-            "conteudo": "Mas a hora vem, e agora é, em que os verdadeiros adoradores adorarão o Pai em espírito e em verdade; porque o Pai procura a tais que assim o adorem. Deus é Espírito, e importa que os que o adoram o adorem em espírito e em verdade. "
+            "score": 0.78,
+            "conteudo": "Porque Deus é o que opera em vós tanto o querer como o efetuar, segundo a sua boa vontade. "
         }
     ]
 }

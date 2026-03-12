@@ -8,31 +8,37 @@
     "key": "E",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Rápido",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "santidade",
+        "adoração",
+        "gratidão",
+        "glória",
+        "celebrativo"
+    ],
     "url": "https://www.youtube.com/watch?v=w1K6mnPNSmo",
     "chord_chart": "[INTRO 2x]\n.E  |  A/E  |  B/E  |  A/E\n\n[A]\n.E            A/E                                \n SANTO, SANTO, SANTO \n.E             A/E  E\n SANTO, SANTO, SANTO \n.E      G#m  F#m  E       F#m7 Bsus\n SANTO É O   SENHOR, PO DE RO   SO \n\n[B]\n.E              A/E  \n DIGNO DE TODA GLÓRIA \n.E             A/E  \n DIGNO DE TODA HONRA \n.E    G#m  F#m    E   F#m  Bsus    E\n E DE RE -  CE - BER  HOJE   O LOUVOR \n\n[C]\n.D/E     A/E   D/E   A/E     E  ( G# A A# B B D E G )\n LOU  -  VE,  EXALTE AO SENHOR \n.D/E     A/E     D/E  A/E      E  ( G# A A# B G F# E )\n LOU  -  VE, SEU NOME PARA SEMPRE \n.D/E     A/E  D/E   A/E    E  ( G# A A# B E D E G )\n LOU  -  VE, EXALTE AO SENHOR \n.D/E     A/E    D/E   A/E      E \n LOU  -  VE, SEU NOME PARA SEMPRE",
     "verses": [
-        {
-            "referencia": [
-                "Isaias",
-                "6",
-                "3"
-            ],
-            "score": 1.0,
-            "conteudo": "E clamavam uns aos outros, dizendo: Santo, Santo, Santo é o Senhor dos Exércitos; toda a terra está cheia da sua glória. "
-        },
         {
             "referencia": [
                 "Apocalipse",
                 "4",
                 "8"
             ],
-            "score": 1.0,
+            "score": 0.98,
             "conteudo": "E os quatro animais tinham, cada um de per si, seis asas, e ao redor, e por dentro, estavam cheios de olhos; e não descansam nem de dia nem de noite, dizendo: Santo, Santo, Santo, é o Senhor Deus, o Todo-Poderoso, que era, e que é, e que há de vir. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "6",
+                "3"
+            ],
+            "score": 0.95,
+            "conteudo": "E clamavam uns aos outros, dizendo: Santo, Santo, Santo é o Senhor dos Exércitos; toda a terra está cheia da sua glória. "
         },
         {
             "referencia": [
@@ -40,62 +46,8 @@
                 "4",
                 "11"
             ],
-            "score": 1.0,
+            "score": 0.92,
             "conteudo": "Digno és, Senhor, de receber glória, e honra, e poder; porque tu criaste todas as coisas, e por tua vontade são e foram criadas. "
-        },
-        {
-            "referencia": [
-                "Apocalipse",
-                "5",
-                "12"
-            ],
-            "score": 1.0,
-            "conteudo": "Que com grande voz diziam: Digno é o Cordeiro, que foi morto, de receber o poder, e riquezas, e sabedoria, e força, e honra, e glória, e ações de graças. "
-        },
-        {
-            "referencia": [
-                "Apocalipse",
-                "19",
-                "1"
-            ],
-            "score": 0.9,
-            "conteudo": "E, depois destas coisas ouvi no céu uma grande voz de uma grande multidão, que dizia: Aleluia! A salvação, e a glória, e a honra, e o poder pertencem ao Senhor nosso Deus; "
-        },
-        {
-            "referencia": [
-                "1 Crônicas",
-                "16",
-                "29"
-            ],
-            "score": 0.9,
-            "conteudo": "Tributai ao Senhor a glória de seu nome; trazei presentes, e vinde perante ele; adorai ao Senhor na beleza da sua santidade. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "29",
-                "2"
-            ],
-            "score": 0.9,
-            "conteudo": "Dai ao Senhor a glória devida ao seu nome, adorai o Senhor na beleza da santidade. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "96",
-                "8"
-            ],
-            "score": 0.85,
-            "conteudo": "Dai ao Senhor a glória devida ao seu nome; trazei oferenda, e entrai nos seus átrios. "
-        },
-        {
-            "referencia": [
-                "Romanos",
-                "11",
-                "36"
-            ],
-            "score": 0.85,
-            "conteudo": "Porque dele e por ele, e para ele, são todas as coisas; glória, pois, a ele eternamente. Amém. "
         }
     ]
 }

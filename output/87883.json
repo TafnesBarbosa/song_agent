@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/87883/",
+    "id": "87883",
+    "title": "Deus Eu Te Exaltarei",
+    "author": "MercyMe",
+    "notes": "",
+    "year": "",
+    "key": "G",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 115,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "amor",
+        "adoração",
+        "gratidão",
+        "salvação",
+        "celebrativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=U6I6orjM3NI",
+    "chord_chart": "[Intro 4x]\n.G  C9  D  C9 G\n\n[A]\n.G       C9        D           C9        G\n Deus eu te exaltarei (Deus eu te exaltaei)\n.G     C9            D        C9   G\n E pra sempre vou louvar te,\n.G      C9            D    C9   G\n Eu sou grato a ti Senhor,\n.G       C9          D    C9   G\n Pois me deste nova vida\n\n[B]\n.G           C9         D\n Dos céus Jesus veio a nós,\n.    C9     G\n Pra nos guiar,\n.G      C9           D\n Sim da Glória para cruz,\n.     C9    G\n Pra nos salvar,\n.        G          D\n Foi da cruz até a morte,\n.     Em    D/F#    Am\n E da morte  para o céu,\n.       D7           G     C9  D  C9  G\n E pra sempre Rei será!!",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "1"
+            ],
+            "score": 0.98,
+            "conteudo": "Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre. "
+        },
+        {
+            "referencia": [
+                "João",
+                "3",
+                "16"
+            ],
+            "score": 0.92,
+            "conteudo": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna. "
+        },
+        {
+            "referencia": [
+                "2 Coríntios",
+                "5",
+                "17"
+            ],
+            "score": 0.88,
+            "conteudo": "Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "2",
+                "8-9"
+            ],
+            "score": 0.85,
+            "conteudo": "E, achado na forma de homem, humilhou-se a si mesmo, sendo obediente até à morte, e morte de cruz. Por isso, também Deus o exaltou soberanamente, e lhe deu um nome que é sobre todo o nome; "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "103",
+                "1-2"
+            ],
+            "score": 0.82,
+            "conteudo": "Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome. Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "19",
+                "16"
+            ],
+            "score": 0.8,
+            "conteudo": "E no manto e na sua coxa tem escrito este nome: Rei dos reis, e Senhor dos senhores. "
+        }
+    ]
+}

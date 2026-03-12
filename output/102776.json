@@ -8,11 +8,17 @@
     "key": "C",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 105,
+    "feel": "Médio",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "soberania",
+        "adoração",
+        "gratidão",
+        "poder",
+        "celebrativo"
+    ],
     "url": "https://www.youtube.com/watch?v=iPlQjRCfzOs",
     "chord_chart": "[A]\n.   G\n Ó DEUS TÚ ÉS O MEU DEUS FORTE\n.   Em        Em/D                Am\n A MINHA FORTALEZA, MINH’ALMA TEM SEDE\n.   D     Em7  D/F#\n DE TI SENHOR\n.     G                   Em           Em/D\n COM JÚBILO NOS LÁBIOS TE LOUVO Ó MEU REI\n.                Am                C/D  D\n DEBAIXO DE TUAS ASAS ENCONTRO UM ABRIGO\n\n[B]\n.C           D/C        Bm         B    Em7       Am\n  TE LOUVO E TE BENDIGO    PORQUE ÉS BENDITO Ó SENHOR\n.     C/D           Em   Em7\n  GLÓRIAS AO DEUS ETERNO\n.C           D/C        Bm        B   Em7        Am\n  TE LOUVO E TE BENDIGO   PORQUE ÉS COMIGO  Ó SENHOR\n.     C/D           Em   Em7\n  GLÓRIAS AO DEUS ETERNO\n.C          D/C         G        D/F#        Em7       Am\n  TE LOUVO E TE BENDIGO   PORQUE SEMPRE ÉS COMIGO Ó SENHOR\n.     C/D\n  GLÓRIAS AO DEUS\n\n[C]\n.  G    Em    m/D           Am\n ETERNO,  ETERNO, AO DEUS ETERNO\n. D  Em D/F#   G\n GLÓ_________RIAS",
     "verses": [
@@ -22,26 +28,17 @@
                 "63",
                 "1"
             ],
-            "score": 0.98,
+            "score": 0.95,
             "conteudo": "O Deus, tu és o meu Deus, de madrugada te buscarei; a minha alma tem sede de ti; a minha carne te deseja muito em uma terra seca e cansada, onde não há água; "
         },
         {
             "referencia": [
                 "Salmos",
-                "42",
-                "2"
+                "63",
+                "7"
             ],
-            "score": 0.95,
-            "conteudo": "A minha alma tem sede de Deus, do Deus vivo; quando entrarei e me apresentarei ante a face de Deus? "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "57",
-                "1"
-            ],
-            "score": 0.95,
-            "conteudo": "Tem misericórdia de mim, ó Deus, tem misericórdia de mim, porque a minha alma confia em ti; e à sombra das tuas asas me abrigo, até que passem as calamidades. "
+            "score": 0.9,
+            "conteudo": "Porque tu tens sido o meu auxílio; então, à sombra das tuas asas me regozijarei. "
         },
         {
             "referencia": [
@@ -49,62 +46,26 @@
                 "18",
                 "2"
             ],
-            "score": 0.9,
+            "score": 0.85,
             "conteudo": "O Senhor é o meu rochedo, e o meu lugar forte, e o meu libertador; o meu Deus, a minha fortaleza, em quem confio; o meu escudo, a força da minha salvação, e o meu alto refúgio. "
         },
         {
             "referencia": [
                 "Salmos",
-                "63",
-                "4-5"
-            ],
-            "score": 0.9,
-            "conteudo": "Assim eu te bendirei enquanto viver; em teu nome levantarei as minhas mãos. A minha alma se fartará, como de tutano e de gordura; e a minha boca te louvará com alegres lábios, "
-        },
-        {
-            "referencia": [
-                "Isaías",
-                "41",
-                "10"
-            ],
-            "score": 0.9,
-            "conteudo": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça. "
-        },
-        {
-            "referencia": [
-                "1 Crônicas",
-                "29",
-                "10-11"
-            ],
-            "score": 0.9,
-            "conteudo": "Por isso Davi louvou ao Senhor na presença de toda a congregação; e disse Davi: Bendito és tu, Senhor Deus de Israel, nosso pai, de eternidade em eternidade. Tua é, Senhor, a magnificência, e o poder, e a honra, e a vitória, e a majestade; porque teu é tudo quanto há nos céus e na terra; teu é, Senhor, o reino, e tu te exaltaste por cabeça sobre todos. "
-        },
-        {
-            "referencia": [
-                "Mateus",
-                "28",
-                "20"
-            ],
-            "score": 0.88,
-            "conteudo": "Ensinando-os a guardar todas as coisas que eu vos tenho mandado; e eis que eu estou convosco todos os dias, até a consumação dos séculos. Amém. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "46",
+                "145",
                 "1"
             ],
-            "score": 0.85,
-            "conteudo": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. "
+            "score": 0.8,
+            "conteudo": "Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre. "
         },
         {
             "referencia": [
                 "Salmos",
-                "90",
-                "2"
+                "91",
+                "1"
             ],
-            "score": 0.8,
-            "conteudo": "Antes que os montes nascessem, ou que tu formasses a terra e o mundo, mesmo de eternidade a eternidade, tu és Deus. "
+            "score": 0.78,
+            "conteudo": "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará. "
         }
     ]
 }

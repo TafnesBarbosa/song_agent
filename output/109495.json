@@ -1,0 +1,62 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/109495/",
+    "id": "109495",
+    "title": "Abra os Olhos do Meu Coração",
+    "author": "David Quinlan",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 100,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "santidade",
+        "adoração",
+        "contemplativo",
+        "presença",
+        "glória"
+    ],
+    "url": "https://www.youtube.com/watch?v=DRmzDXXPLhA",
+    "chord_chart": "[Intro]\n.E    |  E   |  B/D#  |  B/D#   |\n.C#m  |  A   |  E     |  E4  E  |\n\n[A 2x]\n.E9            \n ABRA OS OLHOS DO MEU CORAÇÃO, \n.B/D#\n ABRA OS OLHOS DO MEU CORAÇÃO\n.         C#m  A            E9         E4 E\n QUERO TE VER,    QUERO TE VER, SENHOR   \n\n[B]\n.    B9         C#m\n EXALTADO E BEM ALTO\n.    A                   B4\n BRILHANDO A LUZ DA TUA GLÓRIA\n.   B4                C#m\n DERRAMA TEU AMOR E PODER \n.           F#m    G#m     B9\n POIS TU ÉS  SANTO, SANTO, SANTO\n\n[A 2x...]\n[B 2x...]\n\n[C 4x]\n.      E9\n TU ÉS SANTO, SANTO, SANTO!\n.B/D#\n SANTO, SANTO, SANTO!\n.C#m            A    \n SANTO, SANTO, SANTO!\n.          E9         E4  E\n QUERO TE VER, SENHOR!",
+    "verses": [
+        {
+            "referencia": [
+                "Efésios",
+                "1",
+                "18"
+            ],
+            "score": 0.85,
+            "conteudo": "Tendo iluminados os olhos do vosso entendimento, para que saibais qual seja a esperança da sua vocação, e quais as riquezas da glória da sua herança nos santos; "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "27",
+                "4"
+            ],
+            "score": 0.82,
+            "conteudo": "Uma coisa pedi ao Senhor, e a buscarei: que possa morar na casa do Senhor todos os dias da minha vida, para contemplar a formosura do Senhor, e inquirir no seu templo. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "4",
+                "8"
+            ],
+            "score": 0.8,
+            "conteudo": "E os quatro animais tinham, cada um de per si, seis asas, e ao redor, e por dentro, estavam cheios de olhos; e não descansam nem de dia nem de noite, dizendo: Santo, Santo, Santo, é o Senhor Deus, o Todo-Poderoso, que era, e que é, e que há de vir. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "6",
+                "3"
+            ],
+            "score": 0.78,
+            "conteudo": "E clamavam uns aos outros, dizendo: Santo, Santo, Santo é o Senhor dos Exércitos; toda a terra está cheia da sua glória. "
+        }
+    ]
+}

@@ -2,17 +2,23 @@
     "songlib_url": "https://songlib.com/songs/4297/95352/",
     "id": "95352",
     "title": "Em Todo o Tempo",
-    "author": "",
+    "author": "Vencedores Por Cristo",
     "notes": "",
     "year": "",
     "key": "A",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Rápido",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "glória",
+        "adoração",
+        "gratidão",
+        "alegre",
+        "presença"
+    ],
     "url": "https://youtube.com/clip/UgkxrsL1kbh7p8R3ABjS9np5bWYuhqbcKl0Q",
     "chord_chart": "[Intro]\n.Am  (C/G)  D/F#   Fmaj7   E7\n\n[A - 2x]\n.        Am            D/F#\n EM TODO TEMPO EU LOUVAREI AO SENHOR\n.          Fmaj7               E7\n SEMPRE ESTARÁ NOS MEUS LABIOS O SEU LOUVOR\n\n[B]\n.    F              G           Am\n ALEGRAR-SE-Á NO SENHOR A MINHA ALMA\n.    F              G           Am    (E7)\n ALEGRAR-SE-Á NO SENHOR A MINHA ALMA\n\n[C - 2x]\n.        Am                     D/F#\n ENGRANDECEI AO SENHOR, ENGRANDECEI-O COMIGO\n.  Fmaj7                 E7\n E TODOS, A UMA, LHE EXALTEMOS O NOME\n\n[D]\n.      F  G        Am\n SEU  GLO___RIOSO  NOME\n.      F  G        Am\n SEU  GLO___RIOSO  NOME\n \n[Final]\n.      F  G         A\n SEU  GLO___RIOSO  NOME",
     "verses": [
@@ -22,89 +28,35 @@
                 "34",
                 "1"
             ],
-            "score": 1.0,
+            "score": 0.98,
             "conteudo": "Louvarei ao SENHOR em todo o tempo; o seu louvor estará continuamente na minha boca. "
         },
         {
             "referencia": [
-                "Filipenses",
-                "4",
-                "4"
+                "Salmos",
+                "34",
+                "3"
             ],
             "score": 0.95,
-            "conteudo": "Regozijai-vos sempre no Senhor; outra vez digo, regozijai-vos. "
+            "conteudo": "Engrandecei ao Senhor comigo; e juntos exaltemos o seu nome. "
         },
         {
             "referencia": [
-                "Hebreus",
-                "13",
-                "15"
+                "Salmos",
+                "35",
+                "9"
             ],
-            "score": 0.95,
-            "conteudo": "Portanto, ofereçamos sempre por ele a Deus sacrifício de louvor, isto é, o fruto dos lábios que confessam o seu nome. "
+            "score": 0.88,
+            "conteudo": "E a minha alma se alegrará no Senhor; alegrar-se-á na sua salvação. "
         },
         {
             "referencia": [
                 "Salmos",
                 "145",
-                "1-2"
-            ],
-            "score": 0.9,
-            "conteudo": "Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre. Cada dia te bendirei, e louvarei o teu nome pelos séculos dos séculos e para sempre. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "145",
-                "21"
-            ],
-            "score": 0.9,
-            "conteudo": "A minha boca falará o louvor do Senhor, e toda a carne louvará o seu santo nome pelos séculos dos séculos e para sempre. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "69",
-                "30"
-            ],
-            "score": 0.85,
-            "conteudo": "Louvarei o nome de Deus com um cântico, e engrandecê-lo-ei com ação de graças. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "71",
-                "8"
-            ],
-            "score": 0.85,
-            "conteudo": "Encha-se a minha boca do teu louvor e da tua glória todo o dia. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "104",
-                "33"
-            ],
-            "score": 0.85,
-            "conteudo": "Cantarei ao Senhor enquanto eu viver; cantarei louvores ao meu Deus, enquanto eu tiver existência. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "33",
                 "1"
             ],
-            "score": 0.8,
-            "conteudo": "Regozijai-vos no SENHOR, vós justos, pois aos retos convém o louvor. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "103",
-                "1"
-            ],
-            "score": 0.8,
-            "conteudo": "Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome. "
+            "score": 0.85,
+            "conteudo": "Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre. "
         }
     ]
 }

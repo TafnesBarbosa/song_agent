@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/87478/",
+    "id": "87478",
+    "title": "Firmeza na Fé (Em Nada Ponho a Minha Fé)",
+    "author": "Cantor Cristão / IPALPHA",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "3/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "graça",
+        "redenção",
+        "adoração",
+        "confiança",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=w_T_fG30TFw",
+    "chord_chart": "[INTRO]\n       𝅘𝅥          𝅘𝅥         𝅘𝅥\n.| E  C#m7 | B  E/G# |  A  B  || E ||\n\n[A1]\n.         E     C#m7    B   E/G#    A     B    E\n EM NADA PONHO A MINHA FÉ SENÃO NA GRAÇA DE JESUS;\n.             C#m7  B     E/G#    A       B    E\n NO SACRIFÍCIO REMIDOR, NO SANGUE DO BOM REDENTOR.\n \n[B]\n.         E      A                 E   C#m7    B\n A MINHA FÉ E O MEU AMOR ESTÃO FIRMADOS NO SENHOR;\n.         E/G#  A    B     E\n ESTÃO FIR_MA__DOS  NO SENHOR.\n \n[A2]\n SE LHE NÃO POSSO A FACE VER, NA SUA GRAÇA VOU VIVER.\n EM CADA TRANSE, SEM FALHAR, SEMPRE HEI DE NELE CONFIAR.\n \n[A3]\n SEU JURAMENTO É MUI LEAL, ABRIGA-ME NO TEMPORAL;\n O VIR CERCAR-ME A TENTAÇÃO, É CRISTO A MINHA SALVAÇÃO.\n \n[A4]\n ASSIM QUE O SEU CLARIM SOAR, IREI COM ELE ME ENCONTRAR;\n E GOZAREI DA REDENÇÃO COM TODOS QUE NO CÉU ESTÃO.",
+    "verses": [
+        {
+            "referencia": [
+                "Efésios",
+                "2",
+                "8-9"
+            ],
+            "score": 0.98,
+            "conteudo": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. Não vem das obras, para que ninguém se glorie; "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "18",
+                "2"
+            ],
+            "score": 0.92,
+            "conteudo": "O Senhor é o meu rochedo, e o meu lugar forte, e o meu libertador; o meu Deus, a minha fortaleza, em quem confio; o meu escudo, a força da minha salvação, e o meu alto refúgio. "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "11",
+                "1"
+            ],
+            "score": 0.9,
+            "conteudo": "Ora, a fé é o firme fundamento das coisas que se esperam, e a prova das coisas que se não vêem. "
+        },
+        {
+            "referencia": [
+                "1 Pedro",
+                "1",
+                "18-19"
+            ],
+            "score": 0.88,
+            "conteudo": "Sabendo que não foi com coisas corruptíveis, como prata ou ouro, que fostes resgatados da vossa vã maneira de viver que por tradição recebestes dos vossos pais, Mas com o precioso sangue de Cristo, como de um cordeiro imaculado e incontaminado, "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "7",
+                "24-25"
+            ],
+            "score": 0.85,
+            "conteudo": "Todo aquele, pois, que escuta estas minhas palavras, e as pratica, assemelhá-lo-ei ao homem prudente, que edificou a sua casa sobre a rocha; E desceu a chuva, e correram rios, e assopraram ventos, e combateram aquela casa, e não caiu, porque estava edificada sobre a rocha. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "62",
+                "2"
+            ],
+            "score": 0.82,
+            "conteudo": "Só ele é a minha rocha e a minha salvação; é a minha defesa; não serei grandemente abalado. "
+        }
+    ]
+}

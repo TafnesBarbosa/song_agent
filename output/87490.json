@@ -10,38 +10,53 @@
     "copyright": "",
     "time_sig": "6/8",
     "tempo": "157",
-    "feel": "",
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "redentor",
+        "adoração",
+        "gratidão",
+        "contemplativo",
+        "amor"
+    ],
     "url": "https://www.youtube.com/watch?v=LqaP7w4g4kw",
     "chord_chart": "[INTRO]\n.C    C4\n\n[A1]\n.C        C4    C       Em7         F        G4\n Salvador maravilhoso, Deus que tomou meu lugar,\n.Am        Am/G           F\n Cordeiro entregue ao Calvário,\n.C/G        G     Am    F\n Morto pra nos salvar,  ô, ô, ô\n.C/G        G      C   C4   C  C4\n Morto pra nos salvar\n \n[A2]\n.C      C4         C      Em7          F      G4   G\n Consolador, Conselheiro, Deus que me vem abraçar,\n.Am        Am/G     F\n Na noite escura da alma\n.C/G         G     Am  F\n Tu vens comigo andar, ô, ô, ô\n.C/G       G    C    E7\n Tu vens comigo andar\n \n[B]\n.Am       Am/G     F   G\n Por isso nós te adoramos,\n.Am      Am/G       F  G\n Por isso vamos louvar,\n.Am         Am/G       F\n Pois desta graça que sara\n.C/G         G   Am   F\n Só tu nos pode dar,  ô, ô, ô\n.C/G        G    C    G/A\n Só tu nos pode dar\n \n[C]\n.D                        F#m7          G         A4 A\n Pai poderoso e infinito,  Deus que não cansa de amar,\n.Bm       Bm/A       G7M\n Em meio à nossas fraquezas\n.D/A        A     Bm   G\n Nós vamos te buscar,  ô, ô, ô\n.D/A       A    D      ( F#7 )\n Nós vamos te buscar\n\n[D]\n.Bm       Bm/A     G   A\n Por isso nós te adoramos,\n.Bm      Bm/A       G  A\n Por isso vamos louvar,\n.Bm         Bm/A       G\n Pois desta graça que sara\n.D/A         A   Bm   G\n Só tu nos pode dar,  ô, ô, ô\n.D/A        A    D\n Só tu nos pode dar",
     "verses": [
         {
             "referencia": [
                 "Isaías",
-                "53",
-                "5"
+                "9",
+                "6"
             ],
-            "score": 0.98,
-            "conteudo": "Mas ele foi ferido por causa das nossas transgressões, e moído por causa das nossas iniqüidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados. "
-        },
-        {
-            "referencia": [
-                "1 Pedro",
-                "2",
-                "24"
-            ],
-            "score": 0.97,
-            "conteudo": "Levando ele mesmo em seu corpo os nossos pecados sobre o madeiro, para que, mortos para os pecados, pudéssemos viver para a justiça; e pelas suas feridas fostes sarados. "
+            "score": 0.92,
+            "conteudo": "Porque um menino nos nasceu, um filho se nos deu, e o principado está sobre os seus ombros, e se chamará o seu nome: Maravilhoso, Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da Paz. "
         },
         {
             "referencia": [
                 "João",
-                "14",
-                "16-18"
+                "1",
+                "29"
             ],
-            "score": 0.95,
-            "conteudo": "E eu rogarei ao Pai, e ele vos dará outro Consolador, para que fique convosco para sempre; O Espírito de verdade, que o mundo não pode receber, porque não o vê nem o conhece; mas vós o conheceis, porque habita convosco, e estará em vós. Não vos deixarei órfãos; voltarei para vós. "
+            "score": 0.88,
+            "conteudo": "No dia seguinte João viu a Jesus, que vinha para ele, e disse: Eis o Cordeiro de Deus, que tira o pecado do mundo. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "53",
+                "5"
+            ],
+            "score": 0.85,
+            "conteudo": "Mas ele foi ferido por causa das nossas transgressões, e moído por causa das nossas iniqüidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados. "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "4",
+                "15"
+            ],
+            "score": 0.82,
+            "conteudo": "Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; porém, um que, como nós, em tudo foi tentado, mas sem pecado. "
         },
         {
             "referencia": [
@@ -49,7 +64,7 @@
                 "23",
                 "4"
             ],
-            "score": 0.93,
+            "score": 0.8,
             "conteudo": "Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam. "
         },
         {
@@ -58,53 +73,8 @@
                 "5",
                 "8"
             ],
-            "score": 0.92,
+            "score": 0.78,
             "conteudo": "Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores. "
-        },
-        {
-            "referencia": [
-                "1 João",
-                "4",
-                "8"
-            ],
-            "score": 0.92,
-            "conteudo": "Aquele que não ama não conhece a Deus; porque Deus é amor. "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "2",
-                "8-9"
-            ],
-            "score": 0.9,
-            "conteudo": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. Não vem das obras, para que ninguém se glorie; "
-        },
-        {
-            "referencia": [
-                "Apocalipse",
-                "5",
-                "12"
-            ],
-            "score": 0.88,
-            "conteudo": "Que com grande voz diziam: Digno é o Cordeiro, que foi morto, de receber o poder, e riquezas, e sabedoria, e força, e honra, e glória, e ações de graças. "
-        },
-        {
-            "referencia": [
-                "Romanos",
-                "8",
-                "26"
-            ],
-            "score": 0.87,
-            "conteudo": "E da mesma maneira também o Espírito ajuda as nossas fraquezas; porque não sabemos o que havemos de pedir como convém, mas o mesmo Espírito intercede por nós com gemidos inexprimíveis. "
-        },
-        {
-            "referencia": [
-                "Isaías",
-                "40",
-                "28-29"
-            ],
-            "score": 0.85,
-            "conteudo": "Não sabes, não ouviste que o eterno Deus, o Senhor, o Criador dos fins da terra, nem se cansa nem se fatiga? É inescrutável o seu entendimento. Dá força ao cansado, e multiplica as forças ao que não tem nenhum vigor. "
         }
     ]
 }

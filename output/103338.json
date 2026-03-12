@@ -8,103 +8,73 @@
     "key": "C",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "redenção",
+        "adoração",
+        "gratidão",
+        "esperança",
+        "contemplativo"
+    ],
     "url": "https://www.youtube.com/watch?v=EY3cIar-JU0",
     "chord_chart": "[Intro]\n.F | G | Am | G |\n\n[A]\n.       C           F        G          C\n Tanto tempo fui vazio numa vida sem temor\n.         C              F           G             C\n Pra minh’alma achei descanso só na cruz do meu Senhor\n.      F             C            F           G\n Eu vaguei na escuridão, sem Tua luz pra me guiar\n.       C            F                G         C  C4  C\n Me chamou pra perto de Ti Pra minha culpa aliviar\n\n[Refrão]\n.      F         C             G             Am  ( G )\n Só em Ti, só em Ti, graça e amor fluem por mim\n.      F          C        F       G       F  |  G  |  Am  |  G  |\n Só em Ti, só em Ti, acho paz, descanso enfim\n\n[B]\n.       C                F           G          C\n Só em Ti minha fé se firma, só em Cristo Salvador\n.           C           F           G        C\n Sei que então fui perdoado na Tua obra de amor\n.      F             C            F           G\n E eu sei que me sustentas, nada vai nos separar\n.        C          F               G              C\n Me asseguro nessa graça. Aos Seus pés eu quero estar\n\n[Refrão...]\n\n[Interlúdio]\n.      G       Am  |  F  |  C  |  G  |  Am  |  F  |  C  | G |\n ...descanso enfim\n\n[C]\n.Am         F   C            G\n  Encontro paz    Descanso enfim\n.Am         F   C            G           Am\n  Encontro ali    Minha esperança pra viver\n  \n[D - 2x]\n.          F         C                G         Am\n Encontro paz (só em Ti)  Descanso enfim (só em Ti)\n.          F         C                G           Am\n Encontro ali (só em Ti)  Minha esperança pra viver\n \n[Interlúdio 2x]\n.Am | F | C | G |\n\n[Refrão 2x...]\n[Fine]\n.     F        G      Am\n Acho paz, descanso enfim (2x)\n.     F        G      C\n Acho paz, descanso enfim",
     "verses": [
+        {
+            "referencia": [
+                "Mateus",
+                "11",
+                "28"
+            ],
+            "score": 0.98,
+            "conteudo": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "2",
+                "8-9"
+            ],
+            "score": 0.92,
+            "conteudo": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. Não vem das obras, para que ninguém se glorie; "
+        },
         {
             "referencia": [
                 "Romanos",
                 "8",
                 "38-39"
             ],
-            "score": 0.98,
+            "score": 0.88,
             "conteudo": "Porque estou certo de que, nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir, Nem a altura, nem a profundidade, nem alguma outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor. "
         },
         {
             "referencia": [
-                "Mateus",
-                "11",
-                "28-29"
+                "João",
+                "14",
+                "6"
             ],
-            "score": 0.96,
-            "conteudo": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei. Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para as vossas almas. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "62",
-                "1"
-            ],
-            "score": 0.92,
-            "conteudo": "A minha alma espera somente em Deus; dele vem a minha salvação. "
+            "score": 0.85,
+            "conteudo": "Disse-lhe Jesus: Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por mim. "
         },
         {
             "referencia": [
                 "Colossenses",
                 "1",
-                "20"
-            ],
-            "score": 0.9,
-            "conteudo": "E que, havendo por ele feito a paz pelo sangue da sua cruz, por meio dele reconciliasse consigo mesmo todas as coisas, tanto as que estão na terra, como as que estão nos céus. "
-        },
-        {
-            "referencia": [
-                "João",
-                "8",
-                "12"
-            ],
-            "score": 0.88,
-            "conteudo": "Falou-lhes, pois, Jesus outra vez, dizendo: Eu sou a luz do mundo; quem me segue não andará em trevas, mas terá a luz da vida. "
-        },
-        {
-            "referencia": [
-                "João",
-                "16",
-                "33"
-            ],
-            "score": 0.87,
-            "conteudo": "Tenho-vos dito isto, para que em mim tenhais paz; no mundo tereis aflições, mas tende bom ânimo, eu venci o mundo. "
-        },
-        {
-            "referencia": [
-                "Atos",
-                "4",
-                "12"
-            ],
-            "score": 0.85,
-            "conteudo": "E em nenhum outro há salvação, porque também debaixo do céu nenhum outro nome há, dado entre os homens, pelo qual devamos ser salvos. "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "1",
-                "7"
-            ],
-            "score": 0.84,
-            "conteudo": "Em quem temos a redenção pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua graça, "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "55",
-                "22"
+                "13-14"
             ],
             "score": 0.82,
-            "conteudo": "Lança o teu cuidado sobre o Senhor, e ele te susterá; não permitirá jamais que o justo seja abalado. "
+            "conteudo": "O qual nos tirou da potestade das trevas, e nos transportou para o reino do Filho do seu amor; Em quem temos a redenção pelo seu sangue, a saber, a remissão dos pecados; "
         },
         {
             "referencia": [
-                "1 Coríntios",
-                "3",
-                "11"
+                "Hebreus",
+                "12",
+                "2"
             ],
             "score": 0.8,
-            "conteudo": "Porque ninguém pode pôr outro fundamento além do que já está posto, o qual é Jesus Cristo. "
+            "conteudo": "Olhando para Jesus, autor e consumador da fé, o qual, pelo gozo que lhe estava proposto, suportou a cruz, desprezando a afronta, e assentou-se à destra do trono de Deus. "
         }
     ]
 }

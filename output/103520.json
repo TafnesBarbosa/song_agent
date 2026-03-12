@@ -8,11 +8,17 @@
     "key": "B",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 100,
+    "feel": "Médio",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "soberania",
+        "adoração",
+        "gratidão",
+        "solene",
+        "poder"
+    ],
     "url": "https://www.youtube.com/watch?v=JYOGKVZ7ltU",
     "chord_chart": "[Intro]\n.B  |  B  |  B  |  B\n[A]\n.B9                       B9   G#m                 E  B\n   CASTELO FORTE É NOSSO DEUS,     ESPADA E BOM ESCU_DO! \n.B9                              G#m                 E B\n   COM SEU PODER DEFENDE OS SEUS    EM TODO TRANSE AGU_DO. \n.G#m7              B               G#m7 \n   COM FÚRIA PERTINAZ PERSEGUE SATANÁS\n.           B              E            D#m7 \n   COM ÂNIMO CRUEL! MUI FORTE É O DEUS FIEL, \n.E           F#       B\n   IGUAL NÃO HÁ NA TERRA\n\n[Interlúdio 2x]\n.B   E  G#m  |  E  B\n O   o   o      o  o \n[B]\n.B9                           G#m                 E  B\n   A FORÇA DO HOMEM NADA FAZ,    SOZINHO ESTÁ PERDI_DO! \n.B9                           G#m                  E  B \n   MAS NOSSO DEUS SOCORRO TRAZ   EM SEU FILHO ESCOLHI_DO. \n.G#m7                B                    G#m7 \n   SABEIS QUEM É? JESUS, O QUE VENCEU NA CRUZ, \n.G#m7                B       E              D#m7 \n   SENHOR DOS ALTOS CÉUS, E SENDO O PRÓPRIO DEUS, \n.E         F#      B\n   TRIUNFA NA BATALHA.\n[Interlúdio 2x...]\n[C]\n.B9                         G#m                 E  B \n   SE NOS QUISESSEM DEVORAR    DEMÔNIOS NÃO CONTA_DOS, \n.B9                       G#m                  E  B \n   NÃO NOS IRIAM DERROTAR    NEM VER-NOS ASSUSTA_DOS. \n.G#m7          B                      G#m7 \n   O PRÍNCIPE DO MAL, COM SEU PLANO INFERNAL, \n.G#m7           B         E     D#m7 \n   JÁ CONDENADO ESTÁ! VENCIDO CAIRÁ \n.E            F#  B\n   POR UMA SÓ PALAVRA.\n[Interlúdio 2x...]\n[D]\n.B9                       G#m                E  B \n   DE DEUS O VERBO FICARÁ,   SABEMOS COM CERTE_ZA, \n.B9                     G#m                  E  B \n   E NADA NOS ASSUSTARÁ    COM CRISTO POR DEFE_SA! \n.G#m7            B                   G#m7 \n   SE TEMOS DE PERDER FAMÍLIA, BENS, PRAZER! \n.G#m7          B        E              D#m7 \n   SE TUDO SE ACABAR  E A MORTE ENFIM CHEGAR, \n.E            F#  B\n   COM ELE REINAREMOS\n[Interlúdio 2x...]\n.B                E    G#m7                  E   B \n CASTELO FORTE É NOSSO DEUS  (COM ELE REINAREMOS)   4X",
     "verses": [
@@ -20,10 +26,10 @@
             "referencia": [
                 "Salmos",
                 "46",
-                "1"
+                "1-3"
             ],
             "score": 0.98,
-            "conteudo": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. "
+            "conteudo": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. Portanto não temeremos, ainda que a terra se mude, e ainda que os montes se transportem para o meio dos mares. Ainda que as águas rujam e se perturbem, ainda que os montes se abalem pela sua braveza. (Selá.) "
         },
         {
             "referencia": [
@@ -31,8 +37,53 @@
                 "18",
                 "2"
             ],
-            "score": 0.98,
+            "score": 0.95,
             "conteudo": "O Senhor é o meu rochedo, e o meu lugar forte, e o meu libertador; o meu Deus, a minha fortaleza, em quem confio; o meu escudo, a força da minha salvação, e o meu alto refúgio. "
+        },
+        {
+            "referencia": [
+                "João",
+                "16",
+                "33"
+            ],
+            "score": 0.92,
+            "conteudo": "Tenho-vos dito isto, para que em mim tenhais paz; no mundo tereis aflições, mas tende bom ânimo, eu venci o mundo. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "6",
+                "10-17"
+            ],
+            "score": 0.88,
+            "conteudo": "No demais, irmãos meus, fortalecei-vos no Senhor e na força do seu poder. Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo. Porque não temos que lutar contra a carne e o sangue, mas, sim, contra os principados, contra as potestades, contra os príncipes das trevas deste século, contra as hostes espirituais da maldade, nos lugares celestiais. Portanto, tomai toda a armadura de Deus, para que possais resistir no dia mau e, havendo feito tudo, ficar firmes. Estai, pois, firmes, tendo cingidos os vossos lombos com a verdade, e vestida a couraça da justiça; E calçados os pés na preparação do evangelho da paz; Tomando sobretudo o escudo da fé, com o qual podereis apagar todos os dardos inflamados do maligno. Tomai também o capacete da salvação, e a espada do Espírito, que é a palavra de Deus; "
+        },
+        {
+            "referencia": [
+                "1 João",
+                "4",
+                "4"
+            ],
+            "score": 0.85,
+            "conteudo": "Filhinhos, sois de Deus, e já os tendes vencido; porque maior é o que está em vós do que o que está no mundo. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "12",
+                "9-11"
+            ],
+            "score": 0.82,
+            "conteudo": "E foi precipitado o grande dragão, a antiga serpente, chamada o Diabo, e Satanás, que engana todo o mundo; ele foi precipitado na terra, e os seus anjos foram lançados com ele. E ouvi uma grande voz no céu, que dizia: Agora é chegada a salvação, e a força, e o reino do nosso Deus, e o poder do seu Cristo; porque já o acusador de nossos irmãos é derrubado, o qual diante do nosso Deus os acusava de dia e de noite. E eles o venceram pelo sangue do Cordeiro e pela palavra do seu testemunho; e não amaram as suas vidas até à morte. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "8",
+                "37-39"
+            ],
+            "score": 0.8,
+            "conteudo": "Mas em todas estas coisas somos mais do que vencedores, por aquele que nos amou. Porque estou certo de que, nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir, Nem a altura, nem a profundidade, nem alguma outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor. "
         },
         {
             "referencia": [
@@ -40,62 +91,26 @@
                 "2",
                 "15"
             ],
-            "score": 0.97,
+            "score": 0.78,
             "conteudo": "E, despojando os principados e potestades, os expôs publicamente e deles triunfou em si mesmo. "
         },
         {
             "referencia": [
-                "2 Timóteo",
+                "Salmos",
+                "91",
+                "1-4"
+            ],
+            "score": 0.77,
+            "conteudo": "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará. Direi do Senhor: Ele é o meu Deus, o meu refúgio, a minha fortaleza, e nele confiarei. Porque ele te livrará do laço do passarinheiro, e da peste perniciosa. Ele te cobrirá com as suas penas, e debaixo das suas asas te confiarás; a sua verdade será o teu escudo e broquel. "
+        },
+        {
+            "referencia": [
+                "Hebreus",
                 "2",
-                "12"
+                "14-15"
             ],
-            "score": 0.97,
-            "conteudo": "Se sofrermos, também com ele reinaremos; se o negarmos, também ele nos negará; "
-        },
-        {
-            "referencia": [
-                "Romanos",
-                "8",
-                "38-39"
-            ],
-            "score": 0.96,
-            "conteudo": "Porque estou certo de que, nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir, Nem a altura, nem a profundidade, nem alguma outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor. "
-        },
-        {
-            "referencia": [
-                "Provérbios",
-                "18",
-                "10"
-            ],
-            "score": 0.95,
-            "conteudo": "Torre forte é o nome do Senhor; a ela correrá o justo, e estará em alto refúgio. "
-        },
-        {
-            "referencia": [
-                "João",
-                "15",
-                "5"
-            ],
-            "score": 0.95,
-            "conteudo": "Eu sou a videira, vós as varas; quem está em mim, e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer. "
-        },
-        {
-            "referencia": [
-                "1 João",
-                "3",
-                "8"
-            ],
-            "score": 0.95,
-            "conteudo": "Quem comete o pecado é do diabo; porque o diabo peca desde o princípio. Para isto o Filho de Deus se manifestou: para desfazer as obras do diabo. "
-        },
-        {
-            "referencia": [
-                "Mateus",
-                "24",
-                "35"
-            ],
-            "score": 0.95,
-            "conteudo": "O céu e a terra passarão, mas as minhas palavras não hão de passar. "
+            "score": 0.76,
+            "conteudo": "E, visto como os filhos participam da carne e do sangue, também ele participou das mesmas coisas, para que pela morte aniquilasse o que tinha o império da morte, isto é, o diabo; E livrasse todos os que, com medo da morte, estavam por toda a vida sujeitos à servidão. "
         }
     ]
 }

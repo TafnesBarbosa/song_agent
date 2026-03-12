@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/102617/",
+    "id": "102617",
+    "title": "Jesus Em Tua Presença",
+    "author": "Quatro Por Um",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 100,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "adoração",
+        "presença",
+        "redentor",
+        "salvação",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=vjGpTmT32X0",
+    "chord_chart": "[A]\n.   E             A9       B          E\n Jesus em tua presença reunimo-nos aqui\n.        E         A9      B          E  B/D#\n Contemplamos tua face rendemo-nos a ti\n.         C#m7      G#m7         A9           E\n Pois um dia a tua morte trouxe vida a todos nós\n.       E             A9       B\n E nos deu completo acesso ao coração do pai\n \n[Intro]\n.E | A9 | E | A9 |\n\n[A...]\n\n[Passagem]\n.    B          E  B/D#\n ...coração do pai\n\n[B]\n.   C#m7        G#m7    A9    B    C#m7\n O véu que separava já não separa mais\n.   C#m7           G#m7      A9\n A luz que outrora apagada agora brilha\n.   B               C#4 C#\n E cada dia brilha mais\n\n[Refrão]\n. A9     B     E  B/D#  C#m7 B9\n Só pra te adorar\n.     A9      B9  ( C#m7 B/D#  E ) B\n E fazer Teu nome grande\n.A9    B        E      B/D# F#\n E te dar o louvor que é devido\n.   A9    B   E\n Estamos nós aqui\n \n[Intro...]\n[A...]\n[B...]\n[Refrão...]\n\n[B...]\n[Refrão...]\n[Intro...]",
+    "verses": [
+        {
+            "referencia": [
+                "Hebreus",
+                "10",
+                "19-22"
+            ],
+            "score": 0.95,
+            "conteudo": "Tendo, pois, irmãos, ousadia para entrar no santuário, pelo sangue de Jesus, Pelo novo e vivo caminho que ele nos consagrou, pelo véu, isto é, pela sua carne, E tendo um grande sacerdote sobre a casa de Deus, Cheguemo-nos com verdadeiro coração, em inteira certeza de fé, tendo os corações purificados da má consciência, e o corpo lavado com água limpa, "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "27",
+                "51"
+            ],
+            "score": 0.9,
+            "conteudo": "E eis que o véu do templo se rasgou em dois, de alto a baixo; e tremeu a terra, e fenderam-se as pedras; "
+        },
+        {
+            "referencia": [
+                "João",
+                "14",
+                "6"
+            ],
+            "score": 0.85,
+            "conteudo": "Disse-lhe Jesus: Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por mim. "
+        },
+        {
+            "referencia": [
+                "1 Coríntios",
+                "2",
+                "2"
+            ],
+            "score": 0.8,
+            "conteudo": "Porque nada me propus saber entre vós, senão a Jesus Cristo, e este crucificado. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "100",
+                "4"
+            ],
+            "score": 0.75,
+            "conteudo": "Entrai pelas portas dele com gratidão, e em seus átrios com louvor; louvai-o, e bendizei o seu nome. "
+        }
+    ]
+}

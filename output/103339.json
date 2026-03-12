@@ -1,0 +1,89 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/103339/",
+    "id": "103339",
+    "title": "Tua Obra em nós",
+    "author": "Projeto Sola",
+    "notes": "",
+    "year": "",
+    "key": "G",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "redenção",
+        "adoração",
+        "gratidão",
+        "contemplativo",
+        "esperança"
+    ],
+    "url": "https://www.youtube.com/watch?v=bPiMH3Mh1ao",
+    "chord_chart": "[Intro 2x]\n.Em  C  |  G   |\n\n[A]\n. Em           C9   G \n Vejo que não sou  quem eu devo ser \n. Em          C9         G\n Mas por tua mão já não sou quem fui \n. Em          C9      G   \n Liberdade e amor em meu interior \n.Em        C9           G \n Fruto do teu  Santo Espírito \n\n[B]\n.Am             C7M\n   Guie o meu andar\n.      G      D9/F#\n   Em Tua verdade\n.Am            C7M\n   A expressão Filho \n.  G               D   D9   D\n   Faz crescer em mim\n\n[C]\n. G                      \n Nada vencerá teu amor \n.   C9\n De paz encheu o meu coração \n.   Em\n Bondade encontro no teu perdão \n.C9                           D11+\n Novo sou, pois tua luz, traz direção\n\n[Intro 2x...]\n[A, B, C...]\n\n[D]\n.G                       \n E pra Tua igreja servir \n.    C9\n Ver tua face no meu irmão \n. Em\n Contemplar tua obra em nós \n. C9                        D11+\n Até o fim, permanecer, em teu amor\n \n[Intro 2x...]",
+    "verses": [
+        {
+            "referencia": [
+                "2 Coríntios",
+                "5",
+                "17"
+            ],
+            "score": 0.98,
+            "conteudo": "Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "1",
+                "6"
+            ],
+            "score": 0.95,
+            "conteudo": "Tendo por certo isto mesmo, que aquele que em vós começou a boa obra a aperfeiçoará até ao dia de Jesus Cristo; "
+        },
+        {
+            "referencia": [
+                "Gálatas",
+                "5",
+                "22-23"
+            ],
+            "score": 0.92,
+            "conteudo": "Mas o fruto do Espírito é: amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança. Contra estas coisas não há lei. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "8",
+                "29"
+            ],
+            "score": 0.9,
+            "conteudo": "Porque os que dantes conheceu também os predestinou para serem conformes à imagem de seu Filho, a fim de que ele seja o primogênito entre muitos irmãos. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "8",
+                "38-39"
+            ],
+            "score": 0.88,
+            "conteudo": "Porque estou certo de que, nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir, Nem a altura, nem a profundidade, nem alguma outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "25",
+                "5"
+            ],
+            "score": 0.85,
+            "conteudo": "Guia-me na tua verdade, e ensina-me, pois tu és o Deus da minha salvação; por ti estou esperando todo o dia. "
+        },
+        {
+            "referencia": [
+                "1 João",
+                "4",
+                "12"
+            ],
+            "score": 0.82,
+            "conteudo": "Ninguém jamais viu a Deus; se nos amamos uns aos outros, Deus está em nós, e em nós é perfeito o seu amor. "
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/90930/",
+    "id": "90930",
+    "title": "Lugar Para Cristo",
+    "author": "Cantor Cristão",
+    "notes": "",
+    "year": "",
+    "key": "F",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 88,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "amor",
+        "salvação",
+        "adoração",
+        "natal",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=pHFoF5A4Oew",
+    "chord_chart": "[A]\n.F                        Bb  C     F        Bb\n TU DEIXASTE, JESUS O TEU REINO DE LUZ, E BAIXASTE\n.                 C7          F                      Bb\n A ESTE MUNDO TÃO VIL; UM PRESÉPIO, EM BELÉM, TU, JESUS,\n.C7    F        C7                   F\n SUMO-BEM, ESCOLHESTE POR BERÇO INFANTIL.\n\n[Refrão]\n. F               C  F Bb F\n VEM, JESUS, HABITAR COMIGO, EM MINHA ALMA HÁ LUGAR;\n.      C7         F         C  F Bb F\n Ó VEM JÁ! VEM, JESUS, HABITAR COMIGO, EM MINHA ALMA HÁ \n.  C7          F\n LUGAR; Ó VEM JÁ! \n\n[B]\n.    F                         C7        F\n ALEGRARAM-SE OS CÉUS, COM OS SANTOS DE DEUS, SIM, POR\n.Bb       F       C7              F                 C7\n TERES NASCIDO, JESUS, VINDO AOS FILHOS DE ADÃO CONCEDER\n.      F  Bb   F            C7         F\n SALVAÇÃO PELA MORTE, EM RESGATE, NA CRUZ.\n\n[C]\n.     F                  C7      F           Bb         F\n TU VIESTE, SENHOR, REVELAR-NOS AMOR,  E TE APROUVE DO MAL\n.       C7           F                 C7      F   Bb\n NOS SALVAR; MAS PROVASTE DO FEL, DO MOTEJO CRUEL, MORTE,\n.   F        C7        F\n ENFIM, TE FIZERAM PROVAR.\n\n[D]\n.       F                   C7       F      Bb        F\n OUTRA VEZ TU VIRÁS, E POR MIM CHAMARÁS, RODEADO DOS ANJOS\n.    C7            F                  C7       F\n DE DEUS; OH! QUE GOZO PRA MIM, SE DISSERES ASSIM:\n. Bb    F        C7         F\n \"UM LUGAR TE DAREI EU NOS CÉUS.\"",
+    "verses": [
+        {
+            "referencia": [
+                "Filipenses",
+                "2",
+                "6-7"
+            ],
+            "score": 0.95,
+            "conteudo": "Que, sendo em forma de Deus, não teve por usurpação ser igual a Deus, Mas esvaziou-se a si mesmo, tomando a forma de servo, fazendo-se semelhante aos homens; "
+        },
+        {
+            "referencia": [
+                "Lucas",
+                "2",
+                "7"
+            ],
+            "score": 0.92,
+            "conteudo": "E deu à luz a seu filho primogênito, e envolveu-o em panos, e deitou-o numa manjedoura, porque não havia lugar para eles na estalagem. "
+        },
+        {
+            "referencia": [
+                "João",
+                "14",
+                "2-3"
+            ],
+            "score": 0.9,
+            "conteudo": "Na casa de meu Pai há muitas moradas; se não fosse assim, eu vo-lo teria dito. Vou preparar-vos lugar. E quando eu for, e vos preparar lugar, virei outra vez, e vos levarei para mim mesmo, para que onde eu estiver estejais vós também. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "3",
+                "17"
+            ],
+            "score": 0.88,
+            "conteudo": "Para que Cristo habite pela fé nos vossos corações; a fim de, estando arraigados e fundados em amor, "
+        },
+        {
+            "referencia": [
+                "João",
+                "1",
+                "14"
+            ],
+            "score": 0.85,
+            "conteudo": "E o Verbo se fez carne, e habitou entre nós, e vimos a sua glória, como a glória do unigênito do Pai, cheio de graça e de verdade. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "20",
+                "28"
+            ],
+            "score": 0.82,
+            "conteudo": "Bem como o Filho do homem não veio para ser servido, mas para servir, e para dar a sua vida em resgate de muitos. "
+        }
+    ]
+}

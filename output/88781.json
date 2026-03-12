@@ -1,0 +1,62 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/88781/",
+    "id": "88781",
+    "title": "Ainda Que a Figueira",
+    "author": "Fernandinho",
+    "notes": "",
+    "year": "",
+    "key": "G",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "confiança",
+        "adoração",
+        "gratidão",
+        "esperança",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=hFwNSQVi0q0",
+    "chord_chart": "[Intro 2x]\n.Em   G   D\n\n[A]\n.Em         D\n TU ÉS A MINHA PORÇÃO  \n.Am     C\n TU ÉS MINHA HERANÇA\n.Em       D              Am              C\n TU ÉS O MEU SOCORRO NOS DIAS DE TRIBULAÇÃO\n.G                  D                  \n MESMO QUE OS MEUS PAIS ME DEIXEM\n.Am          C         \n MESMO QUE AMIGOS ME TRAIAM\n.G                   D          Am           C \n EU SEI QUE EM SEUS BRAÇOS EU ENCONTRO SALVAÇÃO\n\n[Refrão]\n.G                     D      \n AINDA QUE A FIGUEIRA NÃO FLORESÇA\n.Am                       C      \n AINDA QUE A VIDEIRA NÃO DÊ O SEU FRUTO\n.G                      D         \n MESMO QUE NÃO HAJA ALIMENTO NOS CAMPOS\n.      F             C\n EU ME ALEGRAREI EM TI\n\n[Interlúdio 2x]\n.Em   G   D",
+    "verses": [
+        {
+            "referencia": [
+                "Habacuque",
+                "3",
+                "17-18"
+            ],
+            "score": 0.99,
+            "conteudo": "Porque ainda que a figueira não floresça, nem haja fruto na vide; ainda que decepcione o produto da oliveira, e os campos não produzam mantimento; ainda que as ovelhas da malhada sejam arrebatadas, e nos currais não haja gado; Todavia eu me alegrarei no Senhor; exultarei no Deus da minha salvação. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "73",
+                "26"
+            ],
+            "score": 0.92,
+            "conteudo": "A minha carne e o meu coração desfalecem; mas Deus é a fortaleza do meu coração, e a minha porção para sempre. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "27",
+                "10"
+            ],
+            "score": 0.88,
+            "conteudo": "Porque, quando meu pai e minha mãe me desampararem, o Senhor me recolherá. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "16",
+                "5"
+            ],
+            "score": 0.85,
+            "conteudo": "O Senhor é a porção da minha herança e do meu cálice; tu sustentas a minha sorte. "
+        }
+    ]
+}

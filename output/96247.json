@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/96247/",
+    "id": "96247",
+    "title": "Te Agradeço (Baruk)",
+    "author": "Paulo Cesar Baruk",
+    "notes": "",
+    "year": "",
+    "key": "D",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "gratidão",
+        "adoração",
+        "cruz",
+        "salvação",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=QkdR52yfZBQ",
+    "chord_chart": "[Intro]\n. Dadd9  |  D9(#5)  |  Dadd9  |  D9(#5)  |\n\n[A]\n.   Dadd9             D9(#5)\n POR TUDO O QUE TENS FEITO\n.    Dadd9           Am7(9)\n POR TUDO O QUE VAIS FAZER\n.     G9    D/F#      G9/E\n POR TUAS PROMESSAS E TUDO O QUE ÉS\n.   D/A          A\n EU QUERO AGRADECER\n.             Gm6  C79  Dadd9\n COM TODO MEU SER\n\n[B]\n.               C/D          A/B\n HOMENS: TE AGRADEÇO, MEU SENHOR\n.                 C/D          A/B\n MULHERES: TE AGRADEÇO, MEU SENHOR\n \n[C]\n.      Dadd9\n TE AGRADEÇO POR ME LIBERTAR E SALVAR\n. G9             Gm6\n POR TER MORRIDO EM MEU LUGAR\n.      D/F#  G9\n TE AGRADEÇO\n.             D/F#  G9\n JESUS, TE AGRADEÇO\n.         D/F#   G9\n EU TE AGRADEÇO\n.     ( C/D )  Dadd9\n TE AGRADEÇO\n \n[Intro...]",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "103",
+                "2"
+            ],
+            "score": 0.95,
+            "conteudo": "Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios. "
+        },
+        {
+            "referencia": [
+                "1 Tessalonicenses",
+                "5",
+                "18"
+            ],
+            "score": 0.92,
+            "conteudo": "Em tudo dai graças, porque esta é a vontade de Deus em Cristo Jesus para convosco. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "118",
+                "1"
+            ],
+            "score": 0.88,
+            "conteudo": "Louvai ao SENHOR, porque ele é bom, porque a sua benignidade dura para sempre. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "5",
+                "8"
+            ],
+            "score": 0.85,
+            "conteudo": "Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores. "
+        },
+        {
+            "referencia": [
+                "Colossenses",
+                "3",
+                "17"
+            ],
+            "score": 0.82,
+            "conteudo": "E, quanto fizerdes por palavras ou por obras, fazei tudo em nome do Senhor Jesus, dando por ele graças a Deus Pai. "
+        }
+    ]
+}

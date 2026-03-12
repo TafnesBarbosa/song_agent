@@ -9,22 +9,19 @@
     "ccli": "",
     "copyright": "",
     "time_sig": "4/4",
-    "tempo": "",
-    "feel": "",
+    "tempo": 120,
+    "feel": "Médio",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "rei",
+        "adoração",
+        "celebrativo",
+        "gratidão",
+        "santidade"
+    ],
     "url": "https://www.youtube.com/watch?v=AXjhYJURFTs",
     "chord_chart": "[Intro 2X]\n.C#m  |  E  |  F#m  |  G#m  |\n\n[A]\n.E                          \n  Eu vejo o rei da glória \n.C#m \n Vindo com seu poder    \n.        F#m         B9 | C#m | C#m |\n A terra vai estremecer    \n.E \n  Eu vejo a sua graça \n.C#m \n Os pecados perdoar\n.        F#m           B9\n A terra vai então cantar \n\n[Refrão]\n.  E/G#  A     B9  C#m \n Hosa----na, hosa--na    \n.   A         C#m  B9\n Hosana nas altu---ras    \n. E/G#   A     B9  C#m\n Hosa----na, hosa--na    \n.  A          B9   C#m |  ( C#m ) |\n Hosana nas altu---ras  \n\n[B]\n.E \n  Eu vejo um povo eleito \n.C#m \n Assumindo o seu lugar    \n.        F#m         B9 \n Pra sua fé compartilhar  \n.E \n  Eu vejo um  avivamento \n.  C#m \n Quando o teu povo orar    \n.         F#m          B9 \n E te buscar, e te buscar    \n\n[Refrão...]\n\n[Interlúdio 2x]\n.C#m  |  E  |  F#m7  |  G#m7  |\n\n[C]\n. A               B9      \n Limpa o meu coração \n.E                          C#m \n Abre os meus olhos que eu possa ver    \n. A                     B9      C#m \n Com amor que tens por mim, te amo    \n. A                B9     \n Quero ser igual a Ti \n.E                    C#m \n Tudo o que sou é pra Teu louvor    \n.A                      B9           A  |  A  |\n Pois contigo eu vou viver, pra sempre    \n\n[Refrão - Fraco]\n.   E/G#  A     B9  C#m \n Hosa----na, hosa--na    \n.   A          C#m  B9 \n Hosana nas altu---ras    \n.   E/G#  A     B9  C#m \n Hosa----na, hosa--na    \n.   A         B9    E \n Hosana nas altu---ras\n \n[Refrão]\n.   E/G#  A     B9  C#m \n Hosa----na, hosa--na    \n.   A          C#m  B9 \n Hosana nas altu---ras    \n.   E/G#  A     B9  C#m \n Hosa----na, hosa--na    \n.   A          B9   C#m \n Hosana nas altu---ras\n.   A          B9   E \n Hosana nas altu---ras",
     "verses": [
-        {
-            "referencia": [
-                "2 Crônicas",
-                "7",
-                "14"
-            ],
-            "score": 0.98,
-            "conteudo": "E se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face e se converter dos seus maus caminhos, então eu ouvirei dos céus, e perdoarei os seus pecados, e sararei a sua terra. "
-        },
         {
             "referencia": [
                 "Mateus",
@@ -36,30 +33,48 @@
         },
         {
             "referencia": [
-                "Salmos",
-                "24",
-                "7-10"
-            ],
-            "score": 0.9,
-            "conteudo": "Levantai, ó portas, as vossas cabeças; levantai-vos, ó entradas eternas, e entrará o Rei da Glória. Quem é este Rei da Glória? O Senhor forte e poderoso, o Senhor poderoso na guerra. Levantai, ó portas, as vossas cabeças, levantai-vos, ó entradas eternas, e entrará o Rei da Glória. Quem é este Rei da Glória? O Senhor dos Exércitos, ele é o Rei da Glória. (Selá.) "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "1",
-                "7"
-            ],
-            "score": 0.9,
-            "conteudo": "Em quem temos a redenção pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua graça, "
-        },
-        {
-            "referencia": [
-                "1 Pedro",
-                "2",
+                "Marcos",
+                "11",
                 "9"
             ],
+            "score": 0.95,
+            "conteudo": "E aqueles que iam adiante, e os que seguiam, clamavam, dizendo: Hosana, bendito o que vem em nome do Senhor; "
+        },
+        {
+            "referencia": [
+                "Lucas",
+                "19",
+                "38"
+            ],
+            "score": 0.95,
+            "conteudo": "Dizendo: Bendito o Rei que vem em nome do Senhor; paz no céu, e glória nas alturas. "
+        },
+        {
+            "referencia": [
+                "João",
+                "12",
+                "13"
+            ],
+            "score": 0.95,
+            "conteudo": "Tomaram ramos de palmeiras, e saíram-lhe ao encontro, e clamavam: Hosana! Bendito o Rei de Israel que vem em nome do Senhor. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "118",
+                "26"
+            ],
             "score": 0.9,
-            "conteudo": "Mas vòs sois a geração eleita, o sacerdòcio real, a nação santa, o povo adquirido, para que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz; "
+            "conteudo": "Bendito aquele que vem em nome do Senhor; nós vos bendizemos desde a casa do Senhor. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "61",
+                "10"
+            ],
+            "score": 0.8,
+            "conteudo": "Regozijar-me-ei muito no Senhor, a minha alma se alegrará no meu Deus; porque me vestiu de roupas de salvação, cobriu-me com o manto de justiça, como um noivo se adorna com turbante sacerdotal, e como a noiva que se enfeita com as suas jóias. "
         },
         {
             "referencia": [
@@ -67,44 +82,17 @@
                 "51",
                 "10"
             ],
-            "score": 0.9,
+            "score": 0.78,
             "conteudo": "Cria em mim, ó Deus, um coração puro, e renova em mim um espírito reto. "
         },
         {
             "referencia": [
-                "Marcos",
-                "11",
-                "10"
-            ],
-            "score": 0.9,
-            "conteudo": "Bendito o reino do nosso pai Davi, que vem em nome do Senhor. Hosana nas alturas. "
-        },
-        {
-            "referencia": [
-                "2 Coríntios",
-                "3",
-                "18"
-            ],
-            "score": 0.88,
-            "conteudo": "Mas todos nós, com rosto descoberto, refletindo como um espelho a glória do Senhor, somos transformados de glória em glória na mesma imagem, como pelo Espírito do Senhor. "
-        },
-        {
-            "referencia": [
                 "Romanos",
-                "12",
+                "8",
                 "1"
             ],
-            "score": 0.85,
-            "conteudo": "Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional. "
-        },
-        {
-            "referencia": [
-                "Apocalipse",
-                "1",
-                "7"
-            ],
-            "score": 0.8,
-            "conteudo": "Eis que vem com as nuvens, e todo o olho o verá, até os mesmos que o traspassaram; e todas as tribos da terra se lamentarão sobre ele. Sim. Amém. "
+            "score": 0.76,
+            "conteudo": "Portanto, agora nenhuma condenação há para os que estão em Cristo Jesus, que não andam segundo a carne, mas segundo o Espírito. "
         }
     ]
 }

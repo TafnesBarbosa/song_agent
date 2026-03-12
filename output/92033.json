@@ -9,10 +9,16 @@
     "ccli": "",
     "copyright": "",
     "time_sig": "4/4",
-    "tempo": "",
-    "feel": "",
+    "tempo": 72,
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "soberania",
+        "adoração",
+        "gratidão",
+        "confiança",
+        "contemplativo"
+    ],
     "url": "https://www.youtube.com/watch?v=VFevD1_1G4k",
     "chord_chart": "[Intro]\n.D | D | D | D | G | A | D |\n\n[A]\n.D\n És meu pastor e nada faltará\n.D\n As águas calmas me levarás\n.          G      A     D\n Trazendo paz ao meu viver\n.D\n E pela mão vais me guiar\n.D\n Quando no vale eu passar\n.   G      A   D\n E eu não temerei\n\n[Refrão]\n.            G    A     D\n Pois no controle Tu estás\n.            G    A     D   D/F#\n Pois no controle Tu estás\n.            G    A     Bm  A/C#\n Pois no controle Tu estás\n.            G    A     D\n Pois no controle Tu estás\n\n[Interlúdio]\n.D | D | D | D |\n\n[Volta início...]\n\n[B]\n.  C9             G          D\n Fazes tudo cooperar para o bem\n.  C9             G      D\n Pois um plano soberano tens\n.  Em        D/F#    G\n E conheces quem eu sou\n.  Em       D/F#  G\n E criaste o que sou\n.     Em  D/F#   G\n E me amas como sou\n\n[Volta Refrão...]\n\n[Solo]\n.G  | A     | D    D/F# | G  | A  | D  D/F# |\n.G  | A  Bm | A/C#  D   | G  | A  | D       |\n\n[Volta Refrão...]\n\n[Final]\n.D",
     "verses": [
@@ -31,35 +37,17 @@
                 "8",
                 "28"
             ],
-            "score": 0.97,
+            "score": 0.95,
             "conteudo": "E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito. "
-        },
-        {
-            "referencia": [
-                "Isaías",
-                "41",
-                "10"
-            ],
-            "score": 0.93,
-            "conteudo": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça. "
         },
         {
             "referencia": [
                 "Salmos",
                 "139",
-                "13-14"
+                "13-16"
             ],
-            "score": 0.92,
-            "conteudo": "Pois possuíste os meus rins; cobriste-me no ventre de minha mãe. Eu te louvarei, porque de um modo assombroso, e tão maravilhoso fui feito; maravilhosas são as tuas obras, e a minha alma o sabe muito bem. "
-        },
-        {
-            "referencia": [
-                "Mateus",
-                "10",
-                "29-31"
-            ],
-            "score": 0.91,
-            "conteudo": "Não se vendem dois passarinhos por um ceitil? e nenhum deles cairá em terra sem a vontade de vosso Pai. E até mesmo os cabelos da vossa cabeça estão todos contados. Não temais, pois; mais valeis vós do que muitos passarinhos. "
+            "score": 0.88,
+            "conteudo": "Pois possuíste os meus rins; cobriste-me no ventre de minha mãe. Eu te louvarei, porque de um modo assombroso, e tão maravilhoso fui feito; maravilhosas são as tuas obras, e a minha alma o sabe muito bem. Os meus ossos não te foram encobertos, quando no oculto fui feito, e entretecido nas profundezas da terra. Os teus olhos viram o meu corpo ainda informe; e no teu livro todas estas coisas foram escritas; as quais em continuação foram formadas, quando nem ainda uma delas havia. "
         },
         {
             "referencia": [
@@ -67,26 +55,26 @@
                 "29",
                 "11"
             ],
-            "score": 0.9,
+            "score": 0.85,
             "conteudo": "Porque eu bem sei os pensamentos que tenho a vosso respeito, diz o Senhor; pensamentos de paz, e não de mal, para vos dar o fim que esperais. "
         },
         {
             "referencia": [
-                "Provérbios",
-                "3",
-                "5-6"
+                "Salmos",
+                "103",
+                "11"
             ],
-            "score": 0.89,
-            "conteudo": "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas. "
+            "score": 0.82,
+            "conteudo": "Pois assim como o céu está elevado acima da terra, assim é grande a sua misericórdia para com os que o temem. "
         },
         {
             "referencia": [
-                "Filipenses",
-                "4",
-                "6-7"
+                "Salmos",
+                "27",
+                "1"
             ],
-            "score": 0.88,
-            "conteudo": "Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica, com ação de graças. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus. "
+            "score": 0.8,
+            "conteudo": "O SENHOR é a minha luz e a minha salvação; a quem temerei? O SENHOR é a força da minha vida; de quem me recearei? "
         }
     ]
 }

@@ -1,0 +1,88 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/109494/",
+    "id": "109494",
+    "title": "Declarando Sua Glória",
+    "author": "Guilherme Kerr",
+    "notes": "",
+    "year": "",
+    "key": "C",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "glória",
+        "adoração",
+        "missões",
+        "celebrativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=5D5Ieh4e9oA",
+    "chord_chart": "[Intro]\n.C/G | F/G | C/G |  G4  G7 \n\n[A]\n.     C          C5+               C6   C5+ \n DECLARANDO SUA GLÓRIA ENTRE AS NAÇÕES\n.       C                    Gm/Bb  G\n VAMOS VER SEU NOME SENDO EXALTADO\n.     Dm        Dm5+               Dm6   Dm5+\n DECLARANDO SUA GLÓRIA ENTRE AS NAÇÕES\n.       G                     Fm C\n VAMOS VER O SEU PODER MANIFESTADO\n.       C        Em/B         Gm   C7\n SEU ESPÍRITO MOVENDO OS CORAÇÕES\n.       F                         F#0\n CONVERTENDO VIDAS, MENTES, INTENÇÕES\n.    C/G           \n REVELANDO A TODO HOMEM \n.         F/G                   Dm   G4   G7\n QUE A VERDADE PLENA ESTÁ EM JESUS\n\n[B]\n.      C         C5+               C6   C5+\n DECLARANDO SUA GLÓRIA ENTRE AS NAÇÕES\n.       C                         Gm/Bb  G\n VAMOS VER SEU NOME SEMPRE ENTRONIZADO\n.    Dm             Dm5+           Dm6   Dm5+\n COLOCANDO A SEU SERVIÇO OS NOSSOS DONS\n.       G                     Fm  C\n VAMOS TER OS HOMENS A GLORIFICÁ-LO\n.         C         Em/B          Gm   C7\n DE TODA RAÇA, TRIBO, LÍNGÜA E NAÇÃO\n.     F                     F#0\n UMA SÓ FAMÍLIA, UM SÓ CORAÇÃO\n.      C/G                   F/G\n VER O POVO TODO UNIDO, COM A VIDA A SEU DISPOR\n.      C/G                   F/G\n FAZER CRISTO CONHECIDO, SUA GRAÇA E SEU AMOR\n.     C/G\n CONFESSANDO COM OS LÁBIOS\n.    F/G          G       C    A4   A7\n QUE JESUS CRISTO É O SENHOR\n\n[C]\n.       D         D5+                D6   D5+\n DECLARANDO SUA GLÓRIA ENTRE AS NAÇÕES\n.      D                         Am/C    A\n VAMOS VER SEU NOME SEMPRE ENTRONIZADO\n.    Em             Em5+           Em6\n COLOCANDO A SEU SERVIÇO OS NOSSOS DONS\n.       A                     Gm  D\n VAMOS TER OS HOMENS A GLORIFICÁ-LO\n.         D                       Am   D7\n DE TODA RAÇA, TRIBO, LÍNGUA E NAÇÃO\n.     G                     G#0\n UMA SÓ FAMÍLIA, UM SÓ CORAÇÃO\n\n[D]\n.      D/A                   G/A\n VER O POVO TODO UNIDO COM A VIDA A SEU DISPOR\n.      D/A                   G/A\n FAZER CRISTO CONHECIDO, SUA GRAÇA E SEU AMOR\n\n[E]\n.    D/A               \n DECLARANDO SUA GLÓRIA  \n.     G      A          D\n PRÁ SEMPRE ENTRE AS NAÇÕES \n.    D/A \n DECLARANDO SUA GLÓRIA  \n.     G      A          G7+/G#   G7+   D/A   G/A    A7   D\n PRÁ SEMPRE ENTRE AS NAÇÕES",
+    "verses": [
+        {
+            "referencia": [
+                "Isaías",
+                "12",
+                "4"
+            ],
+            "score": 0.9,
+            "conteudo": "E direis naquele dia: Dai graças ao Senhor, invocai o seu nome, fazei notório os seus feitos entre os povos, contai quão excelso é o seu nome. "
+        },
+        {
+            "referencia": [
+                "Isaías",
+                "42",
+                "12"
+            ],
+            "score": 0.88,
+            "conteudo": "Dêem a glória ao Senhor, e anunciem o seu louvor nas ilhas. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "96",
+                "3"
+            ],
+            "score": 0.87,
+            "conteudo": "Anunciai entre as nações a sua glória; entre todos os povos as suas maravilhas. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "7",
+                "9"
+            ],
+            "score": 0.85,
+            "conteudo": "Depois destas coisas olhei, e eis aqui uma multidão, a qual ninguém podia contar, de todas as nações, e tribos, e povos, e línguas, que estavam diante do trono, e perante o Cordeiro, trajando vestes brancas e com palmas nas suas mãos; "
+        },
+        {
+            "referencia": [
+                "Atos",
+                "1",
+                "8"
+            ],
+            "score": 0.82,
+            "conteudo": "Mas recebereis a virtude do Espírito Santo, que há de vir sobre vós; e ser-me-eis testemunhas, tanto em Jerusalém como em toda a Judéia e Samaria, e até aos confins da terra. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "10",
+                "9"
+            ],
+            "score": 0.8,
+            "conteudo": "A saber: Se com a tua boca confessares ao Senhor Jesus, e em teu coração creres que Deus o ressuscitou dentre os mortos, serás salvo. "
+        },
+        {
+            "referencia": [
+                "1 Coríntios",
+                "12",
+                "12-13"
+            ],
+            "score": 0.78,
+            "conteudo": "Porque, assim como o corpo é um, e tem muitos membros, e todos os membros, sendo muitos, são um só corpo, assim é Cristo também. Pois todos nós fomos batizados em um Espírito, formando um corpo, quer judeus, quer gregos, quer servos, quer livres, e todos temos bebido de um Espírito. "
+        }
+    ]
+}

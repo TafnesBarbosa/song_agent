@@ -8,11 +8,17 @@
     "key": "D",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Rápido",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "cordeiro",
+        "adoração",
+        "missões",
+        "celebrativo",
+        "glória"
+    ],
     "url": "https://www.youtube.com/watch?v=U94w-ZR0OfA",
     "chord_chart": "[Intro 2x]\n. D  |  G  |  Bm  |  G  |\n\n[A1]\n.    D\n DE TODAS AS TRIBOS POVOS E RAÇAS\n.                    G\n MUITOS VIRÃO TE LOUVAR\n.     D               G\n DE TANTAS CULTURAS, LÍNGUAS E NAÇÕES\n.    Em                   G         A\n NO TEMPO E NO ESPAÇO, VIRÃO TE ADORAR\n \n[Refrão]\n.    D                     G\n BENDITO SEJA SEMPRE O CORDEIRO,\n.Bm               G\n FILHO DE DEUS, RAIZ DE DAVI\n.    D                     G\n BENDITO SEJA O SEU SANTO NOME\n. Bm               G   A7      D\n CRISTO JESUS, PRESEN_____TE AQUI\n \n[Intro 2x]\n. D  |  G  |  Bm  |  G  |\n \n[A2]\n.   D\n REMIDOS COMPRADOS, GRANDE MULTIDÃO,\n.                    G\n MUITOS VIRÃO TE LOUVAR\n. D                   G\n POVO ESCOLHIDO, TEU REINO E NAÇÃO\n.    Em                  G         A\n NO TEMPO E NO ESPAÇO VIRÃO TE ADORAR\n \n[Refrão...]\n[Intro...]\n \n[A3]\n.   D\n A NÓS SÓ NOS CABE TUDO DEDICAR,\n.                   G\n OFERTA SUAVE AO SENHOR\n. D                  G\n DONS E TALENTOS QUEREMOS CONSAGRAR\n.     Em                G         A\n E A VIDA NO TEU ALTAR PRA TEU LOUVOR\n \n[Refrão 2x...]\n[Intro...]",
     "verses": [
@@ -31,35 +37,8 @@
                 "5",
                 "9"
             ],
-            "score": 0.97,
-            "conteudo": "E cantavam um novo cântico, dizendo: Digno és de tomar o livro, e de abrir os seus selos; porque foste morto, e com o teu sangue nos compraste para Deus de toda a tribo, e língua, e povo, e nação; "
-        },
-        {
-            "referencia": [
-                "Apocalipse",
-                "5",
-                "5"
-            ],
             "score": 0.95,
-            "conteudo": "E disse-me um dos anciãos: Não chores; eis aqui o Leão da tribo de Judá, a raiz de Davi, que venceu, para abrir o livro e desatar os seus sete selos. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "86",
-                "9"
-            ],
-            "score": 0.94,
-            "conteudo": "Todas as nações que fizeste virão e se prostrarão perante a tua face, Senhor, e glorificarão o teu nome. "
-        },
-        {
-            "referencia": [
-                "Apocalipse",
-                "22",
-                "16"
-            ],
-            "score": 0.92,
-            "conteudo": "Eu, Jesus, enviei o meu anjo, para vos testificar estas coisas nas igrejas. Eu sou a raiz e a geração de Davi, a resplandecente estrela da manhã. "
+            "conteudo": "E cantavam um novo cântico, dizendo: Digno és de tomar o livro, e de abrir os seus selos; porque foste morto, e com o teu sangue nos compraste para Deus de toda a tribo, e língua, e povo, e nação; "
         },
         {
             "referencia": [
@@ -67,17 +46,8 @@
                 "5",
                 "12"
             ],
-            "score": 0.91,
+            "score": 0.92,
             "conteudo": "Que com grande voz diziam: Digno é o Cordeiro, que foi morto, de receber o poder, e riquezas, e sabedoria, e força, e honra, e glória, e ações de graças. "
-        },
-        {
-            "referencia": [
-                "1 Pedro",
-                "2",
-                "9"
-            ],
-            "score": 0.9,
-            "conteudo": "Mas vòs sois a geração eleita, o sacerdòcio real, a nação santa, o povo adquirido, para que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz; "
         },
         {
             "referencia": [
@@ -90,21 +60,21 @@
         },
         {
             "referencia": [
-                "Efésios",
-                "5",
-                "2"
+                "Apocalipse",
+                "22",
+                "16"
             ],
-            "score": 0.86,
-            "conteudo": "E andai em amor, como também Cristo vos amou, e se entregou a si mesmo por nós, em oferta e sacrifício a Deus, em cheiro suave. "
+            "score": 0.85,
+            "conteudo": "Eu, Jesus, enviei o meu anjo, para vos testificar estas coisas nas igrejas. Eu sou a raiz e a geração de Davi, a resplandecente estrela da manhã. "
         },
         {
             "referencia": [
-                "Filipenses",
-                "2",
-                "10-11"
+                "Salmos",
+                "117",
+                "1"
             ],
-            "score": 0.85,
-            "conteudo": "Para que ao nome de Jesus se dobre todo o joelho dos que estão nos céus, e na terra, e debaixo da terra, E toda a língua confesse que Jesus Cristo é o Senhor, para glória de Deus Pai. "
+            "score": 0.82,
+            "conteudo": "Louvai ao SENHOR todas as nações, louvai-o todos os povos. "
         }
     ]
 }

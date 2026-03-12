@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/85077/",
+    "id": "85077",
+    "title": "Eu Sou Grato (Tributo a Yehovah)",
+    "author": "Paulo César Baruk / Banda Salluz",
+    "notes": "",
+    "year": "",
+    "key": "E",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": "101",
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "amor",
+        "adoração",
+        "gratidão",
+        "salvação",
+        "alegre"
+    ],
+    "url": "https://www.youtube.com/watch?v=nX5dZw9uVCk",
+    "chord_chart": "[A]\n.        E                   A9\n Eu sou grato por tudo o que tenho\n.  C#m     E9         B\n Tesouro maior deste mundo\n.        E                  A\n Me foi dado como herança eterna\n.     C#m            B          A      E\n Maior prova de um amor tão profundo.\n\n[B]\n.       E                  A\n Tenho vida, alegria todo tempo.\n.     C#m         E               B\n Tenho amigos, família, muitos irmãos.\n.       E                  A\n Foi Jesus meu amigo verdadeiro\n.        C#m         B          A   E\n Que fez tudo ao me dar a salvação.\n\n[C]\n.      E                     A\n Louvarei ao Senhor em todo tempo\n.      C#m       E          B\n Seu louvor estará continuamente\n.        E/G#                          A\n Nos meus lábios e também no meu coração\n.      C#m          B               A    E\n Jesus Cristo será sempre minha canção.  <\n\n[D]\n.E         A\n Ie, Ie, Ieovah!\n.C#m  E    B4  B\n Ie, Ie, Ieovah!\n.E/G#      A\n Ie, Ie, Ieovah!\n.G#m  B    A  E\n Ie, Ie, Ieovah!",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "34",
+                "1"
+            ],
+            "score": 0.98,
+            "conteudo": "Louvarei ao SENHOR em todo o tempo; o seu louvor estará continuamente na minha boca. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "2"
+            ],
+            "score": 0.95,
+            "conteudo": "Cada dia te bendirei, e louvarei o teu nome pelos séculos dos séculos e para sempre. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "103",
+                "1-2"
+            ],
+            "score": 0.92,
+            "conteudo": "Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome. Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "116",
+                "12"
+            ],
+            "score": 0.88,
+            "conteudo": "Que darei eu ao Senhor, por todos os benefícios que me tem feito? "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "2",
+                "8"
+            ],
+            "score": 0.85,
+            "conteudo": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. "
+        },
+        {
+            "referencia": [
+                "1 Pedro",
+                "1",
+                "3-4"
+            ],
+            "score": 0.82,
+            "conteudo": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo que, segundo a sua grande misericórdia, nos gerou de novo para uma viva esperança, pela ressurreição de Jesus Cristo dentre os mortos, Para uma herança incorruptível, incontaminável, e que não se pode murchar, guardada nos céus para vós, "
+        }
+    ]
+}

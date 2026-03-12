@@ -8,11 +8,17 @@
     "key": "D",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 108,
+    "feel": "Médio",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "fidelidade",
+        "adoração",
+        "gratidão",
+        "confiança",
+        "celebrativo"
+    ],
     "url": "https://www.youtube.com/watch?v=9ec7jHul9co",
     "chord_chart": "[Intro]\n.D | D | D | D |\n\n[A]\n.     D                 A        D\n Em Jesus confiar, sua lei observar\n.         G         D           A  | A |\n Oh! Que gozo, que bênção, que paz!\n.      D                  A          D       \n Satisfeito guardar tudo quanto ordenar\n.    G      D    A    D\n Alegria perene nos traz\n\n[Coro]\n. A           D        B        Em\n Crer e observar tudo quanto ordenar\n.  A/C#   D/F#          G     A   D | D | D | D |\n O fiel obedece ao que Cristo mandar\n \n[B]\n.    D                  A        D\n O inimigo falaz e a calúnia mordaz\n.        G       D      A | A |\n Cristo pode desprestigiar\n.         D                       A      D\n Nem tristeza, nem dor, nem a intriga maior\n.     G      D    A    D\n Poderão ao fiel aba__lar\n\n[Coro]\n. A           D        B        Em\n Crer e observar tudo quanto ordenar\n.  A/C#   D/F#          G     A  Bm \n O fiel obedece ao que Cristo mandar\n\n[Ponte]\n.Bm             Em           A/C#      D ( F#m )\n   Cristo amado,  faz-me tua lei observar\n.Bm             Em           A/C#     G\n   Cristo amado,  nos ajude a perseverar\n \n[C]\n.        D                  A         D\n O seu rosto mirar, seus segredos privar\n.        G        D        A  | A |\n Seu consolo constante e real\n.     D                   A            D\n Resolutos Senhor, e com fé, zelo e ardor\n.         G         D     A   D\n Os teus passos queremos seguir\n \n[Coro]\n. A           D        B         Em\n Crer e observar tudo quanto ordenar\n.  A/C#   D/F#          G      A  D\n O fiel obedece ao que Cristo mandar\n. A           D        B        Em\n Crer e observar tudo quanto ordenar\n.  A/C#   D/F#          G      A  Bm\n O fiel obedece ao que Cristo mandar\n\n[Ponte]\n.Bm             Em           A/C#      D ( F#m )\n   Cristo amado,  faz-me tua lei observar\n.Bm             Em           A/C#     G  |  G  |  D\n   Cristo amado,  nos ajude a perseverar",
     "verses": [
@@ -27,21 +33,39 @@
         },
         {
             "referencia": [
-                "1 Pedro",
-                "2",
+                "João",
+                "14",
                 "21"
             ],
-            "score": 0.97,
-            "conteudo": "Porque para isto sois chamados; pois também Cristo padeceu por nós, deixando-nos o exemplo, para que sigais as suas pisadas. "
+            "score": 0.96,
+            "conteudo": "Aquele que tem os meus mandamentos e os guarda esse é o que me ama; e aquele que me ama será amado de meu Pai, e eu o amarei, e me manifestarei a ele. "
+        },
+        {
+            "referencia": [
+                "Tiago",
+                "1",
+                "25"
+            ],
+            "score": 0.92,
+            "conteudo": "Aquele, porém, que atenta bem para a lei perfeita da liberdade, e nisso persevera, não sendo ouvinte esquecediço, mas fazedor da obra, este tal será bem-aventurado no seu feito. "
+        },
+        {
+            "referencia": [
+                "I João",
+                "5",
+                "3"
+            ],
+            "score": 0.9,
+            "conteudo": "Erro ao pegar versículo"
         },
         {
             "referencia": [
                 "Salmos",
-                "27",
-                "8"
+                "119",
+                "33-34"
             ],
-            "score": 0.96,
-            "conteudo": "Quando tu disseste: Buscai o meu rosto; o meu coração disse a ti: O teu rosto, Senhor, buscarei. "
+            "score": 0.88,
+            "conteudo": "Ensina-me, ó Senhor, o caminho dos teus estatutos, e guardá-lo-ei até o fim. Dá-me entendimento, e guardarei a tua lei, e observá-la-ei de todo o meu coração. "
         },
         {
             "referencia": [
@@ -49,53 +73,17 @@
                 "15",
                 "10"
             ],
-            "score": 0.95,
+            "score": 0.86,
             "conteudo": "Se guardardes os meus mandamentos, permanecereis no meu amor; do mesmo modo que eu tenho guardado os mandamentos de meu Pai, e permaneço no seu amor. "
         },
         {
             "referencia": [
-                "Salmos",
-                "119",
-                "165"
+                "Romanos",
+                "8",
+                "38-39"
             ],
-            "score": 0.93,
-            "conteudo": "Muita paz têm os que amam a tua lei, e para eles não há tropeço. "
-        },
-        {
-            "referencia": [
-                "Mateus",
-                "7",
-                "24"
-            ],
-            "score": 0.92,
-            "conteudo": "Todo aquele, pois, que escuta estas minhas palavras, e as pratica, assemelhá-lo-ei ao homem prudente, que edificou a sua casa sobre a rocha; "
-        },
-        {
-            "referencia": [
-                "Provérbios",
-                "3",
-                "5-6"
-            ],
-            "score": 0.9,
-            "conteudo": "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas. "
-        },
-        {
-            "referencia": [
-                "Salmos",
-                "27",
-                "1"
-            ],
-            "score": 0.88,
-            "conteudo": "O SENHOR é a minha luz e a minha salvação; a quem temerei? O SENHOR é a força da minha vida; de quem me recearei? "
-        },
-        {
-            "referencia": [
-                "Filipenses",
-                "4",
-                "7"
-            ],
-            "score": 0.85,
-            "conteudo": "E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus. "
+            "score": 0.82,
+            "conteudo": "Porque estou certo de que, nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir, Nem a altura, nem a profundidade, nem alguma outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor. "
         }
     ]
 }

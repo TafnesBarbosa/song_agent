@@ -8,67 +8,46 @@
     "key": "Bb",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "arrependimento",
+        "oração",
+        "gratidão",
+        "contemplativo",
+        "santificação"
+    ],
     "url": "https://www.youtube.com/watch?v=YKOU5lqwxHc",
     "chord_chart": "[Intro]\n.Bb2  F/A  |  Dm  Am7  Bb  |  Bb/D  Eb/G  |  F   ||\n\n[A]\n.       Bb                            F\n SE TU OLHARES SENHOR  PRA DENTRO DE MIM\n.       Gm7          C\n NADA ENCONTRARÁ DE BOM\n.    Bb          C/Bb       F  C/E      Dm7\n MAS UM DESEJO EU TENHO DE SER TRANSFORMADO\n.  Gm7            F/A         Bb            Csus    C\n PRECISO TANTO DO TEU PERDÃO, DÁ-ME UM NOVO CORAÇÃO \n\n[B]\n.F            Fsus  F/A     Bb      Gm7  C\n DÁ-ME UM CORAÇÃO IGUAL AO TEU, MEU MESTRE\n.F            Eb/G   F/A    Bb\n DÁ-ME UM CORAÇÃO IGUAL AO TEU\n.   Csus    C/Bb     Am7  Dm7\n CORAÇÃO DISPOSTO A OBEDECER\n.    Am7               Dm7\n CUMPRIR TODO O TEU QUERER\n.Gm7          Bb/C           F\n DÁ-ME UM CORAÇÃO IGUAL AO TEU\n\n[C]\n.  C/E         C          Dm7\n ENSINA-ME A AMAR O MEU IRMÃO\n.     C                       F\n A OLHAR COM TEUS OLHOS, PERDOAR COM TEU PERDÃO\n.Bb          C/Bb\n ENCHE-ME COM TEU ESPÍRITO\n.Am            Dm7          C  Bb\n ENDIREITA OS MEU CAMINHOS, OH DEUS\n[1a vez]\n.         Bb/C  F\n DÁ-ME UM NOVO CORAÇÃO\n[2a vez]\n.              C/D      D\n DÁ-ME UM NOVO CORAÇÃO\n\n[D]\n.G            Gsus  G/B      C       Am7   D\n DÁ-ME UM CORAÇÃO IGUAL AO TEU, MEU MESTRE\n.G            F/A   G/B      C\n DÁ-ME UM CORAÇÃO IGUAL AO TEU\n.    Dsus   D/C      Bm7  Em7\n CORAÇÃO DISPOSTO A OBEDECER\n.     Bm7              Em7\n CUMPRIR TODO O TEU QUERER\n.Am7          C/D           G\n DÁ-ME UM CORAÇÃO IGUAL AO TEU",
     "verses": [
-        {
-            "referencia": [
-                "Ezequiel",
-                "36",
-                "26"
-            ],
-            "score": 0.98,
-            "conteudo": "E dar-vos-ei um coração novo, e porei dentro de vós um espírito novo; e tirarei da vossa carne o coração de pedra, e vos darei um coração de carne. "
-        },
         {
             "referencia": [
                 "Salmos",
                 "51",
                 "10"
             ],
-            "score": 0.97,
+            "score": 0.98,
             "conteudo": "Cria em mim, ó Deus, um coração puro, e renova em mim um espírito reto. "
         },
         {
             "referencia": [
-                "Filipenses",
-                "2",
-                "5"
+                "Ezequiel",
+                "36",
+                "26"
             ],
             "score": 0.95,
-            "conteudo": "De sorte que haja em vós o mesmo sentimento que houve também em Cristo Jesus, "
+            "conteudo": "E dar-vos-ei um coração novo, e porei dentro de vós um espírito novo; e tirarei da vossa carne o coração de pedra, e vos darei um coração de carne. "
         },
         {
             "referencia": [
-                "João",
-                "13",
-                "34-35"
+                "Salmos",
+                "139",
+                "23-24"
             ],
             "score": 0.92,
-            "conteudo": "Um novo mandamento vos dou: Que vos ameis uns aos outros; como eu vos amei a vós, que também vós uns aos outros vos ameis. Nisto todos conhecerão que sois meus discípulos, se vos amardes uns aos outros. "
-        },
-        {
-            "referencia": [
-                "1 João",
-                "1",
-                "9"
-            ],
-            "score": 0.9,
-            "conteudo": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados, e nos purificar de toda a injustiça. "
-        },
-        {
-            "referencia": [
-                "Mateus",
-                "6",
-                "14-15"
-            ],
-            "score": 0.9,
-            "conteudo": "Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós; Se, porém, não perdoardes aos homens as suas ofensas, também vosso Pai vos não perdoará as vossas ofensas. "
+            "conteudo": "Sonda-me, ó Deus, e conhece o meu coração; prova-me, e conhece os meus pensamentos. E vê se há em mim algum caminho mau, e guia-me pelo caminho eterno. "
         },
         {
             "referencia": [
@@ -76,35 +55,35 @@
                 "12",
                 "2"
             ],
-            "score": 0.9,
+            "score": 0.88,
             "conteudo": "E não sede conformados com este mundo, mas sede transformados pela renovação do vosso entendimento, para que experimenteis qual seja a boa, agradável, e perfeita vontade de Deus. "
         },
         {
             "referencia": [
-                "Gálatas",
-                "5",
-                "25"
-            ],
-            "score": 0.88,
-            "conteudo": "Se vivemos em Espírito, andemos também em Espírito. "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "4",
-                "23"
+                "Salmos",
+                "51",
+                "17"
             ],
             "score": 0.85,
-            "conteudo": "E vos renoveis no espírito da vossa mente; "
+            "conteudo": "Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus. "
         },
         {
             "referencia": [
-                "Jeremias",
-                "24",
-                "7"
+                "Filipenses",
+                "2",
+                "5"
+            ],
+            "score": 0.82,
+            "conteudo": "De sorte que haja em vós o mesmo sentimento que houve também em Cristo Jesus, "
+        },
+        {
+            "referencia": [
+                "Ezequiel",
+                "11",
+                "19"
             ],
             "score": 0.8,
-            "conteudo": "E dar-lhes-ei coração para que me conheçam, porque eu sou o Senhor; e ser-me-ão por povo, e eu lhes serei por Deus; porque se converterão a mim de todo o seu coração. "
+            "conteudo": "E lhes darei um só coração, e um espírito novo porei dentro deles; e tirarei da sua carne o coração de pedra, e lhes darei um coração de carne; "
         }
     ]
 }

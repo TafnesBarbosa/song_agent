@@ -1,0 +1,62 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/98374/",
+    "id": "98374",
+    "title": "Cada Instante",
+    "author": "Vencedores por Cristo",
+    "notes": "",
+    "year": "",
+    "key": "G",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 72,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "presença",
+        "adoração",
+        "gratidão",
+        "contemplativo",
+        "amor"
+    ],
+    "url": "https://www.youtube.com/watch?v=JNp-ar6fE1M",
+    "chord_chart": "[A]\n.G  D9/F#         F     F/G    C   Cm/Eb     Bm  E7\n CA        DA INSTANTE      CONTI---GO,   SENHOR,\n.    Am7     Cm7       Bm7  Em\n QUE PAS----SO A  TEUS PÉS\n.    Am  A/C#    Am/D  D7  \n EU SOU  MAIS  FELIZ\n\n[B]\n.G  D9/F#       F          C  Cm     Bm7  E7\n CA       DA INSTANTE  CONTI--GO, JESUS\n.   Am       Cm7     Bm7        E\n É PAZ EM MINH'ALMA SUAVE HARMONIA\n.   Am   D       Bm  E\n NO TEU GRANDE AMOR\n.  Am         Cm7    Bm7        Em\n É PAZ EM MINH'ALMA SUAVE HARMONIA\n.    Am   D       C  G/B  Am  G\n NO TEU  GRANDE AMOR",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "16",
+                "11"
+            ],
+            "score": 0.92,
+            "conteudo": "Far-me-ás ver a vereda da vida; na tua presença há fartura de alegrias; à tua mão direita há delícias perpetuamente. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "27",
+                "4"
+            ],
+            "score": 0.88,
+            "conteudo": "Uma coisa pedi ao Senhor, e a buscarei: que possa morar na casa do Senhor todos os dias da minha vida, para contemplar a formosura do Senhor, e inquirir no seu templo. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "73",
+                "28"
+            ],
+            "score": 0.85,
+            "conteudo": "Mas para mim, bom é aproximar-me de Deus; pus a minha confiança no Senhor DEUS, para anunciar todas as tuas obras. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "4",
+                "7"
+            ],
+            "score": 0.82,
+            "conteudo": "E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus. "
+        }
+    ]
+}

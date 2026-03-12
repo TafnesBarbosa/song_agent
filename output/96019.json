@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/96019/",
+    "id": "96019",
+    "title": "Todo Som",
+    "author": "Resgate",
+    "notes": "",
+    "year": "",
+    "key": "A",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "presença",
+        "adoração",
+        "gratidão",
+        "amor",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=Eiz6PeoNPYc",
+    "chord_chart": "[Intro]\n.A  |  A4/E  |  A  | A4/E \n[A]\n.  A               A4/E       A   A4/E\n Aquele que sonda o meu interior\n.      A          A4/E\n Me conhece por dentro\n.              A  A4/E\n Sabe como eu sou\n.   E               F#m\n Conhece os meus intentos\n.     E/G#           F#m\n E em tudo me faz viver\n.           D\n Eu ouço o som da Sua voz\n.E            A  |  A4/E | A | A4/E\n  Ele me faz ver\n\n[B]\n.   A               A4/E     A   A4/E\n Aquele que sonda o meu interior\n.     A         A4/E\n Me conhece por dentro\n.                    A  A4/E\n Tudo aquilo que eu sou\n.   E                F#m\n E nem ao Seu próprio filho\n.   E/G#         F#m\n Poupou em meu favor\n.        D\n Eu não quero mais sair\n.      E             A  | A4/E | A | A4/E\n Desse universo de amor\n\n[C]\n.   A              A/G\n À Ele todo som de todos nós\n.  D/F#              G\n À Ele em todo tom e toda voz\n.         A    | A4/E |  A |  A4/E  |\n Cantem glória",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "139",
+                "1-2"
+            ],
+            "score": 0.98,
+            "conteudo": "SENHOR, tu me sondaste, e me conheces. Tu sabes o meu assentar e o meu levantar; de longe entendes o meu pensamento. "
+        },
+        {
+            "referencia": [
+                "Romanos",
+                "8",
+                "32"
+            ],
+            "score": 0.95,
+            "conteudo": "Aquele que nem mesmo a seu próprio Filho poupou, antes o entregou por todos nós, como nos não dará também com ele todas as coisas? "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "139",
+                "23"
+            ],
+            "score": 0.92,
+            "conteudo": "Sonda-me, ó Deus, e conhece o meu coração; prova-me, e conhece os meus pensamentos. "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "4",
+                "12"
+            ],
+            "score": 0.85,
+            "conteudo": "Porque a palavra de Deus é viva e eficaz, e mais penetrante do que espada alguma de dois gumes, e penetra até à divisão da alma e do espírito, e das juntas e medulas, e é apta para discernir os pensamentos e intenções do coração. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "148",
+                "1-5"
+            ],
+            "score": 0.82,
+            "conteudo": "Louvai ao SENHOR. Louvai ao SENHOR desde os céus, louvai-o nas alturas. Louvai-o, todos os seus anjos; louvai-o, todos os seus exércitos. Louvai-o, sol e lua; louvai-o, todas as estrelas luzentes. Louvai-o, céus dos céus, e as águas que estão sobre os céus. Louvem o nome do Senhor, pois mandou, e logo foram criados. "
+        }
+    ]
+}

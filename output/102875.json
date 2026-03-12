@@ -1,0 +1,116 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/102875/",
+    "id": "102875",
+    "title": "Da Vida o Melhor",
+    "author": "Ipalpha",
+    "notes": "",
+    "year": "",
+    "key": "C",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "redentor",
+        "salvação",
+        "adoração",
+        "gratidão",
+        "celebrativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=EutDXB70lR8",
+    "chord_chart": "[Intro 2x]\n.F  Am  G4\n\n[A]\n.F  Am  G       F Am   G       F Am     G     F Am  G\n   Nova vida.     Para sempre.   Uma família.  Ale--gria\n.F   Am  G\n Oh--oh--oh (2x)\n\n[B]\n.F  Am   G    F     Am     G   F  Am    G   F    Am      G\n   Caminhar,    o amor buscar.   Aprender,    a luz brilhar\n\n[C]\n.  F               Am      G        F              Am          G\n Saber que a gente pode crescer. Viver, chorar, dançar e se alegrar\n.F   Am  G\n Oh--Oh--Oh (4x)\n\n[D]\n.     C       G    Am        Em\n Para nós Ele é da vida, o melhor\n.         F         G       F/A   G\n Nosso mover e existir, paraíso aqui\n.      C        G        Am        Em\n Só a Ele entregar o princípio e o fim\n.      F        G      F/A     G/B\n Do universo o Rei, do mundo a luz\n\n[Interlúdio]\n.Am  |  F  |  C  |  G/B  |\n\n[E]\n.Am        F       C       G   Am            F       C    G\n Vida, verdade, caminho e paz. Luz sobre as trevas, redentor\n \n[F 3x]\n.    Am            F          C          G/B\n     Vida,      verdade,    caminho   e  paz\n (Nosso refúgio,  fortaleza. Nossa força nas batalhas)\n.    Am            F/A        C               G  ( Em )\n     Luz sobre as trevas,     re____________dentor\n (   O perfeito   sacrifício. Verbo em carne, Rei dos reis)\n\n[F]\n.     C       G    Am         Em\n Para nós Ele é da vida, o melhor\n.         F         G      F/A   G/B\n Nosso mover e existir, paraíso aqui\n.     C        G          Am        Em\n Só a Ele entregar o princípio e o fim\n.      F        G      F/A     G/B | C |\n Do universo o Rei, do mundo a luz",
+    "verses": [
+        {
+            "referencia": [
+                "João",
+                "14",
+                "6"
+            ],
+            "score": 0.98,
+            "conteudo": "Disse-lhe Jesus: Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por mim. "
+        },
+        {
+            "referencia": [
+                "João",
+                "1",
+                "14"
+            ],
+            "score": 0.98,
+            "conteudo": "E o Verbo se fez carne, e habitou entre nós, e vimos a sua glória, como a glória do unigênito do Pai, cheio de graça e de verdade. "
+        },
+        {
+            "referencia": [
+                "Atos",
+                "17",
+                "28"
+            ],
+            "score": 0.95,
+            "conteudo": "Porque nele vivemos, e nos movemos, e existimos; como também alguns dos vossos poetas disseram: Pois somos também sua geração. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "46",
+                "1"
+            ],
+            "score": 0.95,
+            "conteudo": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. "
+        },
+        {
+            "referencia": [
+                "João",
+                "8",
+                "12"
+            ],
+            "score": 0.95,
+            "conteudo": "Falou-lhes, pois, Jesus outra vez, dizendo: Eu sou a luz do mundo; quem me segue não andará em trevas, mas terá a luz da vida. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "1",
+                "8"
+            ],
+            "score": 0.92,
+            "conteudo": "Eu sou o Alfa e o Ômega, o princípio e o fim, diz o Senhor, que é, e que era, e que há de vir, o Todo-Poderoso. "
+        },
+        {
+            "referencia": [
+                "2 Coríntios",
+                "5",
+                "17"
+            ],
+            "score": 0.9,
+            "conteudo": "Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo. "
+        },
+        {
+            "referencia": [
+                "Colossenses",
+                "1",
+                "16-17"
+            ],
+            "score": 0.9,
+            "conteudo": "Porque nele foram criadas todas as coisas que há nos céus e na terra, visíveis e invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades. Tudo foi criado por ele e para ele. E ele é antes de todas as coisas, e todas as coisas subsistem por ele. "
+        },
+        {
+            "referencia": [
+                "João",
+                "3",
+                "16"
+            ],
+            "score": 0.88,
+            "conteudo": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna. "
+        },
+        {
+            "referencia": [
+                "Filipenses",
+                "4",
+                "4"
+            ],
+            "score": 0.8,
+            "conteudo": "Regozijai-vos sempre no Senhor; outra vez digo, regozijai-vos. "
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/95796/",
+    "id": "95796",
+    "title": "Adorai em Majestade",
+    "author": "",
+    "notes": "",
+    "year": "",
+    "key": "G",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 120,
+    "feel": "Rápido",
+    "theme": "",
+    "tags": [
+        "rei",
+        "santidade",
+        "adoração",
+        "glória",
+        "celebrativo"
+    ],
+    "url": "https://youtu.be/hGfcPs3NjLI?si=djR1Iysen6id0d67|https://www.youtube.com/watch?v=7Qz3ZWIgxNk",
+    "chord_chart": "[A]\n.G         Am  G/B   C   G/B  Am\n ADORAI EM MA--JES--TADE\n.        G          Em             F D\n TODA A GLÓRIA SEJA DADA A CRISTO JESUS\n.G         Am  G/B  C    G/B  Am\n ADORAI EM SAN--TI—DADE\n.     G              D                G    G/C\n ELE MORREU, ELE VENCEU É O REI DOS REIS\n\n[B]\n.    D              D#º              Em\n ADORAI BEM ALTO ERGUEI DE CRISTO O NOME\n.    D        D#º                 B7  Am  D\n EXALTAI GLORIFICAI JESUS CRISTO REI\n.G         Am  G/B   C   G/B  Am\n ADORAI EM SAN--TI--DADE\n.       G            D  D#º          Em   A\n ELE MORREU, ELE VENCEU  É O REI DOS REIS\n.Am     G            D                G\n ELE MORREU, ELE VENCEU É O REI DOS REIS",
+    "verses": [
+        {
+            "referencia": [
+                "Salmos",
+                "29",
+                "2"
+            ],
+            "score": 0.98,
+            "conteudo": "Dai ao Senhor a glória devida ao seu nome, adorai o Senhor na beleza da santidade. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "19",
+                "16"
+            ],
+            "score": 0.95,
+            "conteudo": "E no manto e na sua coxa tem escrito este nome: Rei dos reis, e Senhor dos senhores. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "96",
+                "6"
+            ],
+            "score": 0.92,
+            "conteudo": "Glória e majestade estão ante a sua face, força e formosura no seu santuário. "
+        },
+        {
+            "referencia": [
+                "1 Pedro",
+                "3",
+                "22"
+            ],
+            "score": 0.88,
+            "conteudo": "O qual está à destra de Deus, tendo subido ao céu, havendo-se-lhe sujeitado os anjos, e as autoridades, e as potências. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "5",
+                "12"
+            ],
+            "score": 0.85,
+            "conteudo": "Que com grande voz diziam: Digno é o Cordeiro, que foi morto, de receber o poder, e riquezas, e sabedoria, e força, e honra, e glória, e ações de graças. "
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/96280/",
+    "id": "96280",
+    "title": "Alvo Mais Que a Neve (Fernandinho)",
+    "author": "Fernandinho",
+    "notes": "",
+    "year": "",
+    "key": "D",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "cruz",
+        "redentor",
+        "perdão",
+        "adoração",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=dlEOFHgtE14",
+    "chord_chart": "[Intro - 2x]\n.Bm   A   G\n\n[A1]\n.D                Bm             A\n BENDITO SEJA O CORDEIRO QUE NA CRUZ POR NÓS PADECEU;\n.D                  Bm             A                    D\n BENDITO SEJA O SEU SANGUE QUE POR NÓS, PECADORES, VERTEU!\n.G                 Bm7    G                         A\n EIS NESSE SANGUE LAVADOS COM VESTES QUE TÃO ALVAS SÃO,\n.D              Bm    \n OS PECADORES REMIDOS,\n.       A                     D\n QUE PERANTE SEU DEUS HOJE ESTÃO!\n\n[Refrão]\n.D              A/C#   G               D\n ALVO MAIS QUE A NEVE, ALVO MAIS QUE A NEVE!\n.D/F#                 G          D          A      D\n SIM, NESSE SANGUE LAVADO, MAIS ALVO QUE A NEVE SEREI.\n\n[A2]\n.D                  Bm         A\n QUÃO ESPINHOSA A COROA QUE JESUS POR NÓS SUPORTOU;\n.D                      Bm             A                    D\n OH! QUÃO PROFUNDAS AS CHAGAS QUE NOS PROVAM O QUANTO ELE AMOU!\n.G                      Bm7   G                     A\n EIS, NESSAS CHAGAS, PUREZA  PARA O MAIS TORPE PECADOR,\n. D                          Bm \n POIS QUE, MAIS ALVOS QUE A NEVE\n.       A                    D\n O TEU SANGUE NOS TORNA, SENHOR!\n\n[A3]\n.D                  Bm          A\n SE NÓS A TI CONFESSARMOS, E SEGUIRMOS A TUA LUZ,\n.D                 Bm         A                 D\n TU NÃO SOMENTE PERDOAS; PURIFICAS TAMBÉM, Ó JESUS;\n.G                Bm7    G                   A\n LIVRES DE TODO PECADO! QUE MARAVILHA ESSE AMOR!\n. D                          Bm  \n POIS QUE, MAIS ALVOS QUE A NEVE\n.       A                    D\n O TEU SANGUE NOS TORNA, SENHOR!",
+    "verses": [
+        {
+            "referencia": [
+                "Isaías",
+                "1",
+                "18"
+            ],
+            "score": 0.98,
+            "conteudo": "Vinde então, e argüi-me, diz o Senhor: ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve; ainda que sejam vermelhos como o carmesim, se tornarão como a branca lã. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "7",
+                "14"
+            ],
+            "score": 0.95,
+            "conteudo": "E eu disse-lhe: Senhor, tu sabes. E ele disse-me: Estes são os que vieram da grande tribulação, e lavaram as suas vestes e as branquearam no sangue do Cordeiro. "
+        },
+        {
+            "referencia": [
+                "1 João",
+                "1",
+                "7"
+            ],
+            "score": 0.92,
+            "conteudo": "Mas, se andarmos na luz, como ele na luz está, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o pecado. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "51",
+                "7"
+            ],
+            "score": 0.9,
+            "conteudo": "Purifica-me com hissopo, e ficarei puro; lava-me, e ficarei mais branco do que a neve. "
+        },
+        {
+            "referencia": [
+                "1 Pedro",
+                "1",
+                "18-19"
+            ],
+            "score": 0.88,
+            "conteudo": "Sabendo que não foi com coisas corruptíveis, como prata ou ouro, que fostes resgatados da vossa vã maneira de viver que por tradição recebestes dos vossos pais, Mas com o precioso sangue de Cristo, como de um cordeiro imaculado e incontaminado, "
+        },
+        {
+            "referencia": [
+                "Hebreus",
+                "9",
+                "14"
+            ],
+            "score": 0.85,
+            "conteudo": "Quanto mais o sangue de Cristo, que pelo Espírito eterno se ofereceu a si mesmo imaculado a Deus, purificará as vossas consciências das obras mortas, para servirdes ao Deus vivo? "
+        }
+    ]
+}

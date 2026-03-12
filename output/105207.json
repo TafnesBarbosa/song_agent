@@ -8,11 +8,17 @@
     "key": "A",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 108,
+    "feel": "Médio",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "glória",
+        "soberania",
+        "fidelidade",
+        "adoração",
+        "celebrativo"
+    ],
     "url": "https://www.youtube.com/watch?v=Yi-8aV14bLo",
     "chord_chart": "[A]\n.  A       E/A             D/A     A\n Não a nós, Senhor, Não a nós, Senhor\n.E/G#  F#m7    B7      E4   E\n Mas, ao Teu nome dá gló-ria\n.A            A7    D   C#7   D        E     D/A   A\n Por amor da Tua misericórdia e da Tua fidelida____de\n.                                             G\n                                           (2a vez)\n\n[B]\n.D        E/D     C#m7  F#m7    D     E7       D/A    A\n Por que perguntam as nações: \"Onde está o vosso De- us\"?\n.D       E/D   C#7   F#m7       B7                D/E  E7\n No céu está o nosso Deus, que tudo faz como lhe agra- da\n\n[A..]\n\n[C]\n.D        E/D    C#m7  F#m7    D    E7       D/A    A\n Por que confiam as nações em ouro, prata e rique-zas\n.D       E/D  C#7  F#m7         B7     D/E       E7\n E se afastam do Senhor, que é fonte de todas as bên-çãos?\n\n[A...]\n\n[D]\n.  A       E/A             D/A     A\n Não a nós, Senhor, Não a nós, Senhor\n.E/G#  F#m7    B7     E4    E\n Mas, ao Teu nome dá gló-ria",
     "verses": [
@@ -22,7 +28,7 @@
                 "115",
                 "1"
             ],
-            "score": 1.0,
+            "score": 0.99,
             "conteudo": "Não a nós, SENHOR, não a nós, mas ao teu nome dá glória, por amor da tua benignidade e da tua verdade. "
         },
         {
@@ -31,7 +37,7 @@
                 "115",
                 "2"
             ],
-            "score": 0.98,
+            "score": 0.99,
             "conteudo": "Porque dirão os gentios: Onde está o seu Deus? "
         },
         {
@@ -47,28 +53,28 @@
             "referencia": [
                 "Salmos",
                 "115",
-                "4-7"
+                "4"
             ],
             "score": 0.9,
-            "conteudo": "Os ídolos deles são prata e ouro, obra das mãos dos homens. Têm boca, mas não falam; olhos têm, mas não vêem. Têm ouvidos, mas não ouvem; narizes têm, mas não cheiram. Têm mãos, mas não apalpam; pés têm, mas não andam; nem som algum sai da sua garganta. "
+            "conteudo": "Os ídolos deles são prata e ouro, obra das mãos dos homens. "
         },
         {
             "referencia": [
-                "Daniel",
-                "4",
-                "35"
+                "Salmos",
+                "115",
+                "5-7"
             ],
-            "score": 0.9,
-            "conteudo": "E todos os moradores da terra são reputados em nada, e segundo a sua vontade ele opera com o exército do céu e os moradores da terra; não há quem possa estorvar a sua mão, e lhe diga: Que fazes? "
+            "score": 0.88,
+            "conteudo": "Têm boca, mas não falam; olhos têm, mas não vêem. Têm ouvidos, mas não ouvem; narizes têm, mas não cheiram. Têm mãos, mas não apalpam; pés têm, mas não andam; nem som algum sai da sua garganta. "
         },
         {
             "referencia": [
-                "Tiago",
-                "1",
-                "17"
+                "Salmos",
+                "115",
+                "8"
             ],
             "score": 0.85,
-            "conteudo": "Toda a boa dádiva e todo o dom perfeito vem do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação. "
+            "conteudo": "A eles se tornem semelhantes os que os fazem, assim como todos os que neles confiam. "
         }
     ]
 }

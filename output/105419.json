@@ -8,40 +8,28 @@
     "key": "D",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 108,
+    "feel": "Médio",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "redenção",
+        "adoração",
+        "gratidão",
+        "esperança",
+        "alegre"
+    ],
     "url": "https://www.youtube.com/watch?v=oVqW6PU6w0s",
     "chord_chart": "[Intro]\n.D\n\n[A]\n.          D          A              G\n Fonte és Tu de toda bênção, Vem o canto me inspirar\n.     D          A            G\n A misericórdia Tua quero em alto som louvar\n.       G           A           G            D\n Oh, ensina o novo canto Dos remidos lá dos céus\n.        D\n Ao teu servo e ao povo santo, pra louvarmos-Te, bom Deus!\n\n[Interlúdio]\n.D  G\n\n[B]\n.       D          A            G\n Ao Senhor eu agradeço pois Jesus me socorreu\n.       D           A            G\n E por sua graça espero transportar-me para o céu\n.       G          A            G                D\n Eu perdido, procurou-me longe do meu Deus, sem luz\n.       D            A              G              D\n Dos pecados meus lavou-me Com seu sangue o bom Jesus\n\n[Interlúdio]\n.D  A  G  G\n\n[C]\n.     D         A          G\n Devedor à Tua graça cada dia e hora sou\n.        D           A               G\n Teu cuidado sempre faça com que eu ame a Ti, Senhor\n.       G         A              G            D\n O meu ser é vacilante toma-o, prende-o com amor\n.          D              A           G             D\n Para que ele, a todo instante, glorifique a Ti, Senhor!\n \n[Fine]\n.D",
     "verses": [
         {
             "referencia": [
-                "Apocalipse",
-                "5",
-                "9"
+                "Salmos",
+                "103",
+                "2-4"
             ],
-            "score": 0.98,
-            "conteudo": "E cantavam um novo cântico, dizendo: Digno és de tomar o livro, e de abrir os seus selos; porque foste morto, e com o teu sangue nos compraste para Deus de toda a tribo, e língua, e povo, e nação; "
-        },
-        {
-            "referencia": [
-                "1 João",
-                "1",
-                "7"
-            ],
-            "score": 0.97,
-            "conteudo": "Mas, se andarmos na luz, como ele na luz está, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o pecado. "
-        },
-        {
-            "referencia": [
-                "Tito",
-                "3",
-                "5"
-            ],
-            "score": 0.93,
-            "conteudo": "Não pelas obras de justiça que houvéssemos feito, mas segundo a sua misericórdia, nos salvou pela lavagem da regeneração e da renovação do Espírito Santo, "
+            "score": 0.95,
+            "conteudo": "Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios. Ele é o que perdoa todas as tuas iniqüidades, que sara todas as tuas enfermidades, Que redime a tua vida da perdição; que te coroa de benignidade e de misericórdia, "
         },
         {
             "referencia": [
@@ -49,8 +37,35 @@
                 "2",
                 "4-5"
             ],
-            "score": 0.93,
+            "score": 0.95,
             "conteudo": "Mas Deus, que é riquíssimo em misericórdia, pelo seu muito amor com que nos amou, Estando nós ainda mortos em nossas ofensas, nos vivificou juntamente com Cristo (pela graça sois salvos), "
+        },
+        {
+            "referencia": [
+                "1 João",
+                "1",
+                "7"
+            ],
+            "score": 0.92,
+            "conteudo": "Mas, se andarmos na luz, como ele na luz está, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o pecado. "
+        },
+        {
+            "referencia": [
+                "Apocalipse",
+                "1",
+                "5"
+            ],
+            "score": 0.92,
+            "conteudo": "E da parte de Jesus Cristo, que é a fiel testemunha, o primogênito dentre os mortos e o príncipe dos reis da terra. Àquele que nos amou, e em seu sangue nos lavou dos nossos pecados, "
+        },
+        {
+            "referencia": [
+                "Tito",
+                "3",
+                "5"
+            ],
+            "score": 0.9,
+            "conteudo": "Não pelas obras de justiça que houvéssemos feito, mas segundo a sua misericórdia, nos salvou pela lavagem da regeneração e da renovação do Espírito Santo, "
         },
         {
             "referencia": [
@@ -58,44 +73,26 @@
                 "19",
                 "10"
             ],
-            "score": 0.92,
+            "score": 0.9,
             "conteudo": "Porque o Filho do homem veio buscar e salvar o que se havia perdido. "
         },
         {
             "referencia": [
-                "Romanos",
-                "5",
-                "8-9"
-            ],
-            "score": 0.91,
-            "conteudo": "Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores. Logo muito mais agora, tendo sido justificados pelo seu sangue, seremos por ele salvos da ira. "
-        },
-        {
-            "referencia": [
-                "2 Coríntios",
-                "5",
-                "15"
+                "Salmos",
+                "40",
+                "3"
             ],
             "score": 0.9,
-            "conteudo": "E ele morreu por todos, para que os que vivem não vivam mais para si, mas para aquele que por eles morreu e ressuscitou. "
+            "conteudo": "E pôs um novo cântico na minha boca, um hino ao nosso Deus; muitos o verão, e temerão, e confiarão no Senhor. "
         },
         {
             "referencia": [
-                "Salmos",
-                "103",
-                "2-4"
+                "Judas",
+                "1",
+                "24"
             ],
-            "score": 0.89,
-            "conteudo": "Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios. Ele é o que perdoa todas as tuas iniqüidades, que sara todas as tuas enfermidades, Que redime a tua vida da perdição; que te coroa de benignidade e de misericórdia, "
-        },
-        {
-            "referencia": [
-                "João",
-                "15",
-                "4-5"
-            ],
-            "score": 0.87,
-            "conteudo": "Estai em mim, e eu em vós; como a vara de si mesma não pode dar fruto, se não estiver na videira, assim também vós, se não estiverdes em mim. Eu sou a videira, vós as varas; quem está em mim, e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer. "
+            "score": 0.9,
+            "conteudo": "Ora, àquele que é poderoso para vos guardar de tropeçar, e apresentar-vos irrepreensíveis, com alegria, perante a sua glória, "
         },
         {
             "referencia": [
@@ -103,8 +100,17 @@
                 "1",
                 "6"
             ],
-            "score": 0.82,
+            "score": 0.88,
             "conteudo": "Tendo por certo isto mesmo, que aquele que em vós começou a boa obra a aperfeiçoará até ao dia de Jesus Cristo; "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "36",
+                "9"
+            ],
+            "score": 0.85,
+            "conteudo": "Porque em ti está o manancial da vida; na tua luz veremos a luz. "
         }
     ]
 }

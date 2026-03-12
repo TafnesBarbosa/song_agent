@@ -1,0 +1,52 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/88782/",
+    "id": "88782",
+    "title": "Mente e Coração",
+    "author": "Vencedores por Cristo",
+    "notes": "",
+    "year": "",
+    "key": "G",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
+    "theme": "",
+    "tags": [
+        "confiança",
+        "oração",
+        "adoração",
+        "contemplativo"
+    ],
+    "url": "https://www.youtube.com/watch?v=5eH6TKKZn90",
+    "chord_chart": "[A]\n.G  C9        G/B    Gm\n AH!   COMO É BOM PODER \n.           Asus4  A7     D  D7\n AOS PÉS DA CRUZ   DEPOSITAR\n.G C9          G/B  GmBb           Asus4      A7     D\n ES---  TE MEU FARDO     PESADO E ÁRDUO  DE CARREGAR\n.C              G/B            Am7     Dsus4\n E NÃO TER DE ANDAR ANSIOSO DE NADA, SENÃO\n.C              G/B          Am           D7sus4   D7   B7/D#   Em\n A DEUS TUDO LEVAR EM GRATA SÚPLICE, E ORAÇÃO\n.            B      C  G/B      A7           Dsus4\n E A PAZ DE DEUS ENTÃO MENTE E CORAÇÃO GUARDARÁ\n.             G\n EM CRISTO JESUS.\n\n[B]\n.G  C9       G/B    Gm/Bb\n AH!  COMO É BOM PODER \n.           Asus4  A7     D  D7\n AOS PÉS DA CRUZ   DEPOSITAR\n.G C9           G/B  Gm/Bb         Asus4   A7      D\n ES---  TE MEU FARDO       PESADO E ÁRDUO  DE CARREGAR\n.C              G/B            Am7     Dsus4\n E NÃO TER DE ANDAR ANSIOSO DE NADA, SENÃO\n.C            G/B          A7           Dsus4  D7  B7/D#  Em\n SOBRE ELE LANÇAR CADA PROBLEMA CADA AFLIÇÃO\n.            B      C  G/B     A7           Dsus4\n E A PAZ DE DEUS ENTÃO MENTE E CORAÇÃO GUARDARÁ\n.             G    C9           G     C9\n EM CRISTO JESUS.  AH!  COMO É BOM PODER \n.            G\n COMO É BOM SABER.",
+    "verses": [
+        {
+            "referencia": [
+                "Filipenses",
+                "4",
+                "6-7"
+            ],
+            "score": 0.98,
+            "conteudo": "Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica, com ação de graças. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus. "
+        },
+        {
+            "referencia": [
+                "Mateus",
+                "11",
+                "28-30"
+            ],
+            "score": 0.92,
+            "conteudo": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei. Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para as vossas almas. Porque o meu jugo é suave e o meu fardo é leve. "
+        },
+        {
+            "referencia": [
+                "1 Pedro",
+                "5",
+                "7"
+            ],
+            "score": 0.88,
+            "conteudo": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós. "
+        }
+    ]
+}

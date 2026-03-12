@@ -1,0 +1,70 @@
+{
+    "songlib_url": "https://songlib.com/songs/4297/97104/",
+    "id": "97104",
+    "title": "Antífona",
+    "author": "Cantor Cristão / IPALPHA",
+    "notes": "",
+    "year": "",
+    "key": "C",
+    "ccli": "",
+    "copyright": "",
+    "time_sig": "4/4",
+    "tempo": 100,
+    "feel": "Médio",
+    "theme": "",
+    "tags": [
+        "adoração",
+        "gratidão",
+        "celebrativo",
+        "glória"
+    ],
+    "url": "https://www.youtube.com/watch?v=M4_NZY-T8Gw",
+    "chord_chart": "[Intro]\n.C  | F |  C  |  F  |\n\n[A]\n.C               F            C\n A TI, Ó DEUS, FIEL E BOM SENHOR,\n.Am      F      D           G \n ETERNO PAI, SUPREMO BENFEITOR,\n. C            Am   Am/G  F           Dm\n NÓS, OS TEUS SER---VOS, VIMOS DAR LOUVOR,\n.G   C    F     G   C\n ALELUIA! A--LELUI--A!\n \n[Interlúdio]\n.C  | F |  C  |  F  |\n\n[B]\n.C                  F          C\n A TI, DEUS FILHO, SALVADOR JESUS, \n.Am          F      D            G \n DA GRAÇA A FONTE, DA VERDADE A LUZ,\n. C       Am   Am/G   F          Dm\n POR TEU AMOR,  ME---DIDO  PELA CRUZ,\n.G   C    F     G   C\n ALELUIA! A--LELUI--A!\n\n[C]\n.C               F          C\n A TI, Ó DEUS, REAL CONSOLADOR,\n.Am      F    D        G \n DIVINO FOGO SANTIFICADOR,\n. C      Am   Am/G    F             Dm\n QUE NOS ANI---MA  E NOS ACENDE O AMOR,\n.G   C    F     G   C\n ALELUIA! A--LELUI--A!\n\n[D]\n.C                  F        C\n A TI, DEUS TRINO, PODEROSO DEUS,\n.Am            F     D                G \n QUE ESTÁS PRESENTE SEMPRE JUNTO AOS TEUS,\n.C       Am   Am/G   F              Dm\n A MINISTRAR  AS    BÊNCÃOS LÁ DOS CÉUS,\n.G   C    F     G   C\n ALELUIA! A--LELUI--A!",
+    "verses": [
+        {
+            "referencia": [
+                "Mateus",
+                "28",
+                "19"
+            ],
+            "score": 0.95,
+            "conteudo": "Portanto ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo; "
+        },
+        {
+            "referencia": [
+                "2 Coríntios",
+                "13",
+                "14"
+            ],
+            "score": 0.92,
+            "conteudo": "A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo seja com todos vós. Amém. "
+        },
+        {
+            "referencia": [
+                "Efésios",
+                "2",
+                "8-9"
+            ],
+            "score": 0.88,
+            "conteudo": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. Não vem das obras, para que ninguém se glorie; "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "145",
+                "1-2"
+            ],
+            "score": 0.85,
+            "conteudo": "Eu te exaltarei, ó Deus, rei meu, e bendirei o teu nome pelos séculos dos séculos e para sempre. Cada dia te bendirei, e louvarei o teu nome pelos séculos dos séculos e para sempre. "
+        },
+        {
+            "referencia": [
+                "1 Pedro",
+                "1",
+                "2"
+            ],
+            "score": 0.82,
+            "conteudo": "Eleitos segundo a presciência de Deus Pai, em santificação do Espírito, para a obediência e aspersão do sangue de Jesus Cristo: Graça e paz vos sejam multiplicadas. "
+        }
+    ]
+}

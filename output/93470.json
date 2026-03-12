@@ -8,85 +8,55 @@
     "key": "D",
     "ccli": "",
     "copyright": "",
-    "time_sig": "",
-    "tempo": "",
-    "feel": "",
+    "time_sig": "4/4",
+    "tempo": 76,
+    "feel": "Lento",
     "theme": "",
-    "tags": "",
+    "tags": [
+        "presença",
+        "oração",
+        "gratidão",
+        "contemplativo",
+        "amor"
+    ],
     "url": "https://www.youtube.com/live/EwOe0aHUaBg?t=1880",
     "chord_chart": "[Intro 2x]\n.|| D  D/C  | G/B  Gm7/Bb  |  D/A  Bm  |  C  G/B G/A ||\n\n[A]\n.D             A/D \n Vem derrama a paz  \n.G/D                D  D/F# \n Vem derrama as bençãos  \n.G         D/F#         Em         G/A \n Sobre este povo que se chama povo Teu  \n.D            A/D \n Dá-nos Teu amor  \n.G/D         D/A   D/F# \n Dá-nos Tua força  \n.G          D/F#              Em        G/A \n Pra que tentações não venham a nos desviar  \n\n[B]\n.G   A/G         F#m    Bm \n E a glória seja dada a Ti  \n.G              A/G   \n Pelo que tens feito  \n.F#m           Bm \n Pelo que tens sido  \n.Em        G/A       D  G/A  ( E9+7  F69+  D/F# )\n Pelo que farás em nós  \n\n[Volta início...]\n\n[C]\n.G   A/G         F#m   Bm \n E a glória seja dada a Ti  \n.G              A/G\n Pelo que tens feito  \n.F#m            Bm \n Pelo que tens sido  \n.Em          G/A     D  ( E9+7  F69+  D/F# )\n Pelo que farás em nós  \n\n[D]\n.G    A/G        F#m    Bm \n E a glória seja dada a Ti  \n.G              A/G\n Pelo que tens feito  \n.F#m            Bm \n Pelo que tens sido  \n.Em         G/A     D  Bm \n Pelo que farás em nós  \n.G  D/F# Em   D  G/A     D \n Pelo    que  fa_rás em nós",
     "verses": [
-        {
-            "referencia": [
-                "Malaquias",
-                "3",
-                "10"
-            ],
-            "score": 0.95,
-            "conteudo": "Trazei todos os dízimos à casa do tesouro, para que haja mantimento na minha casa, e depois fazei prova de mim nisto, diz o Senhor dos Exércitos, se eu não vos abrir as janelas do céu, e não derramar sobre vós uma bênção tal até que não haja lugar suficiente para a recolherdes. "
-        },
-        {
-            "referencia": [
-                "Mateus",
-                "6",
-                "13"
-            ],
-            "score": 0.95,
-            "conteudo": "E não nos conduzas à tentação; mas livra-nos do mal; porque teu é o reino, e o poder, e a glória, para sempre. Amém. "
-        },
-        {
-            "referencia": [
-                "Romanos",
-                "11",
-                "36"
-            ],
-            "score": 0.95,
-            "conteudo": "Porque dele e por ele, e para ele, são todas as coisas; glória, pois, a ele eternamente. Amém. "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "3",
-                "20-21"
-            ],
-            "score": 0.95,
-            "conteudo": "Ora, àquele que é poderoso para fazer tudo muito mais abundantemente além daquilo que pedimos ou pensamos, segundo o poder que em nós opera, A esse glória na igreja, por Jesus Cristo, em todas as gerações, para todo o sempre. Amém. "
-        },
         {
             "referencia": [
                 "Números",
                 "6",
                 "24-26"
             ],
-            "score": 0.9,
+            "score": 0.92,
             "conteudo": "O Senhor te abençoe e te guarde; O Senhor faça resplandecer o seu rosto sobre ti, e tenha misericórdia de ti; O Senhor sobre ti levante o seu rosto e te dê a paz. "
         },
         {
             "referencia": [
-                "1 Pedro",
-                "2",
-                "9-10"
+                "2 Crônicas",
+                "7",
+                "14"
             ],
-            "score": 0.9,
-            "conteudo": "Mas vòs sois a geração eleita, o sacerdòcio real, a nação santa, o povo adquirido, para que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz; Vós, que em outro tempo não éreis povo, mas agora sois povo de Deus; que não tínheis alcançado misericórdia, mas agora alcançastes misericórdia. "
+            "score": 0.88,
+            "conteudo": "E se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face e se converter dos seus maus caminhos, então eu ouvirei dos céus, e perdoarei os seus pecados, e sararei a sua terra. "
         },
         {
             "referencia": [
-                "1 Pedro",
+                "Filipenses",
                 "4",
-                "11"
-            ],
-            "score": 0.9,
-            "conteudo": "Se alguém falar, fale segundo as palavras de Deus; se alguém administrar, administre segundo o poder que Deus dá; para que em tudo Deus seja glorificado por Jesus Cristo, a quem pertence a glória e poder para todo o sempre. Amém. "
-        },
-        {
-            "referencia": [
-                "Efésios",
-                "3",
-                "16"
+                "7"
             ],
             "score": 0.85,
-            "conteudo": "Para que, segundo as riquezas da sua glória, vos conceda que sejais corroborados com poder pelo seu Espírito no homem interior; "
+            "conteudo": "E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus. "
+        },
+        {
+            "referencia": [
+                "Salmos",
+                "115",
+                "1"
+            ],
+            "score": 0.82,
+            "conteudo": "Não a nós, SENHOR, não a nós, mas ao teu nome dá glória, por amor da tua benignidade e da tua verdade. "
         },
         {
             "referencia": [
@@ -94,7 +64,7 @@
                 "10",
                 "13"
             ],
-            "score": 0.85,
+            "score": 0.8,
             "conteudo": "Não veio sobre vós tentação, senão humana; mas fiel é Deus, que não vos deixará tentar acima do que podeis, antes com a tentação dará também o escape, para que a possais suportar. "
         }
     ]
