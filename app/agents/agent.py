@@ -106,7 +106,7 @@ def completar_song(song_json, lyric_json):
         song_json['verses'] = verses
         return song_json, parar
 
-def song_picker():
+def song_picker(texto_biblico):
     parar = False
     try:
         with open(os.path.join(PROMPTS_PATH, 'song_picker', 'syst_prompt.txt'), encoding='utf-8') as file:
@@ -118,7 +118,7 @@ def song_picker():
         musicas = read_json('musicas.json')
         sys_instr = sys_instr.replace('{musicas_replace}', f'{musicas}')
 
-        user_prompt = user_prompt.replace('{texto_biblico_replace}', """Ora, quando cheguei a Trôade para pregar o evangelho de Cristo, e uma porta se me abriu no Senhor, não tive, contudo, tranquilidade no meu espírito, porque não encontrei o meu irmão Tito; por isso, despedindo-me deles, parti para a  Macedônia. Graças, porém, a Deus, que, em Cristo, sempre nos conduz em triunfo e, por meio de nós, manifesta em todo lugar a fragrância do seu conhecimento. Porque nós somos para com Deus o bom perfume de Cristo, tanto nos que são salvos como nos que se perdem. Para com estes, cheiro de morte para morte; para com aqueles, aroma de vida para vida. Quem, porém, é suficiente para estas coisas? Porque nós não estamos, como tantos outros, mercadejando a palavra de Deus; antes, em Cristo é que falamos na presença de Deus, com sinceridade e da parte do próprio Deus.""")
+        user_prompt = user_prompt.replace('{texto_biblico_replace}', f'{texto_biblico}')
 
         response = GeminiClient.generate_content(
             contents=[user_prompt],

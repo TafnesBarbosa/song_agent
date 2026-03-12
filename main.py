@@ -46,5 +46,5 @@ if __name__ == '__main__':
     #             del verse['texto']
     #     write_json(song_json, song_path)
     # write_songs_text('/home/tafnes/Documentos/Python/Louvor/songlib/songs')
-    response, parar = song_picker()
+    response, parar = song_picker("""Ora, quando cheguei a Trôade para pregar o evangelho de Cristo, e uma porta se me abriu no Senhor, não tive, contudo, tranquilidade no meu espírito, porque não encontrei o meu irmão Tito; por isso, despedindo-me deles, parti para a  Macedônia. Graças, porém, a Deus, que, em Cristo, sempre nos conduz em triunfo e, por meio de nós, manifesta em todo lugar a fragrância do seu conhecimento. Porque nós somos para com Deus o bom perfume de Cristo, tanto nos que são salvos como nos que se perdem. Para com estes, cheiro de morte para morte; para com aqueles, aroma de vida para vida. Quem, porém, é suficiente para estas coisas? Porque nós não estamos, como tantos outros, mercadejando a palavra de Deus; antes, em Cristo é que falamos na presença de Deus, com sinceridade e da parte do próprio Deus.""")
     print(response)
